@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beef_2003",
+  "title": "Beef",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4879739",
+    "imdb": "tt0361354",
+    "tmdb": 65768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

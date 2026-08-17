@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_murder_2_closing_camp_2003",
+  "title": "Bloody Murder 2: Closing Camp",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2435980",
+    "imdb": "tt0303732",
+    "tmdb": 103971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

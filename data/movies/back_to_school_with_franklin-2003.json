@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_school_with_franklin_2003",
+  "title": "Back to School with Franklin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4839451",
+    "imdb": "tt0420511",
+    "tmdb": 153936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

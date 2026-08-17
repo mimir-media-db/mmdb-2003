@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_between_hitler_and_stalin_2003",
+  "title": "Between Hitler and Stalin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4899098",
+    "imdb": "tt5908120",
+    "tmdb": 1189752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

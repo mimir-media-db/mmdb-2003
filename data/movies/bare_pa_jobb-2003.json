@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bare_pa_jobb_2003",
+  "title": "Bare på jobb",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4860312",
+    "imdb": "tt0384829",
+    "tmdb": 669841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

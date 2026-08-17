@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_best_two_years_2003",
+  "title": "The Best Two Years",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7716831",
+    "imdb": "tt0377038",
+    "tmdb": 16668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

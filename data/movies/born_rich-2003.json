@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_rich_2003",
+  "title": "Born Rich",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q893922",
+    "imdb": "tt0342143",
+    "tmdb": 55047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 75
+}

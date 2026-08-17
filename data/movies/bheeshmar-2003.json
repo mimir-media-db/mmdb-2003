@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bheeshmar_2003",
+  "title": "Bheeshmar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4901648",
+    "imdb": "tt13801882"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

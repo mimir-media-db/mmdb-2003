@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broadway_the_golden_age_by_the_legends_who_were_there_2003",
+  "title": "Broadway: The Golden Age, by the Legends Who Were There",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4972372",
+    "imdb": "tt0303797",
+    "tmdb": 100842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

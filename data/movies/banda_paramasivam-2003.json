@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banda_paramasivam_2003",
+  "title": "Banda Paramasivam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12931091",
+    "imdb": "tt10189716",
+    "tmdb": 1035027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 155
+}

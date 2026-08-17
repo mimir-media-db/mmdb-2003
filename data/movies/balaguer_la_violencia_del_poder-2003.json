@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balaguer_la_violencia_del_poder_2003",
+  "title": "Balaguer: La violencia del poder",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5717040",
+    "imdb": "tt1034011",
+    "tmdb": 281138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

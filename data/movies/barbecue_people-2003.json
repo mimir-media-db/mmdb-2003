@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbecue_people_2003",
+  "title": "The Barbecue People",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6612744",
+    "imdb": "tt0316218",
+    "tmdb": 78347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

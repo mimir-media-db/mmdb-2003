@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_her_window_2003",
+  "title": "Beneath Her Window",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4887176",
+    "imdb": "tt0389281",
+    "tmdb": 269402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 91
+}

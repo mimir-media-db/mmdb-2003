@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baaz_a_bird_in_danger_2003",
+  "title": "Baaz: A Bird in Danger",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2877657",
+    "imdb": "tt0349115",
+    "tmdb": 496533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

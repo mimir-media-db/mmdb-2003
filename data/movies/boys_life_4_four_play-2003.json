@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_life_4_four_play_2003",
+  "title": "Boys Life 4: Four Play",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3643301",
+    "imdb": "tt0369295",
+    "tmdb": 287811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_mormon_movie_vol_1_the_journey_2003",
+  "title": "The Book of Mormon Movie, Vol. 1: The Journey",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719278",
+    "imdb": "tt0349159",
+    "tmdb": 48382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 120
+}

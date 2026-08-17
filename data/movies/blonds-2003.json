@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blonds_2003",
+  "title": "The Blonds",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7718652",
+    "imdb": "tt0319307",
+    "tmdb": 193302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

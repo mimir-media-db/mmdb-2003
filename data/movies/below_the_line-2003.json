@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_below_the_line_2003",
+  "title": "Below the Line",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4884623",
+    "imdb": "tt0332151",
+    "tmdb": 509407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}
