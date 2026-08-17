@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_papi_2003",
+  "title": "Chasing Papi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1104517",
+    "imdb": "tt0323572",
+    "tmdb": 24621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-16",
+  "runtime_minutes": 80
+}

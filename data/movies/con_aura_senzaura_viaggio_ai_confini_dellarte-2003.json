@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_con_aura_senzaura_viaggio_ai_confini_dellarte_2003",
+  "title": "Con aura ...senz'aura - viaggio ai confini dell'arte",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28064420",
+    "imdb": "tt2663492",
+    "tmdb": 430327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cell_phone_2003",
+  "title": "Cell Phone",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3546648",
+    "imdb": "tt0399650",
+    "tmdb": 79064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-18",
+  "runtime_minutes": 107
+}

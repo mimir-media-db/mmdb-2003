@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chicken_party_2003",
+  "title": "Chicken Party",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16829400",
+    "imdb": "tt0383984",
+    "tmdb": 719142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-14",
+  "runtime_minutes": 29
+}

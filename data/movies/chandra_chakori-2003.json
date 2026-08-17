@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chandra_chakori_2003",
+  "title": "Chandra Chakori",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247450",
+    "imdb": "tt30146825",
+    "tmdb": 1394750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-15",
+  "runtime_minutes": 154
+}

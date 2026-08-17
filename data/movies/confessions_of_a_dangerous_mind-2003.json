@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_a_dangerous_mind_2003",
+  "title": "Confessions of a Dangerous Mind",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q770965",
+    "imdb": "tt0270288",
+    "tmdb": 4912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-24",
+  "runtime_minutes": 113
+}

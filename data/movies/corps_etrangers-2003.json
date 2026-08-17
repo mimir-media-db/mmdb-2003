@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_corps_etrangers_2003",
+  "title": "Corps étrangers",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53472887"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 29
+}

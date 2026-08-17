@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chimani_pakhar_2003",
+  "title": "Chimani Pakhar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97250659",
+    "imdb": "tt4896974",
+    "tmdb": 1479878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 137
+}

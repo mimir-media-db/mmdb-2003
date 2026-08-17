@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carinoso_maestro_2003",
+  "title": "Cariñoso maestro",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137643812",
+    "imdb": "tt0497733"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 26
+}

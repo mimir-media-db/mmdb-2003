@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheri_2003",
+  "title": "Cheri",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19571248",
+    "imdb": "tt0398853",
+    "tmdb": 1242238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
