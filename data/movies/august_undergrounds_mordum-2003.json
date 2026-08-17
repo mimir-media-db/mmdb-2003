@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_august_undergrounds_mordum_2003",
+  "title": "August Underground's Mordum",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4820837",
+    "imdb": "tt0410332",
+    "tmdb": 24837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 77
+}

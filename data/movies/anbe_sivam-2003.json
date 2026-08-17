@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anbe_sivam_2003",
+  "title": "Anbe Sivam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3418126",
+    "imdb": "tt0367495",
+    "tmdb": 26910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

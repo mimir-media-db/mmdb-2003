@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apam_beajulna_2003",
+  "title": "Apám beájulna",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q774337",
+    "imdb": "tt0370294",
+    "tmdb": 257374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

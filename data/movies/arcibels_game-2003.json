@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arcibels_game_2003",
+  "title": "Arcibel's Game",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5352458",
+    "imdb": "tt0317772",
+    "tmdb": 124189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 115
+}

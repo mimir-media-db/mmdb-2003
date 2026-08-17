@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aasai_aasaiyai_2003",
+  "title": "Aasai Aasaiyai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429483",
+    "imdb": "tt8669128",
+    "tmdb": 312228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

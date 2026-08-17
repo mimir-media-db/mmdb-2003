@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amundsen_the_penguin_2003",
+  "title": "Amundsen the Penguin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q481641",
+    "imdb": "tt0387834",
+    "tmdb": 262953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

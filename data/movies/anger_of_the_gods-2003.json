@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anger_of_the_gods_2003",
+  "title": "Anger of the Gods",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4763131",
+    "imdb": "tt0380269",
+    "tmdb": 503075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

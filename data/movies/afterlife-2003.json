@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afterlife_2003",
+  "title": "AfterLife",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2826295",
+    "imdb": "tt0375529",
+    "tmdb": 328368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

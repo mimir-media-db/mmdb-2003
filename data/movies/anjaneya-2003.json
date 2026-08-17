@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anjaneya_2003",
+  "title": "Anjaneya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4765774",
+    "imdb": "tt2386342",
+    "tmdb": 69415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anatomy_of_tatu_2003",
+  "title": "Anatomy of t.A.T.u.",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q488362",
+    "imdb": "tt0796202",
+    "tmdb": 391234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 59
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aalukkoru_aasai_2003",
+  "title": "Aalukkoru Aasai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661420",
+    "imdb": "tt7897230",
+    "tmdb": 335959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

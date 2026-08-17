@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_fine_promises_2003",
+  "title": "All the Fine Promises",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q391840",
+    "imdb": "tt0344485",
+    "tmdb": 162507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

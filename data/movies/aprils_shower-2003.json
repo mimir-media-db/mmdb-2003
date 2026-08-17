@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aprils_shower_2003",
+  "title": "April's Shower",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2081640",
+    "imdb": "tt0325007",
+    "tmdb": 25608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 98
+}

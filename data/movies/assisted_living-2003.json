@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assisted_living_2003",
+  "title": "Assisted Living",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4809073",
+    "imdb": "tt0361322",
+    "tmdb": 193704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 78
+}

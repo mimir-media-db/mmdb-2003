@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ancient_tale_when_the_sun_was_a_god_2003",
+  "title": "An Ancient Tale: When the Sun Was a God",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2041082",
+    "imdb": "tt0380726",
+    "tmdb": 35021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

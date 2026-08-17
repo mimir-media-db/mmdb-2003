@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anahat_2003",
+  "title": "Anahat",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4750868",
+    "imdb": "tt0371536",
+    "tmdb": 506396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

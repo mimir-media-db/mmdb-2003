@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_advantage_hart_2003",
+  "title": "Advantage Hart",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4686408",
+    "imdb": "tt0388683",
+    "tmdb": 560228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

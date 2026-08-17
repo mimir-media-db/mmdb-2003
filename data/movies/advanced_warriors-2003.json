@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_advanced_warriors_2003",
+  "title": "Advanced Warriors",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4686328",
+    "imdb": "tt0293750",
+    "tmdb": 1526859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

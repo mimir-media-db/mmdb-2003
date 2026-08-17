@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arimpara_2003",
+  "title": "Arimpara",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4790700",
+    "imdb": "tt0364211",
+    "tmdb": 260524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
