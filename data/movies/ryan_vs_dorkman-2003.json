@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ryan_vs_dorkman_2003",
+  "title": "Ryan vs. Dorkman",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127268",
+    "imdb": "tt0982924",
+    "tmdb": 824747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-01"
+}

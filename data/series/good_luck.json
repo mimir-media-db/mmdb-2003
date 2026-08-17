@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_luck",
+  "title": "Good Luck!!",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q626942",
+    "imdb": "tt0399971",
+    "tmdb": 2146
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

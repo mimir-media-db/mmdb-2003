@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hand_maid_mai_2003",
+  "title": "Hand Maid Mai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11222179",
+    "imdb": "tt3508318",
+    "tmdb": 411274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-18"
+}

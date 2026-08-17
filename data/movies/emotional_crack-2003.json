@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emotional_crack_2003",
+  "title": "Emotional Crack",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113369482",
+    "imdb": "tt0493640",
+    "tmdb": 619159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

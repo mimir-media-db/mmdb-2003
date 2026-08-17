@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battlefield_baseball_2003",
+  "title": "Battlefield Baseball",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1644593",
+    "imdb": "tt0384832",
+    "tmdb": 51890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-19",
+  "runtime_minutes": 87
+}

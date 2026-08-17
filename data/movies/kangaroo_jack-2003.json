@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kangaroo_jack_2003",
+  "title": "Kangaroo Jack",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1354617",
+    "imdb": "tt0257568",
+    "tmdb": 10628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-11",
+  "runtime_minutes": 89
+}

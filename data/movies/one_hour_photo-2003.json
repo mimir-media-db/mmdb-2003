@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_hour_photo_2003",
+  "title": "One Hour Photo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q990976",
+    "imdb": "tt0265459",
+    "tmdb": 9357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-09",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weihnachten_im_september_2003",
+  "title": "Weihnachten im September",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47088548",
+    "imdb": "tt0388539",
+    "tmdb": 318828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

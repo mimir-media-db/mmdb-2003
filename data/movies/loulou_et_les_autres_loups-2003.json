@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loulou_et_les_autres_loups_2003",
+  "title": "Loulou et les autres loups",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59659667",
+    "imdb": "tt5860542",
+    "tmdb": 113325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 55
+}

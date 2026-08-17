@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alo_2003",
+  "title": "Alo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4734084",
+    "imdb": "tt0390831",
+    "tmdb": 659105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-28"
+}

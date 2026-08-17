@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sobibor_october_14_1943_4_pm_2003",
+  "title": "Sobibor, October 14, 1943, 4 p.m.",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q831558",
+    "imdb": "tt0286978",
+    "tmdb": 103695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-03",
+  "runtime_minutes": 95
+}

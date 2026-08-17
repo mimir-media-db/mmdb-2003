@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chavit_2003",
+  "title": "Chavit",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16829311",
+    "imdb": "tt0387923",
+    "tmdb": 352104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

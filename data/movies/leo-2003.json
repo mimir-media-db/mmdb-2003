@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_leo_2003",
+  "title": "Léo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77974334"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 12
+}

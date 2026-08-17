@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitlers_hat_2003",
+  "title": "Hitler's Hat",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643392",
+    "imdb": "tt0450436",
+    "tmdb": 467078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

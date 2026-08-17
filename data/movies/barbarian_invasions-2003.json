@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbarian_invasions_2003",
+  "title": "The Barbarian Invasions",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q549012",
+    "imdb": "tt0338135",
+    "tmdb": 11042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-21",
+  "runtime_minutes": 99
+}

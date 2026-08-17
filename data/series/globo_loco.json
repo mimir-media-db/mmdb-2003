@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_globo_loco",
+  "title": "Globo Loco",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5571066",
+    "imdb": "tt1322616"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 23
+}

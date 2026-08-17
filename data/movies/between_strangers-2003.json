@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_strangers_2003",
+  "title": "Between Strangers",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1191318",
+    "imdb": "tt0289668",
+    "tmdb": 38866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-27",
+  "runtime_minutes": 97
+}

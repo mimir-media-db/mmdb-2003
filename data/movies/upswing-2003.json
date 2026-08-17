@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_upswing_2003",
+  "title": "Upswing",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7063941",
+    "imdb": "tt0323443",
+    "tmdb": 55496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-28",
+  "runtime_minutes": 98
+}

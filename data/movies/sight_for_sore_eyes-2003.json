@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sight_for_sore_eyes_2003",
+  "title": "A Sight for Sore Eyes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16643609",
+    "imdb": "tt0339204",
+    "tmdb": 257263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 137
+}

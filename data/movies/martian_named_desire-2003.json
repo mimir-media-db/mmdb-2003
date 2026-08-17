@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_martian_named_desire_2003",
+  "title": "A Martian Named Desire",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111660429",
+    "imdb": "tt0416958",
+    "tmdb": 724798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_red_door_2003",
+  "title": "Behind the Red Door",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16826996",
+    "imdb": "tt0282891",
+    "tmdb": 79610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_199_um_supermercado_que_vende_palavras_2003",
+  "title": "1,99 - Um Supermercado Que Vende Palavras",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51882329",
+    "imdb": "tt0387798",
+    "tmdb": 158282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 72
+}

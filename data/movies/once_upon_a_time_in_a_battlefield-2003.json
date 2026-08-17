@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_a_battlefield_2003",
+  "title": "Once Upon a Time in a Battlefield",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q624054",
+    "imdb": "tt0378078",
+    "tmdb": 147704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-17",
+  "runtime_minutes": 104
+}

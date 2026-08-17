@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_nationhood_2003",
+  "title": "Our Nationhood",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60944743",
+    "imdb": "tt0390332",
+    "tmdb": 471433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

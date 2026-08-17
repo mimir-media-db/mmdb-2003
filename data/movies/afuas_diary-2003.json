@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_afuas_diary_2003",
+  "title": "Afua's Diary",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649198",
+    "imdb": "tt3492290"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

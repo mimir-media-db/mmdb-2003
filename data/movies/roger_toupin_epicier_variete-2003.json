@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roger_toupin_epicier_variete_2003",
+  "title": "Roger Toupin, épicier variété",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59619179",
+    "imdb": "tt0404379",
+    "tmdb": 350589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

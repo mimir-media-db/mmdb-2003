@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_on_a_hill_2003",
+  "title": "A House on a Hill",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45710137",
+    "imdb": "tt0332129",
+    "tmdb": 277300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_2003",
+  "title": "Music",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082501",
+    "imdb": "tt0362892",
+    "tmdb": 498563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 29
+}

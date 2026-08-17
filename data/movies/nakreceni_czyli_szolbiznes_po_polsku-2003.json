@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nakreceni_czyli_szolbiznes_po_polsku_2003",
+  "title": "Nakreceni, czyli szolbiznes po polsku",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11789379",
+    "imdb": "tt0368059",
+    "tmdb": 107796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-10",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dieux_du_stade_making_of_the_2004_calendar_2003",
+  "title": "Dieux du Stade: Making of the 2004 Calendar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5275227",
+    "imdb": "tt0456927",
+    "tmdb": 579041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-01",
+  "runtime_minutes": 100
+}

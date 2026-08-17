@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lie_2003",
+  "title": "L.I.E.",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1688884",
+    "imdb": "tt0242587",
+    "tmdb": 18734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-12",
+  "runtime_minutes": 97
+}

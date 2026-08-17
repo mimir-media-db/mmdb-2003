@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_times_bed_times_2003",
+  "title": "Good Times, Bed Times",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17003691",
+    "imdb": "tt0379871",
+    "tmdb": 45506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

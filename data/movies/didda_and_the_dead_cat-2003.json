@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_didda_and_the_dead_cat_2003",
+  "title": "Didda and the Dead Cat",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16422561",
+    "imdb": "tt1080011",
+    "tmdb": 217761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_despiser_2003",
+  "title": "Despiser",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115475648",
+    "imdb": "tt0349345",
+    "tmdb": 219808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-15"
+}

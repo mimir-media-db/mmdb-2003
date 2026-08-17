@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warm_spring_2003",
+  "title": "Warm Spring",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7969566",
+    "imdb": "tt1054024",
+    "tmdb": 41121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-01",
+  "runtime_minutes": 100
+}

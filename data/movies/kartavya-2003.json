@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_kartavya_2003",
+  "title": "Kartavya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250195"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

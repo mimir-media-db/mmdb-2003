@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sophiiiie_2003",
+  "title": "Sophiiiie!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2303013",
+    "imdb": "tt0329632",
+    "tmdb": 10749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-05",
+  "runtime_minutes": 103
+}

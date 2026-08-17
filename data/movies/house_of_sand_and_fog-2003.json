@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_sand_and_fog_2003",
+  "title": "House of Sand and Fog",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q508841",
+    "imdb": "tt0315983",
+    "tmdb": 11093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-19",
+  "runtime_minutes": 126
+}

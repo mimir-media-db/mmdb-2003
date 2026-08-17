@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystic_river_2003",
+  "title": "Mystic River",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q221586",
+    "imdb": "tt0327056",
+    "tmdb": 322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-23",
+  "runtime_minutes": 138
+}

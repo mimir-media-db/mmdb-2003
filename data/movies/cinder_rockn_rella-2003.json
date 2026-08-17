@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinder_rockn_rella_2003",
+  "title": "Cinder Rock'n Rella",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12302313",
+    "imdb": "tt0344859",
+    "tmdb": 78473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-07",
+  "runtime_minutes": 82
+}

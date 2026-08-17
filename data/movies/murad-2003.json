@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_murad_2003",
+  "title": "Murad",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649794",
+    "imdb": "tt3661244",
+    "tmdb": 489225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

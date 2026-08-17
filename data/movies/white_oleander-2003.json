@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_oleander_2003",
+  "title": "White Oleander",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q820218",
+    "imdb": "tt0283139",
+    "tmdb": 10994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-06",
+  "runtime_minutes": 105
+}

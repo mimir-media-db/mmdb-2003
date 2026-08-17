@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teknolust_2003",
+  "title": "Teknolust",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q323771",
+    "imdb": "tt0270688",
+    "tmdb": 81540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-22",
+  "runtime_minutes": 79
+}

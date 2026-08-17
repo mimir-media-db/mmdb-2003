@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_one_calorie_2003",
+  "title": "One Calorie",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12279517",
+    "imdb": "tt0393254"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-21"
+}

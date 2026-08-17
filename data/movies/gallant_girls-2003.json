@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gallant_girls_2003",
+  "title": "Gallant Girls",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61010211",
+    "imdb": "tt0384471",
+    "tmdb": 506397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-01"
+}

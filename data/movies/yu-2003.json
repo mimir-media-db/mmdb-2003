@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yu_2003",
+  "title": "Yu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16968382",
+    "imdb": "tt0303252",
+    "tmdb": 774389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

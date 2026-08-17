@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metamorphose_2003",
+  "title": "Métamorphose",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16665852",
+    "imdb": "tt0382191",
+    "tmdb": 650025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

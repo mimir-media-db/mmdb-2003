@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_fast_2_furious_2003",
+  "title": "2 Fast 2 Furious",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q222867",
+    "imdb": "tt0322259",
+    "tmdb": 584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-03",
+  "runtime_minutes": 103
+}

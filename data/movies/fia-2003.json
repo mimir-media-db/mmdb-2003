@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fia_2003",
+  "title": "Fia!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3744320",
+    "imdb": "tt0354577",
+    "tmdb": 14329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-24",
+  "runtime_minutes": 103
+}

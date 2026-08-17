@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juwanna_mann_2003",
+  "title": "Juwanna Mann",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3282532",
+    "imdb": "tt0247444",
+    "tmdb": 35696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-07",
+  "runtime_minutes": 91
+}

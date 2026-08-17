@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dolls_2003",
+  "title": "Dolls",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q260208",
+    "imdb": "tt0330229",
+    "tmdb": 870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-30",
+  "runtime_minutes": 113
+}

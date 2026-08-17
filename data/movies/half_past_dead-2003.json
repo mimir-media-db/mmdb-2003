@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_half_past_dead_2003",
+  "title": "Half Past Dead",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q697014",
+    "imdb": "tt0297162",
+    "tmdb": 10167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-12",
+  "runtime_minutes": 98
+}

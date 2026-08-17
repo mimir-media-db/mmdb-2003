@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garrincha_lonely_star_2003",
+  "title": "Garrincha: Lonely Star",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10288404",
+    "imdb": "tt0383373",
+    "tmdb": 60209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-06",
+  "runtime_minutes": 110
+}

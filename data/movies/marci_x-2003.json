@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marci_x_2003",
+  "title": "Marci X",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2341755",
+    "imdb": "tt0266747",
+    "tmdb": 32316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-22",
+  "runtime_minutes": 84
+}

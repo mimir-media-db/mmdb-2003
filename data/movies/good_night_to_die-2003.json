@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_night_to_die_2003",
+  "title": "A Good Night to Die",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94245214",
+    "imdb": "tt0203536",
+    "tmdb": 62289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hariharan_pillai_happy_aanu_2003",
+  "title": "Hariharan Pillai Happy Aanu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5657394",
+    "imdb": "tt0382733",
+    "tmdb": 280195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-26"
+}

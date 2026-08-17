@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_or_something_like_it_2003",
+  "title": "Life or Something Like It",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29871",
+    "imdb": "tt0282687",
+    "tmdb": 16643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-10",
+  "runtime_minutes": 103
+}

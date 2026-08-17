@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bagland_2003",
+  "title": "Bagland",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10470137",
+    "imdb": "tt0373704",
+    "tmdb": 15828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25",
+  "runtime_minutes": 81
+}

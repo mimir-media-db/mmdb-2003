@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbershop_2003",
+  "title": "Barbershop",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q807818",
+    "imdb": "tt0303714",
+    "tmdb": 10611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-24",
+  "runtime_minutes": 102
+}

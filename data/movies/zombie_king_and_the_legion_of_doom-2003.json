@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_king_and_the_legion_of_doom_2003",
+  "title": "Zombie King and the Legion of Doom",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219187",
+    "imdb": "tt0376355",
+    "tmdb": 65143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-21",
+  "runtime_minutes": 78
+}

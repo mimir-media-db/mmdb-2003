@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transporter_2003",
+  "title": "The Transporter",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q819972",
+    "imdb": "tt0293662",
+    "tmdb": 4108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-24",
+  "runtime_minutes": 92
+}

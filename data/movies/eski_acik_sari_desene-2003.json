@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eski_acik_sari_desene_2003",
+  "title": "Eski açik sari desene",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6056342",
+    "imdb": "tt0386438",
+    "tmdb": 73950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-10",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dinner_for_two_2003",
+  "title": "Dinner for Two",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66765109",
+    "imdb": "tt0384919",
+    "tmdb": 313012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-01",
+  "runtime_minutes": 89
+}

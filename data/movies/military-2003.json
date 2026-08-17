@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_military_2003",
+  "title": "Military",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6851949",
+    "imdb": "tt13915036"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-28"
+}

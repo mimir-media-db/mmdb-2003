@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_werckmeister_harmonies_2003",
+  "title": "Werckmeister Harmonies",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q509169",
+    "imdb": "tt0249241",
+    "tmdb": 23160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-19",
+  "runtime_minutes": 145
+}

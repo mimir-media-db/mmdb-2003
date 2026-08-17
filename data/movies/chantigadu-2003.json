@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chantigadu_2003",
+  "title": "Chantigadu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114669225",
+    "imdb": "tt0393144",
+    "tmdb": 307809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

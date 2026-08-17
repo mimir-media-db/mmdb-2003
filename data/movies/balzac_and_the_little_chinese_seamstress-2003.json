@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balzac_and_the_little_chinese_seamstress_2003",
+  "title": "Balzac and the Little Chinese Seamstress",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2263420",
+    "imdb": "tt0291032",
+    "tmdb": 2111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25",
+  "runtime_minutes": 110
+}

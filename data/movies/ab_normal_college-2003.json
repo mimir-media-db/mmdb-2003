@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ab_normal_college_2003",
+  "title": "A.B. Normal College",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114043883",
+    "imdb": "tt0353141",
+    "tmdb": 241695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-12",
+  "runtime_minutes": 115
+}

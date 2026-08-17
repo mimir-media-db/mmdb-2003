@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_famiglia_per_caso_2003",
+  "title": "Una famiglia per caso",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590097",
+    "imdb": "tt0348607",
+    "tmdb": 771275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

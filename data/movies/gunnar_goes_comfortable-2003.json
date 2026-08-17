@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunnar_goes_comfortable_2003",
+  "title": "Gunnar Goes Comfortable",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11973291",
+    "imdb": "tt0783724",
+    "tmdb": 146772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-31",
+  "runtime_minutes": 75
+}

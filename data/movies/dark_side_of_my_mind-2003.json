@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_side_of_my_mind_2003",
+  "title": "The Dark Side of My Mind",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19854427",
+    "imdb": "tt10978668",
+    "tmdb": 55042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

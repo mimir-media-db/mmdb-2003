@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slim_susie_2003",
+  "title": "Slim Susie",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q690428",
+    "imdb": "tt0323998",
+    "tmdb": 11466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-03",
+  "runtime_minutes": 97
+}

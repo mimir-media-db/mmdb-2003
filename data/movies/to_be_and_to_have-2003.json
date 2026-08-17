@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_be_and_to_have_2003",
+  "title": "To Be and to Have",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q593573",
+    "imdb": "tt0318202",
+    "tmdb": 5168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-16",
+  "runtime_minutes": 104
+}

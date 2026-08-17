@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_insaat_2003",
+  "title": "İnşaat",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473523",
+    "imdb": "tt0416854",
+    "tmdb": 63237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-21"
+}

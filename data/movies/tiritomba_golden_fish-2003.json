@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiritomba_golden_fish_2003",
+  "title": "Tiritomba, Golden Fish",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48807271",
+    "tmdb": 1232070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_water_under_the_bridge_2003",
+  "title": "Water Under the Bridge",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48673960",
+    "imdb": "tt0360957",
+    "tmdb": 277099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-26"
+}

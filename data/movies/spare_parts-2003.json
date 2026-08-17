@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spare_parts_2003",
+  "title": "Spare Parts",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26226448",
+    "imdb": "tt0334237",
+    "tmdb": 107940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-05",
+  "runtime_minutes": 87
+}

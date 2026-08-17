@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_the_eye_doesnt_see_2003",
+  "title": "What the Eye Doesn't See",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112259773",
+    "imdb": "tt0366839",
+    "tmdb": 29935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

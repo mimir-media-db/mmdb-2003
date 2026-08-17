@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_les_demoiselles_de_rochefort_2003",
+  "title": "Les Demoiselles de Rochefort",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16011123"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-16"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_two_fathers_for_conny_2003",
+  "title": "Two Fathers for Conny",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57312279",
+    "imdb": "tt0348890",
+    "tmdb": 310446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-20"
+}

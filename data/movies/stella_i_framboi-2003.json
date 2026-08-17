@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stella_i_framboi_2003",
+  "title": "Stella í framboði",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12355350",
+    "imdb": "tt0477474",
+    "tmdb": 218530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-15"
+}

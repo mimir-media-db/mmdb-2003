@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_a_charming_birthday_2003",
+  "title": "My Little Pony: A Charming Birthday",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18340933",
+    "imdb": "tt0899281",
+    "tmdb": 276303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 19
+}

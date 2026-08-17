@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_kleine_eisbar_nanouks_rettung_2003",
+  "title": "Der kleine Eisbär - Nanouks Rettung",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127871432",
+    "imdb": "tt0392292",
+    "tmdb": 171398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 78
+}

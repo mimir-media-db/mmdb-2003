@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plastic_tree_2003",
+  "title": "Plastic Tree",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060670",
+    "imdb": "tt0359841",
+    "tmdb": 182307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-29"
+}

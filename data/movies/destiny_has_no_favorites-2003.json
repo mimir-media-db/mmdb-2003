@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_destiny_has_no_favorites_2003",
+  "title": "Destiny Has No Favorites",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115802643",
+    "imdb": "tt0388884",
+    "tmdb": 106885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

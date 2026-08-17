@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dogville_confessions_2003",
+  "title": "Dogville Confessions",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728490",
+    "imdb": "tt0357608",
+    "tmdb": 140278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-27",
+  "runtime_minutes": 56
+}

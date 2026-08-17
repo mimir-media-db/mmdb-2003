@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crust_2003",
+  "title": "Crust",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10462050",
+    "imdb": "tt0271445",
+    "tmdb": 78178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-17",
+  "runtime_minutes": 10
+}

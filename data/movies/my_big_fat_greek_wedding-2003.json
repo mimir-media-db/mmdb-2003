@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_big_fat_greek_wedding_2003",
+  "title": "My Big Fat Greek Wedding",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q525415",
+    "imdb": "tt0259446",
+    "tmdb": 8346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-23",
+  "runtime_minutes": 95
+}

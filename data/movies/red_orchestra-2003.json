@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_orchestra_2003",
+  "title": "The Red Orchestra",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85429799",
+    "imdb": "tt0391433",
+    "tmdb": 454357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

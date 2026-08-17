@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolfsburg_2003",
+  "title": "Wolfsburg",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2592291",
+    "imdb": "tt0355029",
+    "tmdb": 88418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-11",
+  "runtime_minutes": 90
+}

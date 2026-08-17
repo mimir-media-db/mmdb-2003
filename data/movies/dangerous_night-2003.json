@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_night_2003",
+  "title": "Dangerous Night",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55608959",
+    "imdb": "tt2666420",
+    "tmdb": 496455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

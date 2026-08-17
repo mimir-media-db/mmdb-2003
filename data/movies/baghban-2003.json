@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baghban_2003",
+  "title": "Baghban",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3124318",
+    "imdb": "tt0337578",
+    "tmdb": 39839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-02",
+  "runtime_minutes": 171
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_camp_2004_2003",
+  "title": "Girl Camp 2004",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48778238",
+    "imdb": "tt0382049",
+    "tmdb": 371183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 94
+}

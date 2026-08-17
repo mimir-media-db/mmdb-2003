@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_japanese_story_2003",
+  "title": "Japanese Story",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4303595",
+    "imdb": "tt0304229",
+    "tmdb": 13433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-19",
+  "runtime_minutes": 110
+}

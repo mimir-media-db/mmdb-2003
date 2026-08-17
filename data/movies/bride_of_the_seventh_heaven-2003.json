@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_of_the_seventh_heaven_2003",
+  "title": "A Bride Of The Seventh Heaven",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65235665",
+    "imdb": "tt0366652",
+    "tmdb": 365440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

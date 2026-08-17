@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_from_snowy_river_arena_spectacular_2003",
+  "title": "The Man from Snowy River: Arena Spectacular",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7750058",
+    "imdb": "tt0351296",
+    "tmdb": 69866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-26"
+}

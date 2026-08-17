@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doichlanda_2003",
+  "title": "Doichlanda",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120576808",
+    "imdb": "tt1552671",
+    "tmdb": 1257031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

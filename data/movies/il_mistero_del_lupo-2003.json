@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_il_mistero_del_lupo_2003",
+  "title": "Il mistero del lupo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611724"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 48
+}

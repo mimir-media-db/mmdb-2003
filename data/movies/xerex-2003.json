@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xerex_2003",
+  "title": "Xerex",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129697683",
+    "imdb": "tt0362322",
+    "tmdb": 111635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

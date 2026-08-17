@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chill_out_2003",
+  "title": "Chill Out!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81550678",
+    "imdb": "tt0380311",
+    "tmdb": 145594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-12",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_up_mate_dont_you_sleep_2003",
+  "title": "Wake Up, Mate, Don't You Sleep",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1106464",
+    "imdb": "tt0351172",
+    "tmdb": 105283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-06",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_russia_2003",
+  "title": "My Russia",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50810285",
+    "imdb": "tt0308567",
+    "tmdb": 507794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-20",
+  "runtime_minutes": 95
+}

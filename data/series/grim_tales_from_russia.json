@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_grim_tales_from_russia",
+  "title": "Grim Tales from Russia",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4400676",
+    "imdb": "tt1979722",
+    "tmdb": 153684
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

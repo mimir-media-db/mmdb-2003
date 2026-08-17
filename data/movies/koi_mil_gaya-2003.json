@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_koi_mil_gaya_2003",
+  "title": "Koi... Mil Gaya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1094839",
+    "imdb": "tt0254481",
+    "tmdb": 25516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-08",
+  "runtime_minutes": 165
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anne_b_real_2003",
+  "title": "Anne B. Real",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4768146",
+    "imdb": "tt0315775",
+    "tmdb": 31284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-01",
+  "runtime_minutes": 91
+}

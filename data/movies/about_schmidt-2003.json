@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_schmidt_2003",
+  "title": "About Schmidt",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q179460",
+    "imdb": "tt0257360",
+    "tmdb": 2755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-27",
+  "runtime_minutes": 125
+}

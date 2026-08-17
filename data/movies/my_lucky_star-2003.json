@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_lucky_star_2003",
+  "title": "My Lucky Star",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15912094",
+    "imdb": "tt0380069",
+    "tmdb": 146116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

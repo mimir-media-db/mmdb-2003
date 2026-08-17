@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vadakku_vaasal_2003",
+  "title": "Vadakku Vaasal",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77899671",
+    "imdb": "tt13801792"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

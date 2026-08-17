@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_junior_olsen_gang_goes_submarine_2003",
+  "title": "The Junior Olsen Gang Goes Submarine",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1279482",
+    "imdb": "tt0387463",
+    "tmdb": 30200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-07",
+  "runtime_minutes": 95
+}

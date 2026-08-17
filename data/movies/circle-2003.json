@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_circle_2003",
+  "title": "The Circle",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19000355",
+    "imdb": "tt0383271",
+    "tmdb": 272447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-14"
+}

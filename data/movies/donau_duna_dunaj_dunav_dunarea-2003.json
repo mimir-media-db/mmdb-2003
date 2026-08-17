@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donau_duna_dunaj_dunav_dunarea_2003",
+  "title": "Donau, Duna, Dunaj, Dunav, Dunarea",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590214",
+    "imdb": "tt0387175",
+    "tmdb": 482292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

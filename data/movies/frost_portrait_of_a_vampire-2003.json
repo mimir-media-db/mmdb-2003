@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frost_portrait_of_a_vampire_2003",
+  "title": "Frost: Portrait of a Vampire",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129264109",
+    "imdb": "tt0212277",
+    "tmdb": 48147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

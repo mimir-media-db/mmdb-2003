@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seabiscuit_2003",
+  "title": "Seabiscuit",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q179018",
+    "imdb": "tt0329575",
+    "tmdb": 4464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-22",
+  "runtime_minutes": 134
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hierankl_2003",
+  "title": "Hierankl",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1617438",
+    "imdb": "tt0371710",
+    "tmdb": 12696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-01",
+  "runtime_minutes": 93
+}

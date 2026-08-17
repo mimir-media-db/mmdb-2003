@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_magic_3d_2003",
+  "title": "Magic Magic 3D",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251048",
+    "imdb": "tt0309800",
+    "tmdb": 335593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-11"
+}

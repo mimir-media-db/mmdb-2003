@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_xero_2003",
+  "title": "Xero",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9383222"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-01"
+}

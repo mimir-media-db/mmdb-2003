@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_namma_preethiya_ramu_2003",
+  "title": "Namma Preethiya Ramu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16954931",
+    "imdb": "tt14449180",
+    "tmdb": 1501741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cult_of_fury_2003",
+  "title": "Cult of Fury",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135717435",
+    "imdb": "tt0281811",
+    "tmdb": 73685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

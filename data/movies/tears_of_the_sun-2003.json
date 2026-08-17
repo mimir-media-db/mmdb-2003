@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tears_of_the_sun_2003",
+  "title": "Tears of the Sun",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q459889",
+    "imdb": "tt0314353",
+    "tmdb": 9567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-03",
+  "runtime_minutes": 142
+}

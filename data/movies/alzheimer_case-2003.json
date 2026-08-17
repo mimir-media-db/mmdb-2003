@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alzheimer_case_2003",
+  "title": "The Alzheimer Case",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q611378",
+    "imdb": "tt0374345",
+    "tmdb": 24860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-15",
+  "runtime_minutes": 123
+}

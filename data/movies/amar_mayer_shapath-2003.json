@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amar_mayer_shapath_2003",
+  "title": "Amar Mayer Shapath",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54802858",
+    "imdb": "tt4773122",
+    "tmdb": 1304046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

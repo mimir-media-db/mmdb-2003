@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_apart_2003",
+  "title": "A Man Apart",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1385502",
+    "imdb": "tt0266465",
+    "tmdb": 8409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-04",
+  "runtime_minutes": 105
+}

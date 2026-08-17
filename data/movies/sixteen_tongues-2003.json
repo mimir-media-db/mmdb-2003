@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sixteen_tongues_2003",
+  "title": "Sixteen Tongues",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363835",
+    "imdb": "tt0190008",
+    "tmdb": 219431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

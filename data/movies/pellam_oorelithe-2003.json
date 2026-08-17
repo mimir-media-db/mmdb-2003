@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pellam_oorelithe_2003",
+  "title": "Pellam Oorelithe",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720478",
+    "imdb": "tt0339504",
+    "tmdb": 82298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cameras_take_five_2003",
+  "title": "Cameras Take Five",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77851592",
+    "imdb": "tt0377583",
+    "tmdb": 299661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

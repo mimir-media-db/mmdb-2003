@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_66_seasons_2003",
+  "title": "66 Seasons",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104894230",
+    "imdb": "tt0377316",
+    "tmdb": 433180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 86
+}

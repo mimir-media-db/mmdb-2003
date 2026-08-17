@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_think_the_world_of_you_2003",
+  "title": "I Think the World of You",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16083233",
+    "imdb": "tt0338535",
+    "tmdb": 315629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

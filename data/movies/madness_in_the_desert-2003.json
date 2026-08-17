@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madness_in_the_desert_2003",
+  "title": "Madness in the Desert",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51880026",
+    "imdb": "tt0417528",
+    "tmdb": 499969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

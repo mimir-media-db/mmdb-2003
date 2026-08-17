@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hukkle_2003",
+  "title": "Hukkle",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q847031",
+    "imdb": "tt0289229",
+    "tmdb": 35848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-24",
+  "runtime_minutes": 75
+}

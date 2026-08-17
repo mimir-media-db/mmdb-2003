@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_euroglam_budapest_wanda_curtis_2003",
+  "title": "Euroglam Budapest: Wanda Curtis",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140365443",
+    "imdb": "tt0417653",
+    "tmdb": 93143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-26",
+  "runtime_minutes": 86
+}

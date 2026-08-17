@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cheerful_gang_turns_the_earth_2003",
+  "title": "A Cheerful Gang Turns the Earth",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655836",
+    "imdb": "tt0496905",
+    "tmdb": 44767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-10",
+  "runtime_minutes": 92
+}

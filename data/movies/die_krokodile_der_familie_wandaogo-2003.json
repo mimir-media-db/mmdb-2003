@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_krokodile_der_familie_wandaogo_2003",
+  "title": "Die Krokodile der Familie Wandaogo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29479465",
+    "imdb": "tt0399257"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 61
+}

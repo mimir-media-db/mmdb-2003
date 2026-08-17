@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_show_show_show_2003",
+  "title": "Show Show Show",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17564582",
+    "imdb": "tt0350121",
+    "tmdb": 373742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-28"
+}

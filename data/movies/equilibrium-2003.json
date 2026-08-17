@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_equilibrium_2003",
+  "title": "Equilibrium",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q507461",
+    "imdb": "tt0238380",
+    "tmdb": 7299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-14",
+  "runtime_minutes": 107
+}

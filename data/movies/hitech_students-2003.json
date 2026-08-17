@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hitech_students_2003",
+  "title": "Hitech Students",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118676373",
+    "imdb": "tt10661374"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-02"
+}

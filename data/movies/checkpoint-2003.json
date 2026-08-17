@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_checkpoint_2003",
+  "title": "Checkpoint",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052375",
+    "imdb": "tt0391857",
+    "tmdb": 75027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

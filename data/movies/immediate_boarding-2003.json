@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immediate_boarding_2003",
+  "title": "Immediate Boarding",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2758085",
+    "imdb": "tt0400899",
+    "tmdb": 74431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25",
+  "runtime_minutes": 89
+}

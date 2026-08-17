@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cet_amourla_2003",
+  "title": "Cet amour-là",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2402147",
+    "imdb": "tt0277622",
+    "tmdb": 284096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-02",
+  "runtime_minutes": 100
+}

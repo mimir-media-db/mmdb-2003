@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_eye_2003",
+  "title": "My Little Eye",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151695",
+    "imdb": "tt0280969",
+    "tmdb": 16077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-08",
+  "runtime_minutes": 95
+}

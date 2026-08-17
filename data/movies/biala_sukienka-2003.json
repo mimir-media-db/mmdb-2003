@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_biala_sukienka_2003",
+  "title": "Biala sukienka",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9170356",
+    "imdb": "tt0373721",
+    "tmdb": 440276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-19",
+  "runtime_minutes": 65
+}

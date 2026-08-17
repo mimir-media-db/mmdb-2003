@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prayer_for_hetman_mazepa_2003",
+  "title": "Prayer for Hetman Mazepa",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549723",
+    "imdb": "tt0323279",
+    "tmdb": 220333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-14",
+  "runtime_minutes": 152
+}

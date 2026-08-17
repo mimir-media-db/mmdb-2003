@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fools_2003",
+  "title": "Fools",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96349048",
+    "imdb": "tt0387435",
+    "tmdb": 506275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

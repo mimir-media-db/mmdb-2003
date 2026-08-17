@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_femme_fatale_2003",
+  "title": "Femme Fatale",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q522185",
+    "imdb": "tt0280665",
+    "tmdb": 9280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-27",
+  "runtime_minutes": 110
+}

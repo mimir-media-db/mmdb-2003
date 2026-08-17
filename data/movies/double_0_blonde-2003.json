@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_0_blonde_2003",
+  "title": "Double 0 Blonde",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135456754",
+    "imdb": "tt0412661",
+    "tmdb": 813460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 101
+}

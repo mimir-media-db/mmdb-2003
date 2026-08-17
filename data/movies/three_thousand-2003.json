@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_thousand_2003",
+  "title": "The Three Thousand",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6082190",
+    "imdb": "tt0357033",
+    "tmdb": 346640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-21",
+  "runtime_minutes": 107
+}

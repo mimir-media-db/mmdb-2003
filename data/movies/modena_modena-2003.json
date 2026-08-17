@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modena_modena_2003",
+  "title": "Modena Modena",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48808128",
+    "imdb": "tt1603497"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

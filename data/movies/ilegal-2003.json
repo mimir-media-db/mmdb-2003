@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ilegal_2003",
+  "title": "Ilegal",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12390633",
+    "imdb": "tt0336621",
+    "tmdb": 513793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-31",
+  "runtime_minutes": 107
+}

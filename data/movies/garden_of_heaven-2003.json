@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_heaven_2003",
+  "title": "Garden of Heaven",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189006",
+    "imdb": "tt0358503",
+    "tmdb": 74048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-04"
+}

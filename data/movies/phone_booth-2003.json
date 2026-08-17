@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phone_booth_2003",
+  "title": "Phone Booth",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q465910",
+    "imdb": "tt0183649",
+    "tmdb": 1817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-07",
+  "runtime_minutes": 81
+}

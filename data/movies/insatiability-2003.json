@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insatiability_2003",
+  "title": "Insatiability",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11791644",
+    "imdb": "tt0382197",
+    "tmdb": 190496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-28",
+  "runtime_minutes": 125
+}

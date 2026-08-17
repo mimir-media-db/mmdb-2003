@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sukces_2003",
+  "title": "Sukces",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9347948",
+    "imdb": "tt0367103",
+    "tmdb": 576120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-04"
+}

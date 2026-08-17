@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_overnight_2003",
+  "title": "Overnight",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253951",
+    "imdb": "tt0390336",
+    "tmdb": 27007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

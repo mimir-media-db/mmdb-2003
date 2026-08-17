@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bookies_2003",
+  "title": "Bookies",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4943231",
+    "imdb": "tt0302361",
+    "tmdb": 14759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-20",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kolay_para_2003",
+  "title": "Kolay Para",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31189054",
+    "imdb": "tt0325694",
+    "tmdb": 528007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-11"
+}

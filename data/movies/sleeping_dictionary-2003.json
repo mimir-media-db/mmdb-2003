@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_dictionary_2003",
+  "title": "The Sleeping Dictionary",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q676584",
+    "imdb": "tt0242888",
+    "tmdb": 25988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-31",
+  "runtime_minutes": 106
+}

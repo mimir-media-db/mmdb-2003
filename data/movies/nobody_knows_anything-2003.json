@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_knows_anything_2003",
+  "title": "Nobody Knows Anything!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101671",
+    "imdb": "tt0142634",
+    "tmdb": 80346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

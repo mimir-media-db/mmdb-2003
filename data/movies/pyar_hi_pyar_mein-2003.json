@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pyar_hi_pyar_mein_2003",
+  "title": "Pyar Hi Pyar Mein",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7262849",
+    "imdb": "tt0362055",
+    "tmdb": 940061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-04"
+}

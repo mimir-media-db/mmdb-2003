@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_racines_2003",
+  "title": "Racines",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93725921",
+    "imdb": "tt0357083",
+    "tmdb": 696326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

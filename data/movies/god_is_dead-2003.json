@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_is_dead_2003",
+  "title": "God is Dead",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51137135",
+    "imdb": "tt0301360",
+    "tmdb": 212509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-22"
+}

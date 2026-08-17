@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_children_are_different_2003",
+  "title": "My Children Are Different",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16664135",
+    "imdb": "tt0368024",
+    "tmdb": 72366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

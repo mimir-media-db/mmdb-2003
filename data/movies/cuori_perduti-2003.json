@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuori_perduti_2003",
+  "title": "Cuori perduti",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3699501",
+    "imdb": "tt0313943",
+    "tmdb": 1552845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-18",
+  "runtime_minutes": 87
+}

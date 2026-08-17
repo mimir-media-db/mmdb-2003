@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_football_days_2003",
+  "title": "Football Days",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3022994",
+    "imdb": "tt0377834",
+    "tmdb": 54148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-19",
+  "runtime_minutes": 118
+}

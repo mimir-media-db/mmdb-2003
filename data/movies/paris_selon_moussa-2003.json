@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_selon_moussa_2003",
+  "title": "Paris selon Moussa",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58901449",
+    "imdb": "tt0362018",
+    "tmdb": 573822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

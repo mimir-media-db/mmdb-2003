@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_navigators_2003",
+  "title": "The Navigators",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q828849",
+    "imdb": "tt0279977",
+    "tmdb": 35824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-21",
+  "runtime_minutes": 96
+}

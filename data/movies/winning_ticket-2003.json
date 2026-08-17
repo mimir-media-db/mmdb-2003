@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winning_ticket_2003",
+  "title": "Winning Ticket",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11288095",
+    "imdb": "tt0354091",
+    "tmdb": 365144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-24",
+  "runtime_minutes": 100
+}

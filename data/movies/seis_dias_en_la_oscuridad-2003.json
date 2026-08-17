@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seis_dias_en_la_oscuridad_2003",
+  "title": "Seis días en la oscuridad",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7446914",
+    "imdb": "tt0328175",
+    "tmdb": 348098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-15",
+  "runtime_minutes": 97
+}

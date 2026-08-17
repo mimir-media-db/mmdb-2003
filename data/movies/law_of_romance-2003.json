@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_law_of_romance_2003",
+  "title": "The Law Of Romance",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56283257",
+    "imdb": "tt0470390",
+    "tmdb": 945375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-27"
+}

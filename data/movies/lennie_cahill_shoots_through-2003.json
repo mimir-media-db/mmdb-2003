@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lennie_cahill_shoots_through_2003",
+  "title": "Lennie Cahill Shoots Through",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600706",
+    "imdb": "tt0384279",
+    "tmdb": 1209546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

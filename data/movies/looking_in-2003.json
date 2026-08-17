@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_in_2003",
+  "title": "Looking In",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139571472",
+    "imdb": "tt0412930",
+    "tmdb": 979450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 107
+}

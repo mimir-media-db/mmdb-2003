@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_actually_2003",
+  "title": "Love Actually",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q190588",
+    "imdb": "tt0314331",
+    "tmdb": 508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-06",
+  "runtime_minutes": 135
+}

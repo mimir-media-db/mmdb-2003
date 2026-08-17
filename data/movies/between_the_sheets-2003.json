@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_sheets_2003",
+  "title": "Between the Sheets",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16703003",
+    "imdb": "tt0120607",
+    "tmdb": 584762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

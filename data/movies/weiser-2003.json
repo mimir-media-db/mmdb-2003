@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weiser_2003",
+  "title": "Weiser",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2556424",
+    "imdb": "tt0268032",
+    "tmdb": 168819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-08",
+  "runtime_minutes": 95
+}

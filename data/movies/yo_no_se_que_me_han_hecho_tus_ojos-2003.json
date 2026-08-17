@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yo_no_se_que_me_han_hecho_tus_ojos_2003",
+  "title": "Yo no sé qué me han hecho tus ojos",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113678438",
+    "imdb": "tt0324625",
+    "tmdb": 183280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 64
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_jesus_2003",
+  "title": "The Heart of Jesus",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23301920",
+    "imdb": "tt0362518",
+    "tmdb": 296575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

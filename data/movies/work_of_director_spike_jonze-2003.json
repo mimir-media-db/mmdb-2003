@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_work_of_director_spike_jonze_2003",
+  "title": "The Work of Director Spike Jonze",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123287629",
+    "imdb": "tt0386124",
+    "tmdb": 282879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

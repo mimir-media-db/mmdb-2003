@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nguoi_an_ba_mong_du_2003",
+  "title": "Người đàn bà mộng du",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116818790",
+    "imdb": "tt19892942",
+    "tmdb": 678213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bugs_a_rainforest_adventure_2003",
+  "title": "Bugs! A Rainforest Adventure",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77885232",
+    "imdb": "tt0337587",
+    "tmdb": 15755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 40
+}

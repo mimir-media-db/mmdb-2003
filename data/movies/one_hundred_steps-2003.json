@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_hundred_steps_2003",
+  "title": "One Hundred Steps",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q165183",
+    "imdb": "tt0238891",
+    "tmdb": 29458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-28",
+  "runtime_minutes": 104
+}

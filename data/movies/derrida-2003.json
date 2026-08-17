@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_derrida_2003",
+  "title": "Derrida",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q376922",
+    "imdb": "tt0303326",
+    "tmdb": 35935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-06",
+  "runtime_minutes": 86
+}

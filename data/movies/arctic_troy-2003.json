@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_arctic_troy_2003",
+  "title": "Arctic Troy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881623"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 26
+}

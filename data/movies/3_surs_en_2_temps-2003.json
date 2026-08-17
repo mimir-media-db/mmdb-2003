@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_surs_en_2_temps_2003",
+  "title": "3 sœurs en 2 temps",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60944155",
+    "imdb": "tt0352123"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 96
+}

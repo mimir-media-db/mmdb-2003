@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_cirque_de_vie_de_cirque_2003",
+  "title": "Cirque de vie de cirque",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56219805"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

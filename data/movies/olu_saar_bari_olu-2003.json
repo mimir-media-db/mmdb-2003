@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_olu_saar_bari_olu_2003",
+  "title": "Olu Saar Bari Olu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91393741",
+    "imdb": "tt14691782"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-29"
+}

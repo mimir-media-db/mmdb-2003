@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonhoeffer_2003",
+  "title": "Bonhoeffer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97032398",
+    "imdb": "tt0371583",
+    "tmdb": 206065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

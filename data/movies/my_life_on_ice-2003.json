@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_on_ice_2003",
+  "title": "My Life on Ice",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1439722",
+    "imdb": "tt0304363",
+    "tmdb": 27143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-03",
+  "runtime_minutes": 102
+}

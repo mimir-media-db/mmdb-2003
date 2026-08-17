@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhal_sadugudu_2003",
+  "title": "Kadhal Sadugudu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6345426",
+    "imdb": "tt4960754",
+    "tmdb": 69667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-13"
+}

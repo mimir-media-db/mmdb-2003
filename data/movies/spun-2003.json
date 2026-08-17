@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spun_2003",
+  "title": "Spun",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1663240",
+    "imdb": "tt0283003",
+    "tmdb": 12079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-14",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bells_of_innocence_2003",
+  "title": "Bells of Innocence",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2377939",
+    "imdb": "tt0312450",
+    "tmdb": 36859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-06",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horseless_prince_2003",
+  "title": "The Horseless Prince",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133266780",
+    "imdb": "tt0380421",
+    "tmdb": 131890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-24",
+  "runtime_minutes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freddy_vs_jason_2003",
+  "title": "Freddy vs. Jason",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q965859",
+    "imdb": "tt0329101",
+    "tmdb": 6466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-15",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_over_the_dreamland_2003",
+  "title": "Somewhere Over the Dreamland",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15914134",
+    "imdb": "tt0340854",
+    "tmdb": 312776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_my_image_2003",
+  "title": "In My Image",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600704",
+    "imdb": "tt2319546",
+    "tmdb": 688799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

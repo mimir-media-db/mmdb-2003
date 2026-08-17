@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gate_to_heaven_2003",
+  "title": "Gate to Heaven",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48815000",
+    "imdb": "tt0341372",
+    "tmdb": 373744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-25"
+}

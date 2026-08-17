@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_movie_3_2003",
+  "title": "Scary Movie 3",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q635937",
+    "imdb": "tt0306047",
+    "tmdb": 4256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-20",
+  "runtime_minutes": 84
+}

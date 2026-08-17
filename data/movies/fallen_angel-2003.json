@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fallen_angel_2003",
+  "title": "Fallen Angel",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25205594",
+    "imdb": "tt0357648",
+    "tmdb": 55210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

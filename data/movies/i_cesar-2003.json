@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_cesar_2003",
+  "title": "I, Cesar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q607419",
+    "imdb": "tt0314390",
+    "tmdb": 60025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-09",
+  "runtime_minutes": 88
+}

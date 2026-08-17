@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_has_a_rap_sheet_2003",
+  "title": "God Has a Rap Sheet",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45928156",
+    "imdb": "tt0353497",
+    "tmdb": 259844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-07",
+  "runtime_minutes": 118
+}

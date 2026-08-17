@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olsenbanden_jr_2003",
+  "title": "Olsenbanden Jr.",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q475788",
+    "imdb": "tt0296788",
+    "tmdb": 78276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-20",
+  "runtime_minutes": 85
+}

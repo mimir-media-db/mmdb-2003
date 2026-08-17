@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looney_tunes_back_in_action_2003",
+  "title": "Looney Tunes: Back in Action",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q834165",
+    "imdb": "tt0318155",
+    "tmdb": 10715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-09",
+  "runtime_minutes": 91
+}

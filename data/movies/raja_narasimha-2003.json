@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_raja_narasimha_2003",
+  "title": "Raja Narasimha",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13160861",
+    "imdb": "tt39051385"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-21"
+}

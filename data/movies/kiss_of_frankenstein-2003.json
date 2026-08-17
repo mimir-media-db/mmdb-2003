@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_of_frankenstein_2003",
+  "title": "Kiss of Frankenstein",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29510827",
+    "imdb": "tt0464494",
+    "tmdb": 635565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

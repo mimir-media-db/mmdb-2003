@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_du_ska_nog_se_att_det_gar_over_2003",
+  "title": "Du ska nog se att det går över",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18238486",
+    "imdb": "tt0367684",
+    "tmdb": 434094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 74
+}

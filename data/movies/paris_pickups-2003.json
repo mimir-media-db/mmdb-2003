@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_pickups_2003",
+  "title": "Paris Pickups",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138604065",
+    "imdb": "tt0414350",
+    "tmdb": 680428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

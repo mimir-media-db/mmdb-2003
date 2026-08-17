@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ente_veedu_appuvinteyum_2003",
+  "title": "Ente Veedu Appuvinteyum",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5380120",
+    "imdb": "tt0389973",
+    "tmdb": 359475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-11"
+}

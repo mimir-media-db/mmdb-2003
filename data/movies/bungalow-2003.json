@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bungalow_2003",
+  "title": "Bungalow",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q826327",
+    "imdb": "tt0309404",
+    "tmdb": 40640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-06",
+  "runtime_minutes": 85
+}

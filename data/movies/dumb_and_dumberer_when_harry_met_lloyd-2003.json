@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dumb_and_dumberer_when_harry_met_lloyd_2003",
+  "title": "Dumb and Dumberer: When Harry Met Lloyd",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1265087",
+    "imdb": "tt0329028",
+    "tmdb": 10152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-13",
+  "runtime_minutes": 85
+}

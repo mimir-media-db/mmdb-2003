@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_douleur_et_revolte_2003",
+  "title": "Douleur et révolte",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872517"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 42
+}

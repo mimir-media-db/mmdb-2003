@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tusuk_jelangkung_2003",
+  "title": "Tusuk Jelangkung",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12522813",
+    "imdb": "tt0360118",
+    "tmdb": 288042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vida_mancha_2003",
+  "title": "La vida mancha",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19275057",
+    "imdb": "tt0367203",
+    "tmdb": 115519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-09",
+  "runtime_minutes": 107
+}

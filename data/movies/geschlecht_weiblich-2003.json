@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_geschlecht_weiblich_2003",
+  "title": "Geschlecht: weiblich",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37606625",
+    "imdb": "tt0362679",
+    "tmdb": 360006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

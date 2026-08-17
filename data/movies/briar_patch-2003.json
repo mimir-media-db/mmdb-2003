@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_briar_patch_2003",
+  "title": "Briar Patch",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3644536",
+    "imdb": "tt0220343",
+    "tmdb": 80218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-20",
+  "runtime_minutes": 103
+}

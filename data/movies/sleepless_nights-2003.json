@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleepless_nights_2003",
+  "title": "Sleepless Nights",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12217111",
+    "imdb": "tt0328349",
+    "tmdb": 136857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-16"
+}

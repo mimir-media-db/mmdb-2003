@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bend_it_like_beckham_2003",
+  "title": "Bend It Like Beckham",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q369492",
+    "imdb": "tt0286499",
+    "tmdb": 455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-12",
+  "runtime_minutes": 112
+}

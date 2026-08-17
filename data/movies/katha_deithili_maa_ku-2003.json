@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katha_deithili_maa_ku_2003",
+  "title": "Katha Deithili Maa Ku",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15723814",
+    "imdb": "tt1454123",
+    "tmdb": 1096927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_as_it_comes_2003",
+  "title": "Life as It Comes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824962",
+    "imdb": "tt0373430",
+    "tmdb": 527292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-09",
+  "runtime_minutes": 118
+}

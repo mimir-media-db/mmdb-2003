@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_what_we_did_last_summer_2003",
+  "title": "What We Did Last Summer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16170689"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-02"
+}

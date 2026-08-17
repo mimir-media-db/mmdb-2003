@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_an_impotent_man_2003",
+  "title": "In Search of an Impotent Man",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1312757",
+    "imdb": "tt0285209",
+    "tmdb": 57715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-03",
+  "runtime_minutes": 96
+}

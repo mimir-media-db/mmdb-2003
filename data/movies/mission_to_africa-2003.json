@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_to_africa_2003",
+  "title": "Mission to Africa",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113369516",
+    "imdb": "tt1525413"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

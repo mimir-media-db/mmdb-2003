@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_owl_2003",
+  "title": "Owl",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7114841",
+    "imdb": "tt0373852",
+    "tmdb": 47198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-22",
+  "runtime_minutes": 119
+}

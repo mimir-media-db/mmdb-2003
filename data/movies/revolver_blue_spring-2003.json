@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revolver_blue_spring_2003",
+  "title": "Revolver - Blue Spring",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11348424",
+    "imdb": "tt0420125",
+    "tmdb": 336022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-01",
+  "runtime_minutes": 97
+}

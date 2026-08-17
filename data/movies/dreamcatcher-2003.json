@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamcatcher_2003",
+  "title": "Dreamcatcher",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1256231",
+    "imdb": "tt0285531",
+    "tmdb": 6171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-06",
+  "runtime_minutes": 128
+}
