@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hi_working_girl",
+  "title": "Hi Working Girl",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q10850929",
+    "imdb": "tt24472644",
+    "tmdb": 48787
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 23
+}

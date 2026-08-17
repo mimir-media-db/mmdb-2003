@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_homo_zapping",
+  "title": "Homo Zapping",
+  "start_year": 2003,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q5901379",
+    "imdb": "tt0391610",
+    "tmdb": 80384
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 321
+}
