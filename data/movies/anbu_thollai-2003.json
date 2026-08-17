@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anbu_thollai_2003",
+  "title": "Anbu Thollai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246658",
+    "imdb": "tt8914086",
+    "tmdb": 303042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-14"
+}

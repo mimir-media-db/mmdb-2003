@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antwone_fisher_2003",
+  "title": "Antwone Fisher",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610339",
+    "imdb": "tt0168786",
+    "tmdb": 13435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-12",
+  "runtime_minutes": 120
+}

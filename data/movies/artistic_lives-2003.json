@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_artistic_lives_2003",
+  "title": "Artistic Lives",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600655",
+    "imdb": "tt3348650"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_trancas_de_maria_2003",
+  "title": "As Tranças de Maria",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118541090",
+    "imdb": "tt0410802",
+    "tmdb": 279437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

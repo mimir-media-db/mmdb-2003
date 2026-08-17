@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ash_tuesday_2003",
+  "title": "Ash Tuesday",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19007164",
+    "imdb": "tt0362421",
+    "tmdb": 259145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

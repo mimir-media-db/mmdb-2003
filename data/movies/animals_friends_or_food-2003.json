@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_animals_friends_or_food_2003",
+  "title": "Animals: Friends Or Food?",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123306403"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

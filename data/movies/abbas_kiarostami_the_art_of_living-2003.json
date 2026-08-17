@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abbas_kiarostami_the_art_of_living_2003",
+  "title": "Abbas Kiarostami: the Art of Living",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77979433",
+    "imdb": "tt0867594",
+    "tmdb": 405848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 55
+}

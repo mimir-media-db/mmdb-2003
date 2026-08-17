@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arm_of_jesus_2003",
+  "title": "The Arm of Jesus",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1938628",
+    "imdb": "tt0352178",
+    "tmdb": 2802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-06",
+  "runtime_minutes": 71
+}

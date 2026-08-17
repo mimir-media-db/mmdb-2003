@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_anbe_un_vasam_2003",
+  "title": "Anbe Un Vasam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768014",
+    "imdb": "tt13801674"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

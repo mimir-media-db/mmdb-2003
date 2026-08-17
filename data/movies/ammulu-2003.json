@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ammulu_2003",
+  "title": "Ammulu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126126006",
+    "imdb": "tt0349086"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-01"
+}

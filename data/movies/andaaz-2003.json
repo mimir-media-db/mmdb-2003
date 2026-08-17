@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_andaaz_2003",
+  "title": "Andaaz",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4753466",
+    "imdb": "tt0346507",
+    "tmdb": 54072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-23"
+}

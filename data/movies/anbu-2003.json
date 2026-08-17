@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_anbu_2003",
+  "title": "Anbu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246652",
+    "imdb": "tt13919780"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abracatastrophe_2003",
+  "title": "Abra-Catastrophe!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q261931",
+    "imdb": "tt0363600",
+    "tmdb": 697932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-12",
+  "runtime_minutes": 55
+}

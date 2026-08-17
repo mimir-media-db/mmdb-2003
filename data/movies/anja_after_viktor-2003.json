@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anja_after_viktor_2003",
+  "title": "Anja After Viktor",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12301702",
+    "imdb": "tt0339988",
+    "tmdb": 23294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-04",
+  "runtime_minutes": 85
+}

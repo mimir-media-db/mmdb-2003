@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_cody_banks_2003",
+  "title": "Agent Cody Banks",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q392677",
+    "imdb": "tt0313911",
+    "tmdb": 10923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-14",
+  "runtime_minutes": 102
+}

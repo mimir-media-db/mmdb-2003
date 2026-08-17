@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apres_la_pluie_le_beau_temps_2003",
+  "title": "Après la pluie, le beau temps",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16303794",
+    "imdb": "tt0321265",
+    "tmdb": 534454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

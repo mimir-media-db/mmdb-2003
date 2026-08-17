@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atraco_a_las_3_y_media_2003",
+  "title": "Atraco a las 3... y media",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87072652",
+    "imdb": "tt0373692",
+    "tmdb": 116545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-20",
+  "runtime_minutes": 96
+}

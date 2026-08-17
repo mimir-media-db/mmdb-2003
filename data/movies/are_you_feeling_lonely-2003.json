@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_are_you_feeling_lonely_2003",
+  "title": "Are You Feeling Lonely?",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124631188",
+    "imdb": "tt0391763",
+    "tmdb": 484225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

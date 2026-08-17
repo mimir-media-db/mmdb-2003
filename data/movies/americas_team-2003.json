@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_americas_team_2003",
+  "title": "America's Team",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4742599"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-25"
+}
