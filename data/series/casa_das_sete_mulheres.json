@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_casa_das_sete_mulheres",
+  "title": "A Casa das Sete Mulheres",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q367189",
+    "imdb": "tt0348904",
+    "tmdb": 42336
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

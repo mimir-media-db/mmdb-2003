@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_canadian_idol",
+  "title": "Canadian Idol",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1372559",
+    "imdb": "tt0365991",
+    "tmdb": 3751
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 186
+}

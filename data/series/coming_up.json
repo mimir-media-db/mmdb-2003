@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coming_up",
+  "title": "Coming Up",
+  "start_year": 2003,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5151958",
+    "imdb": "tt0406404",
+    "tmdb": 59969
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 79
+}

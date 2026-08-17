@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crystal_boys",
+  "title": "Crystal Boys",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q10945786",
+    "imdb": "tt1231008",
+    "tmdb": 57134
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

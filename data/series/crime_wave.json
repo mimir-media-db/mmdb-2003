@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_wave",
+  "title": "Crime Wave",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q123413800",
+    "imdb": "tt0434680",
+    "tmdb": 47903
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 103
+}

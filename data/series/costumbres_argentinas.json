@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_costumbres_argentinas",
+  "title": "Costumbres argentinas",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5790139",
+    "imdb": "tt0352047",
+    "tmdb": 287565
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 264
+}

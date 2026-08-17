@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_country_princess",
+  "title": "Country Princess",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11264125",
+    "imdb": "tt2296553",
+    "tmdb": 25460
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}
