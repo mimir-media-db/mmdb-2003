@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bumer_2003",
+  "title": "Bumer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1004801",
+    "imdb": "tt0381936",
+    "tmdb": 62276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-02",
+  "runtime_minutes": 110
+}

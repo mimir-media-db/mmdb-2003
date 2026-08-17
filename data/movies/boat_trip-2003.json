@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boat_trip_2003",
+  "title": "Boat Trip",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q600299",
+    "imdb": "tt0285462",
+    "tmdb": 9557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-20",
+  "runtime_minutes": 93
+}

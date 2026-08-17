@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buen_viaje_excelencia_2003",
+  "title": "¡Buen viaje, excelencia!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99735696",
+    "imdb": "tt0346180",
+    "tmdb": 222561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bill_viola_the_eye_of_the_heart_2003",
+  "title": "Bill Viola: The Eye of the Heart",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55311779",
+    "imdb": "tt1075306",
+    "tmdb": 317631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 59
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boiling_point_2003",
+  "title": "Boiling Point",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99557514",
+    "imdb": "tt0327096",
+    "tmdb": 1027854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-05"
+}

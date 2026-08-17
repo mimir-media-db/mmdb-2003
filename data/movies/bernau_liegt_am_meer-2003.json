@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bernau_liegt_am_meer_2003",
+  "title": "Bernau liegt am Meer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21686715",
+    "imdb": "tt0406576",
+    "tmdb": 424908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

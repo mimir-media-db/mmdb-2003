@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brown_sugar_2003",
+  "title": "Brown Sugar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3280697",
+    "imdb": "tt0297037",
+    "tmdb": 37964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-21",
+  "runtime_minutes": 109
+}

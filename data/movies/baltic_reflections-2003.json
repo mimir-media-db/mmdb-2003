@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baltic_reflections_2003",
+  "title": "Baltic Reflections",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20755930",
+    "imdb": "tt2473592"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 10
+}

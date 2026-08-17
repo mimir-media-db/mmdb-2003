@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bound_heat_the_final_victim_2003",
+  "title": "Bound Heat - The Final Victim",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104895710",
+    "imdb": "tt0302566",
+    "tmdb": 98628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bertud_ng_putik_2003",
+  "title": "Bertud ng Putik",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132128305",
+    "imdb": "tt0369267",
+    "tmdb": 362081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_royale_ii_requiem_2003",
+  "title": "Battle Royale II: Requiem",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q798199",
+    "imdb": "tt0338763",
+    "tmdb": 3177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-05",
+  "runtime_minutes": 133
+}

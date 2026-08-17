@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_days_2003",
+  "title": "Book of Days",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126918439",
+    "imdb": "tt0346639",
+    "tmdb": 355919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

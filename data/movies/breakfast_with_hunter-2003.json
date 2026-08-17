@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakfast_with_hunter_2003",
+  "title": "Breakfast with Hunter",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4959498",
+    "imdb": "tt0367565",
+    "tmdb": 39848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-21",
+  "runtime_minutes": 91
+}

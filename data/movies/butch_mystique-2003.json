@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butch_mystique_2003",
+  "title": "Butch Mystique",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30324914",
+    "imdb": "tt0424871",
+    "tmdb": 476188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

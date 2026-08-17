@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beat_the_drum_2003",
+  "title": "Beat the Drum",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4876991",
+    "imdb": "tt0387057",
+    "tmdb": 79570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-10"
+}

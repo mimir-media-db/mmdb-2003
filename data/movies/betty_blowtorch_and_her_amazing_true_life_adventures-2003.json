@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_betty_blowtorch_and_her_amazing_true_life_adventures_2003",
+  "title": "Betty Blowtorch and Her Amazing True Life Adventures",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517519",
+    "imdb": "tt0366227",
+    "tmdb": 58301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

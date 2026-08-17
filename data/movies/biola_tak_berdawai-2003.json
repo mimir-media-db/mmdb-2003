@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_biola_tak_berdawai_2003",
+  "title": "Biola Tak Berdawai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4914929",
+    "imdb": "tt0353240",
+    "tmdb": 146526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-22"
+}
