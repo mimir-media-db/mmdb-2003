@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_88_antop_hill_2003",
+  "title": "88 Antop Hill",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4645054",
+    "imdb": "tt0349058",
+    "tmdb": 318878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
