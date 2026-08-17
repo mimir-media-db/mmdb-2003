@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pitts",
+  "title": "The Pitts",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7757305",
+    "imdb": "tt0338647",
+    "tmdb": 3682
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

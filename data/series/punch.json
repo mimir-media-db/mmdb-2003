@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_punch",
+  "title": "Punch",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16188103",
+    "tmdb": 35177
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_platinum",
+  "title": "Platinum",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7202328",
+    "imdb": "tt0361224",
+    "tmdb": 17723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
