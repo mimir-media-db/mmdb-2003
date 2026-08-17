@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joggers_park_2003",
+  "title": "Joggers' Park",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6214747",
+    "imdb": "tt0363721",
+    "tmdb": 97027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-12"
+}

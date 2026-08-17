@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johanna_yohanna_2003",
+  "title": "Johanna Yohanna",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728988",
+    "imdb": "tt0424202",
+    "tmdb": 942509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-23",
+  "runtime_minutes": 30
+}

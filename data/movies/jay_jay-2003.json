@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jay_jay_2003",
+  "title": "Jay Jay",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6166754",
+    "imdb": "tt0416874",
+    "tmdb": 166228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-14"
+}

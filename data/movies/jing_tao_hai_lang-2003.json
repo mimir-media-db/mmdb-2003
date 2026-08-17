@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jing_tao_hai_lang_2003",
+  "title": "Jing Tao Hai Lang",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125401311",
+    "imdb": "tt10086634",
+    "tmdb": 744325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-01",
+  "runtime_minutes": 102
+}

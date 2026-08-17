@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_2003",
+  "title": "The Journey",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100395695",
+    "imdb": "tt0325661",
+    "tmdb": 159346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
