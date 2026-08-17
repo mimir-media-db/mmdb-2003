@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gamecenter_cx",
+  "title": "GameCenter CX",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5519770",
+    "imdb": "tt0969664",
+    "tmdb": 17338
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 217
+}
