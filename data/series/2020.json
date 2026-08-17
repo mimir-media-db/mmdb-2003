@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_2020",
+  "title": "2020",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2190195",
+    "imdb": "tt0495779"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
