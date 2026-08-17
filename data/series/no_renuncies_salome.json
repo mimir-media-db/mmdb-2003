@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_no_renuncies_salome",
+  "title": "No renuncies Salome",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6043912",
+    "imdb": "tt0371467"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 75
+}
