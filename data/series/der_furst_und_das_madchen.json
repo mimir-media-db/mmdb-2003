@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_furst_und_das_madchen",
+  "title": "Der Fürst und das Mädchen",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q322317",
+    "imdb": "tt0387740",
+    "tmdb": 36218
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}

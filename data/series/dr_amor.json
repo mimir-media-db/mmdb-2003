@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_amor",
+  "title": "Dr. Amor",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5814019",
+    "imdb": "tt0363327"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

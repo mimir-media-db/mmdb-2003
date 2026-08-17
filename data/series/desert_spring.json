@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_desert_spring",
+  "title": "Desert Spring",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12599713",
+    "imdb": "tt33625843",
+    "tmdb": 83311
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}
