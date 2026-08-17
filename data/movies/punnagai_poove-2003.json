@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punnagai_poove_2003",
+  "title": "Punnagai Poove",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7260450",
+    "imdb": "tt1612570",
+    "tmdb": 413144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

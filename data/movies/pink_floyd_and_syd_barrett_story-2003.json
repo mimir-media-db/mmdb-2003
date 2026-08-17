@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_floyd_and_syd_barrett_story_2003",
+  "title": "The Pink Floyd and Syd Barrett Story",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2620081",
+    "imdb": "tt0368147",
+    "tmdb": 31557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 60
+}

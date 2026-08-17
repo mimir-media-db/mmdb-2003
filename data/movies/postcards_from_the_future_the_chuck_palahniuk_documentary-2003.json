@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_postcards_from_the_future_the_chuck_palahniuk_documentary_2003",
+  "title": "Postcards from the Future: The Chuck Palahniuk Documentary",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10352128",
+    "imdb": "tt0398273",
+    "tmdb": 115179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

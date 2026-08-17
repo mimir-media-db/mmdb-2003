@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_of_temple_street_2003",
+  "title": "The Princess of Temple Street",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758338",
+    "tmdb": 1139068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

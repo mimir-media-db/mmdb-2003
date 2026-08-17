@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_in_the_company_of_men_2003",
+  "title": "Playing 'In the Company of Men'",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3270406",
+    "imdb": "tt0353400",
+    "tmdb": 126108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 121
+}

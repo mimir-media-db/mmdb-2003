@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pride_prejudice_a_latterday_comedy_2003",
+  "title": "Pride & Prejudice: A Latter-Day Comedy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2088470",
+    "imdb": "tt0366920",
+    "tmdb": 18087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 104
+}

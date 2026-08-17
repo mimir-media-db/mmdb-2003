@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_purple_butterfly_2003",
+  "title": "Purple Butterfly",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q987697",
+    "imdb": "tt0363290",
+    "tmdb": 34561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 127
+}

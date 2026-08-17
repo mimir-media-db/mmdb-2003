@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penetration_angst_2003",
+  "title": "Penetration Angst",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2068801",
+    "imdb": "tt0366894",
+    "tmdb": 52326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

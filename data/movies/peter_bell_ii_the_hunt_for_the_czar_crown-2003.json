@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_bell_ii_the_hunt_for_the_czar_crown_2003",
+  "title": "Peter Bell II: The Hunt for the Czar Crown",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1939020",
+    "imdb": "tt0357959",
+    "tmdb": 21664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

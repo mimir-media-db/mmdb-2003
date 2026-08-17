@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pontormo_un_amore_eretico_2003",
+  "title": "Pontormo – un amore eretico",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3908312",
+    "imdb": "tt0330778",
+    "tmdb": 58746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}
