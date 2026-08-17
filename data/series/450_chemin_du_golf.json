@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_450_chemin_du_golf",
+  "title": "450, Chemin du Golf",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2816852",
+    "imdb": "tt0388571",
+    "tmdb": 14775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 146
+}
