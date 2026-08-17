@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chokka_thangam_2003",
+  "title": "Chokka Thangam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5104231",
+    "imdb": "tt8938678",
+    "tmdb": 78954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

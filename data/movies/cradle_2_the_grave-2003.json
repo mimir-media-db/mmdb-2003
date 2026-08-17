@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cradle_2_the_grave_2003",
+  "title": "Cradle 2 the Grave",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q837536",
+    "imdb": "tt0306685",
+    "tmdb": 10623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_calcutta_mail_2003",
+  "title": "Calcutta Mail",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5018940",
+    "imdb": "tt0366276",
+    "tmdb": 295508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

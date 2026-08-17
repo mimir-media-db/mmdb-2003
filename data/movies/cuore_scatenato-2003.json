@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuore_scatenato_2003",
+  "title": "Cuore scatenato",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3699484",
+    "imdb": "tt0384897",
+    "tmdb": 260745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

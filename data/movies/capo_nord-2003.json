@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capo_nord_2003",
+  "title": "Capo Nord",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3657157",
+    "imdb": "tt0357527",
+    "tmdb": 173683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

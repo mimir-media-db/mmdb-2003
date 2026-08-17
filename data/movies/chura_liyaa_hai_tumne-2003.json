@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chura_liyaa_hai_tumne_2003",
+  "title": "Chura Liyaa Hai Tumne",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1089690",
+    "imdb": "tt0345043",
+    "tmdb": 362291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 143
+}

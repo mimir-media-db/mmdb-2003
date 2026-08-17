@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cala_my_dog_2003",
+  "title": "Cala, My Dog!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5018251",
+    "imdb": "tt0366655",
+    "tmdb": 257572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

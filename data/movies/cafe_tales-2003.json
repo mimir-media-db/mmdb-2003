@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_tales_2003",
+  "title": "Café Tales",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6594808",
+    "imdb": "tt0386041",
+    "tmdb": 78497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capricciosa_2003",
+  "title": "Capricciosa",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5486152",
+    "imdb": "tt0331212",
+    "tmdb": 155562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

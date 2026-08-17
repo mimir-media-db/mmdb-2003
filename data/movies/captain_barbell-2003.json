@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_barbell_2003",
+  "title": "Captain Barbell",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12962502",
+    "imdb": "tt0389833",
+    "tmdb": 106905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 115
+}

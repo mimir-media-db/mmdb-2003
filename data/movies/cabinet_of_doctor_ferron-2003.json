@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cabinet_of_doctor_ferron_2003",
+  "title": "The Cabinet of Doctor Ferron",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220708",
+    "imdb": "tt4236344"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

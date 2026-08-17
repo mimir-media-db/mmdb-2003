@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cowards_bend_the_knee_2003",
+  "title": "Cowards Bend the Knee",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5179474",
+    "imdb": "tt0346800",
+    "tmdb": 17595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 60
+}

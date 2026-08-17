@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corazon_de_melon_2003",
+  "title": "Corazón de melón",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8350924",
+    "imdb": "tt0386388",
+    "tmdb": 340667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 106
+}

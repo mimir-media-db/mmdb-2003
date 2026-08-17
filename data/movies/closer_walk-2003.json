@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_closer_walk_2003",
+  "title": "A Closer Walk",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655982",
+    "imdb": "tt0375663",
+    "tmdb": 946024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cleopatras_nose_2003",
+  "title": "Cleopatra's Nose",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967508",
+    "imdb": "tt0390292",
+    "tmdb": 1608979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 12
+}

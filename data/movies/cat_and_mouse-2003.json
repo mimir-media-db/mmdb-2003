@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_and_mouse_2003",
+  "title": "Cat and Mouse",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5051082",
+    "imdb": "tt0366720",
+    "tmdb": 56031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

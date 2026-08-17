@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capturing_the_friedmans_2003",
+  "title": "Capturing the Friedmans",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q348007",
+    "imdb": "tt0342172",
+    "tmdb": 2260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 107
+}
