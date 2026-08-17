@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parinamam_2003",
+  "title": "Parinamam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16320589",
+    "imdb": "tt0451153",
+    "tmdb": 534393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-28",
+  "runtime_minutes": 125
+}

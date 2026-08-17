@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pirates_of_the_caribbean_the_curse_of_the_black_pearl_2003",
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46717",
+    "imdb": "tt0325980",
+    "tmdb": 22
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-09",
+  "runtime_minutes": 137
+}

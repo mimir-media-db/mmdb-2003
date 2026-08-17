@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polleke_2003",
+  "title": "Polleke",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2195420",
+    "imdb": "tt0328270",
+    "tmdb": 323434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-09",
+  "runtime_minutes": 94
+}

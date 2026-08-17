@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pisthaco_2003",
+  "title": "Pisthaco",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278430",
+    "imdb": "tt6263732",
+    "tmdb": 639783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

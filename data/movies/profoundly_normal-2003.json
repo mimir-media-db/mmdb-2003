@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_profoundly_normal_2003",
+  "title": "Profoundly Normal",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56649853",
+    "imdb": "tt0344236",
+    "tmdb": 110734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 96
+}

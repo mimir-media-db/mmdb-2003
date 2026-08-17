@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_partha_2003",
+  "title": "Partha",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252868",
+    "imdb": "tt2951596",
+    "tmdb": 1499058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

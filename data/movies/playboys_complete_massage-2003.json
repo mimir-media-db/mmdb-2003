@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playboys_complete_massage_2003",
+  "title": "Playboy's Complete Massage",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102045756",
+    "imdb": "tt0148616",
+    "tmdb": 1737200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-07",
+  "runtime_minutes": 62
+}

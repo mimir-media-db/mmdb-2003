@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pasion_en_la_isla_2003",
+  "title": "Pasión en la isla",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135106853",
+    "imdb": "tt0397475",
+    "tmdb": 369267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

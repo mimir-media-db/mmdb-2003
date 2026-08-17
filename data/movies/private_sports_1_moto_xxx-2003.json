@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_sports_1_moto_xxx_2003",
+  "title": "Private Sports 1: Moto XXX",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140420579",
+    "imdb": "tt0399372",
+    "tmdb": 1237361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-01",
+  "runtime_minutes": 90
+}

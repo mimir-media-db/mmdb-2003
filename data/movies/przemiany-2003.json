@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_przemiany_2003",
+  "title": "Przemiany",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11828831",
+    "imdb": "tt0380650",
+    "tmdb": 493658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-10"
+}

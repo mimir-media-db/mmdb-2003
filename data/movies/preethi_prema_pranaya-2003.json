@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_preethi_prema_pranaya_2003",
+  "title": "Preethi Prema Pranaya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25628025",
+    "imdb": "tt6860630",
+    "tmdb": 1631050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

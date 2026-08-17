@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pentagramm_2003",
+  "title": "Pentagramm",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349488",
+    "imdb": "tt1717191",
+    "tmdb": 1527051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-01"
+}

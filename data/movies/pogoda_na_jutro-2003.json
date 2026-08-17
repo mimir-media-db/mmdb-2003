@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pogoda_na_jutro_2003",
+  "title": "Pogoda na jutro",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11820993",
+    "imdb": "tt0380636",
+    "tmdb": 211746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-03",
+  "runtime_minutes": 95
+}
