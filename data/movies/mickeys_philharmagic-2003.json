@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mickeys_philharmagic_2003",
+  "title": "Mickey's PhilharMagic",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1858262",
+    "imdb": "tt0339384",
+    "tmdb": 1726746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mayor_of_the_sunset_strip_2003",
+  "title": "Mayor of the Sunset Strip",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6797857",
+    "imdb": "tt0230512",
+    "tmdb": 61487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 94
+}

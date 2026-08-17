@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mykonos_lkp_casting_03_2003",
+  "title": "Mykonos: LKP Casting 03",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3303855",
+    "imdb": "tt1168737",
+    "tmdb": 1058231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

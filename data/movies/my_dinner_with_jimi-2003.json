@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dinner_with_jimi_2003",
+  "title": "My Dinner with Jimi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945282",
+    "imdb": "tt0277171",
+    "tmdb": 62361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

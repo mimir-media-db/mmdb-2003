@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mais_qui_a_tue_pamela_rose_2003",
+  "title": "Mais qui a tué Pamela Rose?",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3278522",
+    "imdb": "tt0338828",
+    "tmdb": 20106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

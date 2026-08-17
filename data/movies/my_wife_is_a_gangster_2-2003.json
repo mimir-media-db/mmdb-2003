@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_wife_is_a_gangster_2_2003",
+  "title": "My Wife Is a Gangster 2",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q562737",
+    "imdb": "tt0364447",
+    "tmdb": 21708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

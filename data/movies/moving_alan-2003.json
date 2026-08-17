@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moving_alan_2003",
+  "title": "Moving Alan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10332889",
+    "imdb": "tt0310741",
+    "tmdb": 157152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

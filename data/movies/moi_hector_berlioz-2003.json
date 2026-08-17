@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moi_hector_berlioz_2003",
+  "title": "Moi, Hector Berlioz",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3860156",
+    "imdb": "tt0844016"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 55
+}

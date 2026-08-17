@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_more_than_famous_2003",
+  "title": "More than Famous",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6911171",
+    "imdb": "tt0365516",
+    "tmdb": 728519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 70
+}

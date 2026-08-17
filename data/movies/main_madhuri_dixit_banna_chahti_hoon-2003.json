@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_main_madhuri_dixit_banna_chahti_hoon_2003",
+  "title": "Main Madhuri Dixit Banna Chahti Hoon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45987",
+    "imdb": "tt0374848",
+    "tmdb": 166256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 150
+}

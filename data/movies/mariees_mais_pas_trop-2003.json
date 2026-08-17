@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mariees_mais_pas_trop_2003",
+  "title": "Mariées mais pas trop",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q376885",
+    "imdb": "tt0339572",
+    "tmdb": 72345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

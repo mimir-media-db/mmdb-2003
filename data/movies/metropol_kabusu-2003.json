@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metropol_kabusu_2003",
+  "title": "Metropol Kabusu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012496",
+    "imdb": "tt0447302",
+    "tmdb": 1158495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

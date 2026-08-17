@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_first_romance_2003",
+  "title": "My First Romance",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945473",
+    "imdb": "tt0417991",
+    "tmdb": 114298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

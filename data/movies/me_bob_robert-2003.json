@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_me_bob_robert_2003",
+  "title": "Me Bob Robert",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3319191"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

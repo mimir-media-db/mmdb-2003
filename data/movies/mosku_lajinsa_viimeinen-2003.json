@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mosku_lajinsa_viimeinen_2003",
+  "title": "Mosku - lajinsa viimeinen",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11883272",
+    "imdb": "tt0340253",
+    "tmdb": 50989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 136
+}
