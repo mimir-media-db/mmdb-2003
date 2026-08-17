@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valentin_2003",
+  "title": "Valentín",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87005467",
+    "imdb": "tt0324408",
+    "tmdb": 257937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-11",
+  "runtime_minutes": 110
+}

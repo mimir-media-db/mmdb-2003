@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_variete_francaise_2003",
+  "title": "Variété française",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074474",
+    "imdb": "tt0329728",
+    "tmdb": 573955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

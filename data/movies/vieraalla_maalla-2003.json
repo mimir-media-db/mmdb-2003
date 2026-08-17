@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vieraalla_maalla_2003",
+  "title": "Vieraalla maalla",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17384821",
+    "imdb": "tt0367204",
+    "tmdb": 74183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 91
+}
