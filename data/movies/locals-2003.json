@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_locals_2003",
+  "title": "The Locals",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2878549",
+    "imdb": "tt0387357",
+    "tmdb": 35250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

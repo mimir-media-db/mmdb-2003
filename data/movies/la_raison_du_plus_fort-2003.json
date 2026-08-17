@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_raison_du_plus_fort_2003",
+  "title": "La Raison du plus fort",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212149",
+    "imdb": "tt0407146",
+    "tmdb": 533379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 86
+}

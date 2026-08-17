@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_junction_2003",
+  "title": "Lost Junction",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1314212",
+    "imdb": "tt0283453",
+    "tmdb": 44287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

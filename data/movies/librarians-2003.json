@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_librarians_2003",
+  "title": "The Librarians",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747082",
+    "imdb": "tt0362820",
+    "tmdb": 146608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

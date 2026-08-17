@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_ride_home_2003",
+  "title": "The Long Ride Home",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3988071",
+    "imdb": "tt0283452",
+    "tmdb": 98250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

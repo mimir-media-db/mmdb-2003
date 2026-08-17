@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loc_kargil_2003",
+  "title": "LOC Kargil",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2009584",
+    "imdb": "tt0347416",
+    "tmdb": 71920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

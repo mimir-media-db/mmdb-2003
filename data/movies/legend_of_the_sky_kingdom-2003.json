@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_sky_kingdom_2003",
+  "title": "The Legend of the Sky Kingdom",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521563",
+    "imdb": "tt0430293",
+    "tmdb": 76925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 73
+}

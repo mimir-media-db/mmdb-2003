@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_mejor_que_le_puede_pasar_a_un_cruasan_2003",
+  "title": "Lo mejor que le puede pasar a un cruasán",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610488",
+    "imdb": "tt0382156",
+    "tmdb": 128066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

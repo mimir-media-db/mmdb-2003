@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovers_kiss_2003",
+  "title": "Lovers' Kiss",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q851858",
+    "imdb": "tt1020048",
+    "tmdb": 117811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 114
+}

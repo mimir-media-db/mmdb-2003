@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_glaneurs_et_la_glaneuse_deux_ans_apres_2003",
+  "title": "Les glaneurs et la glaneuse... deux ans après",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3024909",
+    "imdb": "tt0345128",
+    "tmdb": 84026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 63
+}

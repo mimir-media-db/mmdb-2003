@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ld_50_lethal_dose_2003",
+  "title": "LD 50 Lethal Dose",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6457546",
+    "imdb": "tt0337659",
+    "tmdb": 15473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

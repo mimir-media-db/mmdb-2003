@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_voce_che_si_spense_2003",
+  "title": "La voce che si spense",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3825038",
+    "imdb": "tt10656114"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 210
+}

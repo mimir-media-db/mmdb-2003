@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_life_in_the_universe_2003",
+  "title": "Last Life in the Universe",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2706213",
+    "imdb": "tt0345549",
+    "tmdb": 11606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 112
+}

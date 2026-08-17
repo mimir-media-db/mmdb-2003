@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_lili_2003",
+  "title": "Little Lili",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2081164",
+    "imdb": "tt0335351",
+    "tmdb": 51865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 104
+}

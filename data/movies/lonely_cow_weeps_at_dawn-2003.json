@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_cow_weeps_at_dawn_2003",
+  "title": "A Lonely Cow Weeps at Dawn",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657903",
+    "imdb": "tt1294659",
+    "tmdb": 53130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 61
+}

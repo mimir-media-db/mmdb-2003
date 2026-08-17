@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legally_blonde_2_red_white_blonde_2003",
+  "title": "Legally Blonde 2: Red, White & Blonde",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q644969",
+    "imdb": "tt0333780",
+    "tmdb": 10327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 91
+}
