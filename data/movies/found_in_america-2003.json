@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_found_in_america_2003",
+  "title": "Found in America",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16352020",
+    "imdb": "tt5123380",
+    "tmdb": 767510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 58
+}

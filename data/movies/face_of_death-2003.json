@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_face_of_death_2003",
+  "title": "The Face of Death",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106680774",
+    "imdb": "tt0392310",
+    "tmdb": 579984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

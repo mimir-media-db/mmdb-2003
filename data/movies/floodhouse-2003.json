@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floodhouse_2003",
+  "title": "Floodhouse",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600702",
+    "imdb": "tt0380364",
+    "tmdb": 421693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 50
+}

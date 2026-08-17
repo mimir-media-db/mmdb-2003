@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_and_elephant_2003",
+  "title": "Fish and Elephant",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4401584",
+    "imdb": "tt0317763",
+    "tmdb": 254479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-27",
+  "runtime_minutes": 106
+}

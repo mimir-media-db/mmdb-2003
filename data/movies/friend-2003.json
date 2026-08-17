@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_2003",
+  "title": "The Friend",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58313404",
+    "imdb": "tt0390018",
+    "tmdb": 72416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-30",
+  "runtime_minutes": 105
+}

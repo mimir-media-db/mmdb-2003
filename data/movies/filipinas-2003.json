@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filipinas_2003",
+  "title": "Filipinas",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123643814",
+    "imdb": "tt0392005",
+    "tmdb": 289959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25",
+  "runtime_minutes": 100
+}

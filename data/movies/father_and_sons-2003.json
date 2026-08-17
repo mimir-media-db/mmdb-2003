@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_father_and_sons_2003",
+  "title": "Father and Sons",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3411602",
+    "imdb": "tt0354855",
+    "tmdb": 51870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-16",
+  "runtime_minutes": 95
+}

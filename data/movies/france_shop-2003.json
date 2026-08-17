@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_france_shop_2003",
+  "title": "France Shop",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3080677",
+    "imdb": "tt0339028",
+    "tmdb": 64207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-08",
+  "runtime_minutes": 95
+}

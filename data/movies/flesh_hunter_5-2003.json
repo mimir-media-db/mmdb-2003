@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flesh_hunter_5_2003",
+  "title": "Flesh Hunter 5",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139820792",
+    "imdb": "tt0408788",
+    "tmdb": 475286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-01",
+  "runtime_minutes": 145
+}

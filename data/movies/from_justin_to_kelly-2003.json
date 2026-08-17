@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_justin_to_kelly_2003",
+  "title": "From Justin to Kelly",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1714159",
+    "imdb": "tt0339034",
+    "tmdb": 31246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-20",
+  "runtime_minutes": 81
+}

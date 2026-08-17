@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_food_of_love_2003",
+  "title": "Food of Love",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2345475",
+    "imdb": "tt0309600",
+    "tmdb": 41645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-24",
+  "runtime_minutes": 112
+}
