@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_k_street",
+  "title": "K Street",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q15072827",
+    "imdb": "tt0364822",
+    "tmdb": 10093
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

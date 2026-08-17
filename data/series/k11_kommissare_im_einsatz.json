@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_k11_kommissare_im_einsatz",
+  "title": "K11 – Kommissare im Einsatz",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q682172",
+    "imdb": "tt0463824",
+    "tmdb": 40805
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 1828
+}
