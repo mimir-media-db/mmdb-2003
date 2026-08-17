@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sea_monsters",
+  "title": "Sea Monsters",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2034748",
+    "imdb": "tt0469006",
+    "tmdb": 19835
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

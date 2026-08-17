@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_solstrom",
+  "title": "Solstrom",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7558886",
+    "imdb": "tt0824521",
+    "tmdb": 43320
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

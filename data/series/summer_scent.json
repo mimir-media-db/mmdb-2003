@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_scent",
+  "title": "Summer Scent",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q45544",
+    "imdb": "tt0464627",
+    "tmdb": 14761
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_skithouse",
+  "title": "SkitHOUSE",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7535948",
+    "imdb": "tt0350457",
+    "tmdb": 5013
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

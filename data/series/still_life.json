@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_still_life",
+  "title": "Still Life",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3973563",
+    "imdb": "tt0366100",
+    "tmdb": 39658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

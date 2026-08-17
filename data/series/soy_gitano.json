@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_soy_gitano",
+  "title": "Soy gitano",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7571988",
+    "imdb": "tt0349005",
+    "tmdb": 204736
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 252
+}

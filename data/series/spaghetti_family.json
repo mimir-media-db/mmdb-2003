@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spaghetti_family",
+  "title": "The Spaghetti Family",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3822261",
+    "imdb": "tt0409617",
+    "tmdb": 100024
+  },
+  "last_updated": "2026-08-17"
+}

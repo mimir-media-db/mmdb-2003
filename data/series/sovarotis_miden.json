@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sovarotis_miden",
+  "title": "Sovarotis miden",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109382144",
+    "imdb": "tt0377262",
+    "tmdb": 51413
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

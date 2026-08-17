@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seed_of_hope",
+  "title": "Seed of Hope",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7445642",
+    "tmdb": 108215
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}
