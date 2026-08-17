@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extreme_makeover_home_edition",
+  "title": "Extreme Makeover: Home Edition",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q978283",
+    "imdb": "tt0388595",
+    "tmdb": 721
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 200
+}
