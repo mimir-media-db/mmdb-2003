@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_konji_pesalaam_2003",
+  "title": "Konji Pesalaam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768012",
+    "imdb": "tt13801664",
+    "tmdb": 1718615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaliyodam_2003",
+  "title": "Kaliyodam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18386734",
+    "imdb": "tt0400564",
+    "tmdb": 1637776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

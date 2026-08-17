@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kommer_du_med_mig_da_2003",
+  "title": "Kommer du med mig då",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10547340",
+    "imdb": "tt0307566",
+    "tmdb": 229459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-14",
+  "runtime_minutes": 109
+}

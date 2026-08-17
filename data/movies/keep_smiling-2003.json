@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keep_smiling_2003",
+  "title": "Keep smiling!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4042121",
+    "imdb": "tt7222590",
+    "tmdb": 764465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-26",
+  "runtime_minutes": 79
+}

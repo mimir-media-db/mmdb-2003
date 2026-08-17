@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kopps_2003",
+  "title": "Kopps",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q431948",
+    "imdb": "tt0339230",
+    "tmdb": 9256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-07",
+  "runtime_minutes": 90
+}
