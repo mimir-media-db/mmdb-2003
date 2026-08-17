@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oliver_beene",
+  "title": "Oliver Beene",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1467732",
+    "imdb": "tt0322660",
+    "tmdb": 4306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_out_there",
+  "title": "Out There",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1125172",
+    "imdb": "tt0350439",
+    "tmdb": 12300
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
