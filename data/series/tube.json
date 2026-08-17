@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tube",
+  "title": "The Tube",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7770677",
+    "imdb": "tt0862632",
+    "tmdb": 2493
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

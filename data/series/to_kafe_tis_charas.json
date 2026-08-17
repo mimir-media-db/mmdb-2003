@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_to_kafe_tis_charas",
+  "title": "To kafe tis Charas",
+  "start_year": 2003,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q7811217",
+    "imdb": "tt0384745",
+    "tmdb": 15561
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 131
+}

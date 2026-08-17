@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_to_buy_or_not_to_buy",
+  "title": "To Buy or Not to Buy",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7810875",
+    "imdb": "tt0382494",
+    "tmdb": 11939
+  },
+  "last_updated": "2026-08-17"
+}

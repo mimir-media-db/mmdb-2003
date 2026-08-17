@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_terry_and_gaby_show",
+  "title": "The Terry and Gaby Show",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7768540",
+    "imdb": "tt0369176",
+    "tmdb": 2477
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 200
+}

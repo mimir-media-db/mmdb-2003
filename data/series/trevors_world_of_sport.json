@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trevors_world_of_sport",
+  "title": "Trevor's World of Sport",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7839017",
+    "imdb": "tt0361250",
+    "tmdb": 12215
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

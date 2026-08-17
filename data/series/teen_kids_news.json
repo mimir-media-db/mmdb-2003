@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_teen_kids_news",
+  "title": "Teen Kids News",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7694304",
+    "imdb": "tt0402637",
+    "tmdb": 32201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 687
+}
