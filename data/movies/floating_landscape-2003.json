@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floating_landscape_2003",
+  "title": "The Floating Landscape",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7734486",
+    "imdb": "tt0377923",
+    "tmdb": 95728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

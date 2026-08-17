@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flavors_2003",
+  "title": "Flavors",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5458208",
+    "imdb": "tt0361625",
+    "tmdb": 17309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

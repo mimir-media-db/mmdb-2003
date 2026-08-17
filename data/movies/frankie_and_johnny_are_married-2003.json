@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frankie_and_johnny_are_married_2003",
+  "title": "Frankie and Johnny Are Married",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5491103",
+    "imdb": "tt0400446",
+    "tmdb": 278930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

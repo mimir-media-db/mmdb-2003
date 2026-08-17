@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_pizza_2003",
+  "title": "Fat Pizza",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5437219",
+    "imdb": "tt0340110",
+    "tmdb": 15603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
