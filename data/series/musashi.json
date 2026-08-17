@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_musashi",
+  "title": "Musashi",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11124871",
+    "imdb": "tt0353079",
+    "tmdb": 36529
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 49
+}

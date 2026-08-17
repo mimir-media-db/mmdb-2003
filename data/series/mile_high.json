@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mile_high",
+  "title": "Mile High",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q574166",
+    "imdb": "tt0354318",
+    "tmdb": 3128
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

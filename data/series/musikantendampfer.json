@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_musikantendampfer",
+  "title": "Musikantendampfer",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1553451",
+    "imdb": "tt0870051"
+  },
+  "last_updated": "2026-08-17"
+}

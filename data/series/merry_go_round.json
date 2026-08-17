@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_merry_go_round",
+  "title": "Merry Go Round",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6692332",
+    "tmdb": 216643
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 58
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_manhattan_love_story",
+  "title": "Manhattan Love Story",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5366222",
+    "imdb": "tt0420426",
+    "tmdb": 67846
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

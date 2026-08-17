@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mental_block",
+  "title": "Mental Block",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6817385",
+    "imdb": "tt0385442",
+    "tmdb": 8933
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}
