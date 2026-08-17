@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herr_wichmann_von_der_cdu_2003",
+  "title": "Herr Wichmann von der CDU",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1613924",
+    "imdb": "tt0362719",
+    "tmdb": 10752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 78
+}

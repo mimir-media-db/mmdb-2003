@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hazaaron_khwaishein_aisi_2003",
+  "title": "Hazaaron Khwaishein Aisi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5687523",
+    "imdb": "tt0411469",
+    "tmdb": 21557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 120
+}

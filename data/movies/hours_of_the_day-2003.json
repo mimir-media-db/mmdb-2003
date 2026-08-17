@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hours_of_the_day_2003",
+  "title": "The Hours of the Day",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3285545",
+    "imdb": "tt0367863",
+    "tmdb": 102514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

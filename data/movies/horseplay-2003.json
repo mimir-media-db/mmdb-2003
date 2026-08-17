@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horseplay_2003",
+  "title": "Horseplay",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5905890",
+    "imdb": "tt0291993",
+    "tmdb": 256437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_cross_2003",
+  "title": "Holy Cross",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3560399",
+    "imdb": "tt0374163",
+    "tmdb": 438345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_roller_the_stu_ungar_story_2003",
+  "title": "High Roller: The Stu Ungar Story",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3785534",
+    "imdb": "tt0338467",
+    "tmdb": 27079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 110
+}

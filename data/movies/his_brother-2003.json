@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_his_brother_2003",
+  "title": "His Brother",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3336853",
+    "imdb": "tt0351770",
+    "tmdb": 78208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harold_buttleman_daredevil_stuntman_2003",
+  "title": "Harold Buttleman, Daredevil Stuntman",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5660228",
+    "imdb": "tt0278422",
+    "tmdb": 600174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
