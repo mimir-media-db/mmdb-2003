@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_sides_of_a_coin_2003",
+  "title": "5 Sides of a Coin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20312973",
+    "imdb": "tt0464783",
+    "tmdb": 94984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
