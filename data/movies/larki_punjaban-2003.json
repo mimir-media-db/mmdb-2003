@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_larki_punjaban_2003",
+  "title": "Larki Punjaban",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3217947",
+    "imdb": "tt0806107",
+    "tmdb": 940202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25"
+}

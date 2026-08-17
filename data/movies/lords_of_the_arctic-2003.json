@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lords_of_the_arctic_2003",
+  "title": "Lords of the Arctic",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123271183",
+    "imdb": "tt2247140"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 52
+}

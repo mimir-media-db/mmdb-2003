@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loverboy_2003",
+  "title": "Loverboy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2048538",
+    "imdb": "tt0349752",
+    "tmdb": 112346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-12",
+  "runtime_minutes": 79
+}

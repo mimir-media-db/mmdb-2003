@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lord_of_the_rings_the_two_towers_2003",
+  "title": "The Lord of the Rings: The Two Towers",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q164963",
+    "imdb": "tt0167261",
+    "tmdb": 121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-16",
+  "runtime_minutes": 179
+}

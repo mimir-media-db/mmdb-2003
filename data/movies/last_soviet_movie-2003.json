@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_soviet_movie_2003",
+  "title": "The Last Soviet Movie",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50070905",
+    "imdb": "tt0366703",
+    "tmdb": 328411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 81
+}

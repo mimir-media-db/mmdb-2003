@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_looney_tunes_reality_check_2003",
+  "title": "Looney Tunes: Reality Check!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47685499",
+    "imdb": "tt0389123",
+    "tmdb": 289539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-28"
+}

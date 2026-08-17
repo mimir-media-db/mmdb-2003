@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_louis_and_the_brothel_2003",
+  "title": "Louis and the Brothel",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6688416",
+    "imdb": "tt0387361",
+    "tmdb": 143481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-19"
+}

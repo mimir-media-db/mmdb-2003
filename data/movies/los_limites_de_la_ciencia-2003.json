@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_los_limites_de_la_ciencia_2003",
+  "title": "Los límites de la ciencia",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25414462"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 3458
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luther_2003",
+  "title": "Luther",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q611404",
+    "imdb": "tt0309820",
+    "tmdb": 5653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-30",
+  "runtime_minutes": 118
+}

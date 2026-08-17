@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_the_hard_way_2003",
+  "title": "Love the Hard Way",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q569321",
+    "imdb": "tt0263671",
+    "tmdb": 39125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-27",
+  "runtime_minutes": 104
+}

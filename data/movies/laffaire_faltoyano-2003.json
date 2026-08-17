@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laffaire_faltoyano_2003",
+  "title": "L'affaire Faltoyano",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138840690",
+    "imdb": "tt1981028",
+    "tmdb": 362871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

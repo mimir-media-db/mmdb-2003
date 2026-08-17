@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lizzie_mcguire_movie_2003",
+  "title": "The Lizzie McGuire Movie",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q743190",
+    "imdb": "tt0306841",
+    "tmdb": 18736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-02",
+  "runtime_minutes": 94
+}

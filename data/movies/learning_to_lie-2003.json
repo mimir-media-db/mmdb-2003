@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_learning_to_lie_2003",
+  "title": "Learning to Lie",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q265440",
+    "imdb": "tt0325734",
+    "tmdb": 1558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-02",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_contes_de_lhorloge_magique_2003",
+  "title": "Les Contes de l'horloge magique",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16654881",
+    "imdb": "tt0408636",
+    "tmdb": 58135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_make_a_grandson_2003",
+  "title": "Let's Make a Grandson",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9392085",
+    "imdb": "tt0385363",
+    "tmdb": 74922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-10",
+  "runtime_minutes": 83
+}
