@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_qui_se_souvient_de_minik_2003",
+  "title": "Qui se souvient de Minik",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414416"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

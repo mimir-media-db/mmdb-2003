@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impressionists_manet_2003",
+  "title": "The Impressionists: Manet",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3489582",
+    "imdb": "tt1163253",
+    "tmdb": 560028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

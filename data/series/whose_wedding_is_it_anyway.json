@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_whose_wedding_is_it_anyway",
+  "title": "Whose Wedding Is It Anyway?",
+  "start_year": 2002,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7997676",
+    "imdb": "tt0395910",
+    "tmdb": 14821
+  },
+  "last_updated": "2026-08-17"
+}

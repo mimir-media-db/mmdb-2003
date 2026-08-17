@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombiegeddon_2003",
+  "title": "Zombiegeddon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q543963",
+    "imdb": "tt0316946",
+    "tmdb": 27468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 82
+}

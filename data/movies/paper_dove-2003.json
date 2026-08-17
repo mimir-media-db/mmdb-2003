@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_dove_2003",
+  "title": "Paper Dove",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6059184",
+    "imdb": "tt0382215",
+    "tmdb": 53125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

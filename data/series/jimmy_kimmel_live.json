@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jimmy_kimmel_live",
+  "title": "Jimmy Kimmel Live!",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1315167",
+    "imdb": "tt0320037",
+    "tmdb": 1489
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 23,
+  "total_episodes": 3588
+}

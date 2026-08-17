@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wave_babes_2003",
+  "title": "Wave Babes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4156445",
+    "imdb": "tt0384679",
+    "tmdb": 218669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

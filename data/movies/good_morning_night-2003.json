@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_morning_night_2003",
+  "title": "Good Morning, Night",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2260663",
+    "imdb": "tt0377569",
+    "tmdb": 24164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 106
+}

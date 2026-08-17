@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pact_of_silence_2003",
+  "title": "The Pact of Silence",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225130",
+    "imdb": "tt0325948",
+    "tmdb": 62089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

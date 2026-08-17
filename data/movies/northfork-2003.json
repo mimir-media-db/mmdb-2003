@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_northfork_2003",
+  "title": "Northfork",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q825968",
+    "imdb": "tt0322659",
+    "tmdb": 32235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

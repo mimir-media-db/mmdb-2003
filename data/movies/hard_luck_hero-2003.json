@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_luck_hero_2003",
+  "title": "Hard Luck Hero",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5655325",
+    "imdb": "tt0405004",
+    "tmdb": 105133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 79
+}

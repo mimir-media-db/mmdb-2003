@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_repubblica_di_san_gennaro_2003",
+  "title": "La repubblica di San Gennaro",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3823875",
+    "imdb": "tt0306629",
+    "tmdb": 114105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

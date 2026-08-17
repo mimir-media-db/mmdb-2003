@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_scent_of_a_man",
+  "title": "Scent of a Man",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12970766",
+    "imdb": "tt1630165",
+    "tmdb": 26119
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

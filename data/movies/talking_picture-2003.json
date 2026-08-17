@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talking_picture_2003",
+  "title": "A Talking Picture",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2695978",
+    "imdb": "tt0364093",
+    "tmdb": 95536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 96
+}

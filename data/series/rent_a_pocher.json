@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rent_a_pocher",
+  "title": "Rent a Pocher",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2144289",
+    "imdb": "tt0442644",
+    "tmdb": 20717
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 19
+}

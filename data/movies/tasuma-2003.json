@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tasuma_2003",
+  "title": "Tasuma",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5558587",
+    "imdb": "tt0423325",
+    "tmdb": 213824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

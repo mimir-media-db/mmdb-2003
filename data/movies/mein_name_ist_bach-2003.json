@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_name_ist_bach_2003",
+  "title": "Mein Name ist Bach",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q386625",
+    "imdb": "tt0382180",
+    "tmdb": 173249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

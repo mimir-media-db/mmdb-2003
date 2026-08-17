@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_screaming_men_2003",
+  "title": "Screaming Men",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q460620",
+    "imdb": "tt0352418",
+    "tmdb": 101119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 73
+}

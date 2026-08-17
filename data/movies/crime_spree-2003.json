@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crime_spree_2003",
+  "title": "Crime Spree",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q780384",
+    "imdb": "tt0310924",
+    "tmdb": 6277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 99
+}

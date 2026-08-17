@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday_showdown",
+  "title": "Holiday Showdown",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16250931",
+    "imdb": "tt0475045",
+    "tmdb": 2063
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 41
+}

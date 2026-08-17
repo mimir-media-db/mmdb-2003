@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_imagine",
+  "title": "Imagine",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7123904",
+    "imdb": "tt0237968",
+    "tmdb": 8898
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 35,
+  "total_episodes": 211
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vlad_2003",
+  "title": "Vlad",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1089168",
+    "imdb": "tt0337744",
+    "tmdb": 57190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 98
+}

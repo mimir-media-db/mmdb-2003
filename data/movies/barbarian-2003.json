@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbarian_2003",
+  "title": "Barbarian",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2884089",
+    "imdb": "tt0358376",
+    "tmdb": 52265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 86
+}

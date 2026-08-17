@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strayed_2003",
+  "title": "Strayed",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2605684",
+    "imdb": "tt0329111",
+    "tmdb": 38018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

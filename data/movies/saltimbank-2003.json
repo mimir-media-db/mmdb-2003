@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saltimbank_2003",
+  "title": "Saltimbank",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3470237",
+    "imdb": "tt0306040",
+    "tmdb": 170927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

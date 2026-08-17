@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_glaze_2003",
+  "title": "Honey Glaze",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5893538",
+    "imdb": "tt0390098",
+    "tmdb": 302246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

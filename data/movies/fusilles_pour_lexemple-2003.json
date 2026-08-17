@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fusilles_pour_lexemple_2003",
+  "title": "Fusillés pour l'exemple",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3091181",
+    "imdb": "tt6504164"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_next_3",
+  "title": "Next 3",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4045323",
+    "imdb": "tt2061328",
+    "tmdb": 90112
+  },
+  "last_updated": "2026-08-17"
+}

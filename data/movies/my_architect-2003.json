@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_architect_2003",
+  "title": "My Architect",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1249229",
+    "imdb": "tt0373175",
+    "tmdb": 50314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 116
+}

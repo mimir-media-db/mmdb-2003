@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_decade_under_the_influence_2003",
+  "title": "A Decade Under the Influence",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3602431",
+    "imdb": "tt0342275",
+    "tmdb": 38868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

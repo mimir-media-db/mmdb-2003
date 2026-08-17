@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_one_tree_hill",
+  "title": "One Tree Hill",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q203385",
+    "imdb": "tt0368530",
+    "tmdb": 269
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 187
+}

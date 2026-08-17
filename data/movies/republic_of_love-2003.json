@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_republic_of_love_2003",
+  "title": "The Republic of Love",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7760236",
+    "imdb": "tt0345855",
+    "tmdb": 54902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

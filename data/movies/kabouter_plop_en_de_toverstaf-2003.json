@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kabouter_plop_en_de_toverstaf_2003",
+  "title": "Kabouter Plop en de toverstaf",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2520070",
+    "imdb": "tt0437272",
+    "tmdb": 54348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 50
+}

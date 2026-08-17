@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frazetta_painting_with_fire_2003",
+  "title": "Frazetta: Painting with Fire",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3752510",
+    "imdb": "tt0363621",
+    "tmdb": 54502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

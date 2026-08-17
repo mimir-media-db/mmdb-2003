@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_london_street",
+  "title": "London Street",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5978680",
+    "imdb": "tt0348958",
+    "tmdb": 125112
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

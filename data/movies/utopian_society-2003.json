@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_utopian_society_2003",
+  "title": "The Utopian Society",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771855",
+    "imdb": "tt0331042",
+    "tmdb": 297348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

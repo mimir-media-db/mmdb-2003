@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ammakilikkoodu_2003",
+  "title": "Ammakilikkoodu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4747114",
+    "imdb": "tt0388710",
+    "tmdb": 546970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

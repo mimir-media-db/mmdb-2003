@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karate_a_muerte_en_torremolinos_2003",
+  "title": "Karate a muerte en Torremolinos",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5958081",
+    "imdb": "tt0330540",
+    "tmdb": 57094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 79
+}

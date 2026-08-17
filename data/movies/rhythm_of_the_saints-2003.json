@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rhythm_of_the_saints_2003",
+  "title": "Rhythm of the Saints",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3934169",
+    "imdb": "tt0271234",
+    "tmdb": 504716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_megasztar",
+  "title": "Megasztár",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1175425",
+    "imdb": "tt0473585",
+    "tmdb": 34137
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 116
+}

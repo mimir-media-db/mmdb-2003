@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escadrons_de_la_mort_lecole_francaise_2003",
+  "title": "Escadrons de la mort: L'école française",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3057761",
+    "imdb": "tt0382016",
+    "tmdb": 646601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 60
+}

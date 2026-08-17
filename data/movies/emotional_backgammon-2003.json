@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emotional_backgammon_2003",
+  "title": "Emotional Backgammon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5373763",
+    "imdb": "tt0260878",
+    "tmdb": 296208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

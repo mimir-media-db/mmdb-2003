@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jhorror_anthology_legends_2003",
+  "title": "J-Horror Anthology: Legends",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11596607",
+    "imdb": "tt1042510",
+    "tmdb": 300146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

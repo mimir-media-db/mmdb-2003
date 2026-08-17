@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lamour_dangereux_2003",
+  "title": "L'Amour dangereux",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201842",
+    "imdb": "tt0354976",
+    "tmdb": 165546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_runaway_mummy_2003",
+  "title": "Runaway Mummy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12249923",
+    "imdb": "tt0339421",
+    "tmdb": 331123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

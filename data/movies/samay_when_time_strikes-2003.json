@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samay_when_time_strikes_2003",
+  "title": "Samay: When Time Strikes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7408920",
+    "imdb": "tt0384491",
+    "tmdb": 150922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

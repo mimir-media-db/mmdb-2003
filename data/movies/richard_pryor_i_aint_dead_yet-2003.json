@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_richard_pryor_i_aint_dead_yet_2003",
+  "title": "Richard Pryor: I Ain't Dead Yet",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7328526",
+    "imdb": "tt0435724",
+    "tmdb": 27631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

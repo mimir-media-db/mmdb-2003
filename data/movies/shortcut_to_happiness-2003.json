@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shortcut_to_happiness_2003",
+  "title": "Shortcut to Happiness",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1115508",
+    "imdb": "tt0263265",
+    "tmdb": 33932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nefertiti_revealed_2003",
+  "title": "Nefertiti: Revealed",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2111547",
+    "imdb": "tt0380584"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

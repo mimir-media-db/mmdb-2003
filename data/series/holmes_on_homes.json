@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_holmes_on_homes",
+  "title": "Holmes on Homes",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5883643",
+    "imdb": "tt0765621",
+    "tmdb": 12261
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 82
+}

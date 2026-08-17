@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_theft_parsons_2003",
+  "title": "Grand Theft Parsons",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q734610",
+    "imdb": "tt0338075",
+    "tmdb": 16433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

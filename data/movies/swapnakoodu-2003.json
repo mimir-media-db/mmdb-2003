@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swapnakoodu_2003",
+  "title": "Swapnakoodu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7653813",
+    "imdb": "tt0378826",
+    "tmdb": 151666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stormy_weather_2003",
+  "title": "Stormy Weather",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3499867",
+    "imdb": "tt0348876",
+    "tmdb": 102533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

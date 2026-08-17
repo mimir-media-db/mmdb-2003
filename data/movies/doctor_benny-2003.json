@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_benny_2003",
+  "title": "Doctor Benny",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5287297",
+    "imdb": "tt0236172",
+    "tmdb": 579143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

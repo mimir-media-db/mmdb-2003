@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_papillon_2003",
+  "title": "Le papillon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225185",
+    "imdb": "tt0383554",
+    "tmdb": 246661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 4
+}

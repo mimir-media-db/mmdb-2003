@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coney_island_baby_2003",
+  "title": "Coney Island Baby",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5159593",
+    "imdb": "tt0286557",
+    "tmdb": 294489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

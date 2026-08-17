@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_under_the_sun_2003",
+  "title": "Love Under the Sun",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691470",
+    "imdb": "tt1306989",
+    "tmdb": 325161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

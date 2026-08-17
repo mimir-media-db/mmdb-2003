@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moonlight_jellyfish_2003",
+  "title": "Moonlight Jellyfish",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3323585",
+    "imdb": "tt0494767",
+    "tmdb": 332796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

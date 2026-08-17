@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_a_la_mort_2003",
+  "title": "A la vie, à la mort",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576828",
+    "imdb": "tt2927042",
+    "tmdb": 1553629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

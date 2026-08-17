@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_firenze_il_nostro_domani_2003",
+  "title": "Firenze, il nostro domani",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3745970",
+    "imdb": "tt0381186"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_2412_die_staatsdiener_2003",
+  "title": "MA 2412 – Die Staatsdiener",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1881213",
+    "imdb": "tt0376736",
+    "tmdb": 63933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

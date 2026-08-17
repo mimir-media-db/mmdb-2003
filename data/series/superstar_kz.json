@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_superstar_kz",
+  "title": "SuperStar KZ",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q492429",
+    "imdb": "tt1245435",
+    "tmdb": 1207
+  },
+  "last_updated": "2026-08-17"
+}

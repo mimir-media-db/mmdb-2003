@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_renai_shashin_2003",
+  "title": "Renai shashin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6901321",
+    "imdb": "tt0370425",
+    "tmdb": 110855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_her_island_my_island_2003",
+  "title": "Her Island, My Island",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11613968",
+    "imdb": "tt0386475",
+    "tmdb": 535932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

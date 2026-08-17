@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_rover_2003",
+  "title": "Red Rover",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7304973",
+    "imdb": "tt0345852",
+    "tmdb": 60003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

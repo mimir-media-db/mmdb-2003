@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mythbusters",
+  "title": "MythBusters",
+  "start_year": 2003,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q486844",
+    "imdb": "tt0383126",
+    "tmdb": 1428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 173
+}

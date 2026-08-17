@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_nino_2003",
+  "title": "Uncle Nino",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7882771",
+    "imdb": "tt0327210",
+    "tmdb": 32588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 104
+}

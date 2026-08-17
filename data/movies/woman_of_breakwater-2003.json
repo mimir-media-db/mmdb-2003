@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_of_breakwater_2003",
+  "title": "Woman of Breakwater",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8030730",
+    "imdb": "tt0412473",
+    "tmdb": 215698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 124
+}

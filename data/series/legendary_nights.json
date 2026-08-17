@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legendary_nights",
+  "title": "Legendary Nights",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127694783",
+    "imdb": "tt0488456",
+    "tmdb": 29103
+  },
+  "last_updated": "2026-08-17"
+}

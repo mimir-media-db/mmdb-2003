@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bukowski_born_into_this_2003",
+  "title": "Bukowski: Born into This",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1003411",
+    "imdb": "tt0342150",
+    "tmdb": 16765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 113
+}

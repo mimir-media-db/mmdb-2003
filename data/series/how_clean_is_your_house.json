@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_how_clean_is_your_house",
+  "title": "How Clean Is Your House?",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2739271",
+    "imdb": "tt0380117",
+    "tmdb": 13723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 28
+}

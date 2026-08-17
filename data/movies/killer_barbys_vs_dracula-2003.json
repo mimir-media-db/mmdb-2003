@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_barbys_vs_dracula_2003",
+  "title": "Killer Barbys vs. Dracula",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3815223",
+    "imdb": "tt0327001",
+    "tmdb": 173802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 86
+}

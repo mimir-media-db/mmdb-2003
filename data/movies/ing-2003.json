@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ing_2003",
+  "title": "...ing",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q158697",
+    "imdb": "tt0381838",
+    "tmdb": 41091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 104
+}

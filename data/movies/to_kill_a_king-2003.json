@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_kill_a_king_2003",
+  "title": "To Kill a King",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1275605",
+    "imdb": "tt0302436",
+    "tmdb": 18359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

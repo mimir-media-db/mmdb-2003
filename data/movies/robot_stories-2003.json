@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robot_stories_2003",
+  "title": "Robot Stories",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3437259",
+    "imdb": "tt0301777",
+    "tmdb": 20032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

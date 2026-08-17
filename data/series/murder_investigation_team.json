@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_investigation_team",
+  "title": "Murder Investigation Team",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2170829",
+    "imdb": "tt0358336",
+    "tmdb": 2981
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

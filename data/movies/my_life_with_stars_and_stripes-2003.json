@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_with_stars_and_stripes_2003",
+  "title": "My Life with Stars and Stripes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2913882",
+    "imdb": "tt0385092",
+    "tmdb": 64960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 91
+}

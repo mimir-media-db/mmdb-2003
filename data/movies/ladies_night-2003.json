@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladies_night_2003",
+  "title": "Ladies' Night",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6469455",
+    "imdb": "tt0378226",
+    "tmdb": 78292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

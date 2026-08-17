@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_round_trip_2003",
+  "title": "Round Trip",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4464942",
+    "imdb": "tt0433043",
+    "tmdb": 272048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

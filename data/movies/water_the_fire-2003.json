@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_the_fire_2003",
+  "title": "The Water... the Fire",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818184",
+    "imdb": "tt0330252",
+    "tmdb": 399422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 94
+}

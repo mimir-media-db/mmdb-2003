@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sharp",
+  "title": "Sharp",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q12602085",
+    "imdb": "tt4277048",
+    "tmdb": 52723
+  },
+  "last_updated": "2026-08-17"
+}

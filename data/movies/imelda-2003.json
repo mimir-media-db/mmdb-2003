@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imelda_2003",
+  "title": "Imelda",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6003736",
+    "imdb": "tt0160398",
+    "tmdb": 253348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bongoland_2003",
+  "title": "Bongoland",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4941900",
+    "imdb": "tt0383935",
+    "tmdb": 272006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

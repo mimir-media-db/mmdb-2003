@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_special_forces_2003",
+  "title": "Special Forces",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5964965",
+    "imdb": "tt0324038",
+    "tmdb": 57483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

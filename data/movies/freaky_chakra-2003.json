@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freaky_chakra_2003",
+  "title": "Freaky Chakra",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5494284",
+    "imdb": "tt0356624",
+    "tmdb": 403916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

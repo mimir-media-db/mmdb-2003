@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_monde_vivant_2003",
+  "title": "Le monde vivant",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3224727",
+    "imdb": "tt0364526",
+    "tmdb": 126100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 70
+}

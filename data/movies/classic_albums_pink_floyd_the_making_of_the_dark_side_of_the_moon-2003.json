@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_classic_albums_pink_floyd_the_making_of_the_dark_side_of_the_moon_2003",
+  "title": "Classic Albums: Pink Floyd – The Making of The Dark Side of the Moon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2717248",
+    "imdb": "tt13730338",
+    "tmdb": 24972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

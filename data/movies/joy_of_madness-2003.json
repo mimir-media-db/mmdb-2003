@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_of_madness_2003",
+  "title": "Joy of Madness",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5712999",
+    "imdb": "tt0382803",
+    "tmdb": 214289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaalbaaz_2003",
+  "title": "Chaalbaaz",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5065970",
+    "imdb": "tt2009443",
+    "tmdb": 1556301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

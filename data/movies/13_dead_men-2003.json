@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_dead_men_2003",
+  "title": "13 Dead Men",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4549340",
+    "imdb": "tt0367136",
+    "tmdb": 140543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reversal_of_fortune_2003",
+  "title": "Reversal of Fortune",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7318172",
+    "imdb": "tt0364759",
+    "tmdb": 47322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

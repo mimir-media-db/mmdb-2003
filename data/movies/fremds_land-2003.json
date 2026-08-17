@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fremds_land_2003",
+  "title": "Fremds Land",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1455143",
+    "imdb": "tt0357677",
+    "tmdb": 1717936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 108
+}

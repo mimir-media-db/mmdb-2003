@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pauly_shore_is_dead_2003",
+  "title": "Pauly Shore Is Dead",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2604806",
+    "imdb": "tt0284674",
+    "tmdb": 27202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 82
+}

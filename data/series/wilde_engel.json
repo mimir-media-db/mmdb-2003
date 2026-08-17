@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wilde_engel",
+  "title": "Wilde Engel",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2849565",
+    "imdb": "tt0318259",
+    "tmdb": 62828
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

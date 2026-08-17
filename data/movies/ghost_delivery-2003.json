@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_delivery_2003",
+  "title": "Ghost Delivery",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13013681"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

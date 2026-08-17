@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sleepover_club",
+  "title": "The Sleepover Club",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q628307",
+    "imdb": "tt0382482",
+    "tmdb": 12297
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

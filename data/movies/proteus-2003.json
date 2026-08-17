@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_proteus_2003",
+  "title": "Proteus",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2278836",
+    "imdb": "tt0379461",
+    "tmdb": 46469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

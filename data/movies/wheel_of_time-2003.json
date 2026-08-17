@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wheel_of_time_2003",
+  "title": "Wheel of Time",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2223821",
+    "imdb": "tt0331080",
+    "tmdb": 51311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

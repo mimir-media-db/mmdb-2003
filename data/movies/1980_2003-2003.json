@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1980_2003_2003",
+  "title": "1980 2003",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11185943",
+    "imdb": "tt0461893",
+    "tmdb": 372489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

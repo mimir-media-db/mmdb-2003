@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bulgarian_lovers_2003",
+  "title": "Bulgarian Lovers",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2346134",
+    "imdb": "tt0353818",
+    "tmdb": 59418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

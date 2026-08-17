@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_league_of_extraordinary_gentlemen_2003",
+  "title": "The League of Extraordinary Gentlemen",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q567577",
+    "imdb": "tt0311429",
+    "tmdb": 8698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 106
+}

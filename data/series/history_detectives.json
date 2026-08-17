@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_history_detectives",
+  "title": "History Detectives",
+  "start_year": 2003,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15036166",
+    "imdb": "tt0375341",
+    "tmdb": 14679
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_georg_klein_2003",
+  "title": "Georg Klein",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10504171",
+    "imdb": "tt7035228",
+    "tmdb": 1314128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

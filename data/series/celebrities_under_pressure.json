@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrities_under_pressure",
+  "title": "Celebrities Under Pressure",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5057663",
+    "imdb": "tt0383750"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 14
+}

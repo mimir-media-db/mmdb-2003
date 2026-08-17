@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ana_and_the_others_2003",
+  "title": "Ana and the Others",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4750525",
+    "imdb": "tt0318988",
+    "tmdb": 48596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

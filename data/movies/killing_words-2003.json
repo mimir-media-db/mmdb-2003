@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_words_2003",
+  "title": "Killing Words",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407777",
+    "imdb": "tt0339489",
+    "tmdb": 31068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

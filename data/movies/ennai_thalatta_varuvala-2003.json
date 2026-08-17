@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ennai_thalatta_varuvala_2003",
+  "title": "Ennai Thalatta Varuvala",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3418163",
+    "imdb": "tt4507090",
+    "tmdb": 69416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

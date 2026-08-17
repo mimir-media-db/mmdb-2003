@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whole_2003",
+  "title": "Whole",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7997509",
+    "imdb": "tt0429245",
+    "tmdb": 183672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

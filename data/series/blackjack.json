@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_blackjack",
+  "title": "BlackJack",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2034992",
+    "imdb": "tt0322691",
+    "tmdb": 20215
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

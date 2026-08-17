@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hotlines",
+  "title": "Hotlines",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16844939",
+    "imdb": "tt0381765",
+    "tmdb": 16515
+  },
+  "last_updated": "2026-08-17"
+}

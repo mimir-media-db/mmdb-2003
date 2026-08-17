@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elly_baly_balak_2003",
+  "title": "Elly Baly Balak",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12192077",
+    "imdb": "tt0386428",
+    "tmdb": 42319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 110
+}

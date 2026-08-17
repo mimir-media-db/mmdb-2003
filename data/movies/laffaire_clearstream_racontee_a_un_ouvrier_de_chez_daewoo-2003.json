@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laffaire_clearstream_racontee_a_un_ouvrier_de_chez_daewoo_2003",
+  "title": "L'affaire Clearstream: racontée à un ouvrier de chez Daewoo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3201493",
+    "imdb": "tt3978324",
+    "tmdb": 327843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 75
+}

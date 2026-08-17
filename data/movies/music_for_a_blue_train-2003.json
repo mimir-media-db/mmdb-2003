@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_for_a_blue_train_2003",
+  "title": "Music for a Blue Train",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6941820",
+    "imdb": "tt3165542",
+    "tmdb": 1673773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

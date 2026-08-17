@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_one_life",
+  "title": "One Life",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123678898",
+    "imdb": "tt2295859",
+    "tmdb": 24217
+  },
+  "last_updated": "2026-08-17"
+}

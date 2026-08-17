@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_treasure_2003",
+  "title": "Lost Treasure",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3796042",
+    "imdb": "tt0347439",
+    "tmdb": 70521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

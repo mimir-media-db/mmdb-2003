@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kilichundan_mampazham_2003",
+  "title": "Kilichundan Mampazham",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6406922",
+    "imdb": "tt0363741",
+    "tmdb": 280197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

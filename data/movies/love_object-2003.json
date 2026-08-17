@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_object_2003",
+  "title": "Love Object",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2036128",
+    "imdb": "tt0328077",
+    "tmdb": 16973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

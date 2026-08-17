@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_resistire",
+  "title": "Resistiré",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q944294",
+    "imdb": "tt0346383",
+    "tmdb": 15256
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 220
+}

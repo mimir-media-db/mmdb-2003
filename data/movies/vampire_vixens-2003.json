@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_vixens_2003",
+  "title": "Vampire Vixens",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3554360",
+    "imdb": "tt0350279",
+    "tmdb": 58952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

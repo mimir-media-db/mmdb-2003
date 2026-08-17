@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_wnba_on_abc",
+  "title": "WNBA on ABC",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112262215"
+  },
+  "last_updated": "2026-08-17"
+}

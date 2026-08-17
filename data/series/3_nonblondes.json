@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_3_nonblondes",
+  "title": "3 Non-Blondes",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4636520",
+    "imdb": "tt0398408",
+    "tmdb": 15176
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

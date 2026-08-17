@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_cops_houston",
+  "title": "Animal Cops: Houston",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4764781",
+    "imdb": "tt0408368",
+    "tmdb": 1768
+  },
+  "last_updated": "2026-08-17"
+}

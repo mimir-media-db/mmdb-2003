@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_movie_hero_2003",
+  "title": "The Movie Hero",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7752547",
+    "imdb": "tt0299045",
+    "tmdb": 57248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

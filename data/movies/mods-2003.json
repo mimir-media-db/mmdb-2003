@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mods_2003",
+  "title": "Mods",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12150294",
+    "imdb": "tt0351369",
+    "tmdb": 162458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 59
+}

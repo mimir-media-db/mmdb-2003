@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_weekend_in_pest_and_buda_2003",
+  "title": "A Long Weekend in Pest and Buda",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q671131",
+    "imdb": "tt0357773",
+    "tmdb": 88247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

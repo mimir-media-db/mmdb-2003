@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wawffactor",
+  "title": "Wawffactor",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q13132241",
+    "imdb": "tt0459146",
+    "tmdb": 18852
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

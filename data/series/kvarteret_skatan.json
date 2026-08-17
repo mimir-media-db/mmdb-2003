@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kvarteret_skatan",
+  "title": "Kvarteret Skatan",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10551010",
+    "imdb": "tt0367358",
+    "tmdb": 29950
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

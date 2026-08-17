@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_julie_herman_2003",
+  "title": "Julie & Herman",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2940348",
+    "imdb": "tt0322890",
+    "tmdb": 485021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 50
+}

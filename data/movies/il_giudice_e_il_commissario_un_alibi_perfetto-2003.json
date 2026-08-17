@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giudice_e_il_commissario_un_alibi_perfetto_2003",
+  "title": "Il giudice e il commissario: Un alibi perfetto",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3794262",
+    "imdb": "tt0379083",
+    "tmdb": 70913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pithamagan_2003",
+  "title": "Pithamagan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3411584",
+    "imdb": "tt0376076",
+    "tmdb": 69638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

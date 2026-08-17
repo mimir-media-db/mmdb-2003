@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prova_a_volare_2003",
+  "title": "Prova a volare",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3924375",
+    "imdb": "tt1086363",
+    "tmdb": 82806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

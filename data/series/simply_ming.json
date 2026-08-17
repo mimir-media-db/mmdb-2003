@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_simply_ming",
+  "title": "Simply Ming",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7521008",
+    "imdb": "tt0758722",
+    "tmdb": 8696
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 366
+}

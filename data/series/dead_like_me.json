@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dead_like_me",
+  "title": "Dead Like Me",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q779048",
+    "imdb": "tt0348913",
+    "tmdb": 2566
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

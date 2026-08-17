@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_from_abc_2003",
+  "title": "Girls from ABC",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10288376",
+    "imdb": "tt0327451",
+    "tmdb": 77707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 130
+}

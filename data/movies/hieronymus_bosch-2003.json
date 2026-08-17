@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hieronymus_bosch_2003",
+  "title": "Hieronymus Bosch",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3785500",
+    "imdb": "tt0380417",
+    "tmdb": 409928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 59
+}

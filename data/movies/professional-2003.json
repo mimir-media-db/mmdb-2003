@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_professional_2003",
+  "title": "The Professional",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758479",
+    "imdb": "tt0339535",
+    "tmdb": 55130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 104
+}

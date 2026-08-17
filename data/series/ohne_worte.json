@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ohne_worte",
+  "title": "Ohne Worte",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1454754",
+    "imdb": "tt0395405",
+    "tmdb": 84185
+  },
+  "last_updated": "2026-08-17"
+}

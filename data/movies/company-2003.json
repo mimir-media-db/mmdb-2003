@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_company_2003",
+  "title": "The Company",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q681815",
+    "imdb": "tt0335013",
+    "tmdb": 52036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 112
+}

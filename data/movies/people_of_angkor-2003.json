@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_people_of_angkor_2003",
+  "title": "The People of Angkor",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232954",
+    "imdb": "tt0812253",
+    "tmdb": 928595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

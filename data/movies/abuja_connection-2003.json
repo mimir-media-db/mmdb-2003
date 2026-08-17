@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abuja_connection_2003",
+  "title": "Abuja Connection",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4670546",
+    "imdb": "tt1001487",
+    "tmdb": 873069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

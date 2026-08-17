@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darna_mana_hai_2003",
+  "title": "Darna Mana Hai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5224087",
+    "imdb": "tt0349333",
+    "tmdb": 74481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 121
+}

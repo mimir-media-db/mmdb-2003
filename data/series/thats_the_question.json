@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thats_the_question",
+  "title": "That's the Question",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7711088",
+    "imdb": "tt0874234"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1577
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tupac_resurrection_2003",
+  "title": "Tupac: Resurrection",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q749899",
+    "imdb": "tt0343121",
+    "tmdb": 21525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 111
+}

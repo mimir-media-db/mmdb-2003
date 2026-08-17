@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_horizon_2003",
+  "title": "Blind Horizon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q884136",
+    "imdb": "tt0337881",
+    "tmdb": 24619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 99
+}

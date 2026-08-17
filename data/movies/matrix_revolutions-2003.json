@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matrix_revolutions_2003",
+  "title": "The Matrix Revolutions",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q207536",
+    "imdb": "tt0242653",
+    "tmdb": 605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 129
+}

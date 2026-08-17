@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_corridor_2003",
+  "title": "Night Corridor",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10943014",
+    "imdb": "tt0380070",
+    "tmdb": 204932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

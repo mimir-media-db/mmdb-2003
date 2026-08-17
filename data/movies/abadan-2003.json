@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abadan_2003",
+  "title": "Abadan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3285457",
+    "imdb": "tt0793469",
+    "tmdb": 396416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

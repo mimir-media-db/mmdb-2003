@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intolerable_cruelty_2003",
+  "title": "Intolerable Cruelty",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q750117",
+    "imdb": "tt0138524",
+    "tmdb": 11775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 96
+}

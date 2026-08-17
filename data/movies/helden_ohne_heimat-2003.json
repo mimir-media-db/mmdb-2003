@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_helden_ohne_heimat_2003",
+  "title": "Helden ohne Heimat",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1601719",
+    "imdb": "tt0399133"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 53
+}

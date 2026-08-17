@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brainiac_science_abuse",
+  "title": "Brainiac: Science Abuse",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q848941",
+    "imdb": "tt0442633",
+    "tmdb": 2614
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

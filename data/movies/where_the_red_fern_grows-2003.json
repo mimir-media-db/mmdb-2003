@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_the_red_fern_grows_2003",
+  "title": "Where the Red Fern Grows",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7993466",
+    "imdb": "tt0192788",
+    "tmdb": 30071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 86
+}

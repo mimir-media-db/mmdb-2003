@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_clap",
+  "title": "Clap",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16490975",
+    "imdb": "tt0389597",
+    "tmdb": 156620
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

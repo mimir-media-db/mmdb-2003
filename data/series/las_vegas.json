@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_vegas",
+  "title": "Las Vegas",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q752234",
+    "imdb": "tt0364828",
+    "tmdb": 2389
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 106
+}

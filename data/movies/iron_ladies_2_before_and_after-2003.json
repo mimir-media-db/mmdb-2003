@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_ladies_2_before_and_after_2003",
+  "title": "The Iron Ladies 2: Before and After",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3987729",
+    "imdb": "tt0355977",
+    "tmdb": 148227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

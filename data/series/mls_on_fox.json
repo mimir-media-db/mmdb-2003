@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mls_on_fox",
+  "title": "MLS on Fox",
+  "start_year": 2002,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q104850238"
+  },
+  "last_updated": "2026-08-17"
+}

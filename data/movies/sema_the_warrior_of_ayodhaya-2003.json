@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sema_the_warrior_of_ayodhaya_2003",
+  "title": "Sema – The Warrior of Ayodhaya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1584522",
+    "imdb": "tt0404176",
+    "tmdb": 122185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 113
+}

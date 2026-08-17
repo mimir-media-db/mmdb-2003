@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raktha_kanneeru_2003",
+  "title": "Raktha Kanneeru",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7286798",
+    "imdb": "tt2187090",
+    "tmdb": 339860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

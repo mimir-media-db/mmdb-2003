@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoner_of_the_iron_bars_2003",
+  "title": "Prisoner of the Iron Bars",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10354038",
+    "imdb": "tt0376835",
+    "tmdb": 126046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 123
+}

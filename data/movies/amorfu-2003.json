@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amorfu_2003",
+  "title": "Amorfù",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3614615",
+    "imdb": "tt0415492",
+    "tmdb": 605274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_the_aladdin_las_vegas_2003",
+  "title": "Live at the Aladdin Las Vegas",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2769935",
+    "imdb": "tt0389285",
+    "tmdb": 133914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

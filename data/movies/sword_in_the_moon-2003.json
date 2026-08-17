@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sword_in_the_moon_2003",
+  "title": "Sword in the Moon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q562811",
+    "imdb": "tt0370402",
+    "tmdb": 13512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

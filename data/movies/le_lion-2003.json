@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_lion_2003",
+  "title": "Le Lion",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223933",
+    "imdb": "tt0341445",
+    "tmdb": 294901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

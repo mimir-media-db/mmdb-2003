@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malevolence_2003",
+  "title": "Malevolence",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4192505",
+    "imdb": "tt0388230",
+    "tmdb": 54702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

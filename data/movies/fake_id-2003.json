@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fake_id_2003",
+  "title": "Fake ID",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5431466",
+    "imdb": "tt0414000",
+    "tmdb": 41642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

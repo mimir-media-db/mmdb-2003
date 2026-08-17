@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bright_leaves_2003",
+  "title": "Bright Leaves",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4967439",
+    "imdb": "tt0372806",
+    "tmdb": 41475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 107
+}

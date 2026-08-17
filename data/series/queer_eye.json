@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queer_eye",
+  "title": "Queer Eye",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1418248",
+    "imdb": "tt0358332",
+    "tmdb": 1506
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 100
+}

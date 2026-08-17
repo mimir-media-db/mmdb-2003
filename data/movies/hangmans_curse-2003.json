@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hangmans_curse_2003",
+  "title": "Hangman's Curse",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663137",
+    "imdb": "tt0342508",
+    "tmdb": 45862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

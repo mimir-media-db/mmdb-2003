@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_garden_of_shadows_2003",
+  "title": "In the Garden of Shadows",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1323620",
+    "imdb": "tt0415064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

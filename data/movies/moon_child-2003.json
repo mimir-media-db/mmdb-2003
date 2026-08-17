@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_child_2003",
+  "title": "Moon Child",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1946689",
+    "imdb": "tt0365514",
+    "tmdb": 21513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 119
+}

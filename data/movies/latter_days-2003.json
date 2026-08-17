@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_latter_days_2003",
+  "title": "Latter Days",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q301046",
+    "imdb": "tt0345551",
+    "tmdb": 15708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

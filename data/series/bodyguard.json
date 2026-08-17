@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bodyguard",
+  "title": "Bodyguard",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11245340",
+    "imdb": "tt0464620",
+    "tmdb": 35834
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

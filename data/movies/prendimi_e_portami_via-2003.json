@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prendimi_e_portami_via_2003",
+  "title": "Prendimi e portami via",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3910801",
+    "imdb": "tt0382921",
+    "tmdb": 138621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

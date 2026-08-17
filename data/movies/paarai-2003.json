@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paarai_2003",
+  "title": "Paarai",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121465",
+    "imdb": "tt10196342",
+    "tmdb": 78629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

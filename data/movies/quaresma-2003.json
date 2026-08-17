@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quaresma_2003",
+  "title": "Quaresma",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10355914",
+    "imdb": "tt0368187",
+    "tmdb": 217420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_here_a_shining_light_2003",
+  "title": "Here, a Shining Light",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5946317",
+    "imdb": "tt1431252",
+    "tmdb": 458867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

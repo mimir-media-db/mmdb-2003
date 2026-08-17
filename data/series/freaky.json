@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_freaky",
+  "title": "Freaky",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5494280",
+    "imdb": "tt0395056",
+    "tmdb": 13413
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 39
+}

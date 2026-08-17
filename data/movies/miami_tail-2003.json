@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miami_tail_2003",
+  "title": "A Miami Tail",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300480",
+    "imdb": "tt0368026",
+    "tmdb": 206187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 84
+}

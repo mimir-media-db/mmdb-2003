@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jhankaar_beats_2003",
+  "title": "Jhankaar Beats",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3413666",
+    "imdb": "tt0347278",
+    "tmdb": 161834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

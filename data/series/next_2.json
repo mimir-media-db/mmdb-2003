@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_next_2",
+  "title": "Next 2",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4045321",
+    "imdb": "tt0387759",
+    "tmdb": 90090
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ptu_2003",
+  "title": "PTU",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2132216",
+    "imdb": "tt0250638",
+    "tmdb": 25536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gokarna_2003",
+  "title": "Gokarna",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5578039",
+    "imdb": "tt14440798",
+    "tmdb": 353310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

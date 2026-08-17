@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bergen_binnen",
+  "title": "Bergen Binnen",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2084295",
+    "imdb": "tt0356229"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

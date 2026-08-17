@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audela_de_la_peine_2003",
+  "title": "Au-delà de la peine",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870208",
+    "imdb": "tt4181438",
+    "tmdb": 1421841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 52
+}

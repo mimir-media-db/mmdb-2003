@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_teruteru_kazoku",
+  "title": "Teruteru Kazoku",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11272696",
+    "imdb": "tt0472504",
+    "tmdb": 67999
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

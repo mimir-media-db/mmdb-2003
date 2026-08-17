@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fear_factor",
+  "title": "Fear Factor",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q909037",
+    "imdb": "tt0278191",
+    "tmdb": 320
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 184
+}

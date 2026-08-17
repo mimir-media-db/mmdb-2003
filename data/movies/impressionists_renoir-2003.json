@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impressionists_renoir_2003",
+  "title": "The Impressionists: Renoir",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3987672",
+    "imdb": "tt1163256",
+    "tmdb": 325721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

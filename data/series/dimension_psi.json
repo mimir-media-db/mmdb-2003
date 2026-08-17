@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dimension_psi",
+  "title": "Dimension PSI",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1225706",
+    "imdb": "tt0403756"
+  },
+  "last_updated": "2026-08-17"
+}

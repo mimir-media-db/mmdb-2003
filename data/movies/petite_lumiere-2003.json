@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petite_lumiere_2003",
+  "title": "Petite lumière",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3377362",
+    "imdb": "tt0378559",
+    "tmdb": 324755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 15
+}

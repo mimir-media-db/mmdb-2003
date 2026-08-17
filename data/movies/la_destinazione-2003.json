@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_destinazione_2003",
+  "title": "La destinazione",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3822046",
+    "imdb": "tt0382636",
+    "tmdb": 630466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 124
+}

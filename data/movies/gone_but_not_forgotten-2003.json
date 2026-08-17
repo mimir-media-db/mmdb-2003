@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_but_not_forgotten_2003",
+  "title": "Gone, But Not Forgotten",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3497923",
+    "imdb": "tt0375782",
+    "tmdb": 27152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shattered_glass_2003",
+  "title": "Shattered Glass",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466436",
+    "imdb": "tt0323944",
+    "tmdb": 13537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

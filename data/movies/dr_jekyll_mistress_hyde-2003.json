@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_jekyll_mistress_hyde_2003",
+  "title": "Dr Jekyll & Mistress Hyde",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3038441",
+    "imdb": "tt0365137",
+    "tmdb": 27779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

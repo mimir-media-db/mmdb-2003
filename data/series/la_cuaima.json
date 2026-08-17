@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_cuaima",
+  "title": "La Cuaima",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5963098",
+    "imdb": "tt0375291",
+    "tmdb": 203078
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}

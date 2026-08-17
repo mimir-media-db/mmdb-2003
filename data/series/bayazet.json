@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bayazet",
+  "title": "Bayazet",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4080332",
+    "imdb": "tt0406397",
+    "tmdb": 247229
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

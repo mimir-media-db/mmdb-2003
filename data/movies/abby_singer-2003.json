@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abby_singer_2003",
+  "title": "Abby Singer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4664493",
+    "imdb": "tt0384792",
+    "tmdb": 499117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 79
+}

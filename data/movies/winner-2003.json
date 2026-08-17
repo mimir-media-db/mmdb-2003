@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winner_2003",
+  "title": "Winner",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8025587",
+    "imdb": "tt1699525",
+    "tmdb": 277880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

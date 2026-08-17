@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andi_ommsen_ist_der_letzte_lude_2003",
+  "title": "Andi Ommsen ist der letzte Lude",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q788277",
+    "imdb": "tt0304327",
+    "tmdb": 10932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

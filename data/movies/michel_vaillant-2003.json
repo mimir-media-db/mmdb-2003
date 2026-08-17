@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michel_vaillant_2003",
+  "title": "Michel Vaillant",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1748143",
+    "imdb": "tt0307156",
+    "tmdb": 10572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

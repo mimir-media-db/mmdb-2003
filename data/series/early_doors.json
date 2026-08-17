@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_early_doors",
+  "title": "Early Doors",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5326641",
+    "imdb": "tt0366010",
+    "tmdb": 1865
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

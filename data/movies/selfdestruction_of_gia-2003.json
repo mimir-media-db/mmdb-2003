@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selfdestruction_of_gia_2003",
+  "title": "The Self-Destruction of Gia",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3989198",
+    "imdb": "tt0382967",
+    "tmdb": 752390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

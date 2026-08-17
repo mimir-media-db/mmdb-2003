@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_praanam_2003",
+  "title": "Praanam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7237200",
+    "imdb": "tt1285133",
+    "tmdb": 307938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cold_case",
+  "title": "Cold Case",
+  "start_year": 2003,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q733960",
+    "imdb": "tt0368479",
+    "tmdb": 2171
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 156
+}

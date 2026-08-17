@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leprechaun_back_2_tha_hood_2003",
+  "title": "Leprechaun: Back 2 tha Hood",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1770586",
+    "imdb": "tt0339294",
+    "tmdb": 19288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

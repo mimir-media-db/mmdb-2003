@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_support_2003",
+  "title": "Love and Support",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691693",
+    "imdb": "tt0248966",
+    "tmdb": 573691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

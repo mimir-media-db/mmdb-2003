@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gme_2003",
+  "title": "G@me",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3093095",
+    "imdb": "tt0431077",
+    "tmdb": 61492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 112
+}

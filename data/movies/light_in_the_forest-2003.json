@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_light_in_the_forest_2003",
+  "title": "A Light in the Forest",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657753",
+    "imdb": "tt0285292",
+    "tmdb": 128591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

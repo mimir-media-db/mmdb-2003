@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glauber_o_filme_labirinto_do_brasil_2003",
+  "title": "Glauber o Filme, Labirinto do Brasil",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10290039",
+    "imdb": "tt0395560",
+    "tmdb": 317994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

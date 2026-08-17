@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vday_until_the_violence_stops_2003",
+  "title": "V-Day: Until the Violence Stops",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7905675",
+    "imdb": "tt0326425",
+    "tmdb": 1694524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

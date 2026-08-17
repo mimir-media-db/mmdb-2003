@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_team_2003",
+  "title": "The Forbidden Team",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q640854",
+    "imdb": "tt0373848",
+    "tmdb": 282436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 57
+}

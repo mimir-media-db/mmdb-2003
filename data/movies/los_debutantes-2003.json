@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_debutantes_2003",
+  "title": "Los Debutantes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5980767",
+    "imdb": "tt0384036",
+    "tmdb": 10809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_a_dynasty_2003",
+  "title": "Death of a Dynasty",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q667548",
+    "imdb": "tt0361498",
+    "tmdb": 25007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

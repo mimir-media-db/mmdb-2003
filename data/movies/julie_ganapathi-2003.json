@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_julie_ganapathi_2003",
+  "title": "Julie Ganapathi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6308185",
+    "imdb": "tt0353590",
+    "tmdb": 257075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

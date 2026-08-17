@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kart_racer_2003",
+  "title": "Kart Racer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3067343",
+    "imdb": "tt0300069",
+    "tmdb": 54243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

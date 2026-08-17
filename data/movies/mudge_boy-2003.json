@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mudge_boy_2003",
+  "title": "The Mudge Boy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2294692",
+    "imdb": "tt0339419",
+    "tmdb": 26899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 94
+}

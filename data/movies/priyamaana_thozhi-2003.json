@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_priyamaana_thozhi_2003",
+  "title": "Priyamaana Thozhi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3418184",
+    "imdb": "tt0446439",
+    "tmdb": 276029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

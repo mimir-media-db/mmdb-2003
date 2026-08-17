@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mumbai_se_aaya_mera_dost_2003",
+  "title": "Mumbai Se Aaya Mera Dost",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3327763",
+    "imdb": "tt0363833",
+    "tmdb": 451920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

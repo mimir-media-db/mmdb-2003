@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swing_2003",
+  "title": "Swing",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7658508",
+    "imdb": "tt0358722",
+    "tmdb": 58912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_star_search",
+  "title": "Star Search",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58981910",
+    "imdb": "tt0448195"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

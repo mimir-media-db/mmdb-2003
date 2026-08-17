@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_2003",
+  "title": "Virgin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7933873",
+    "imdb": "tt0368411",
+    "tmdb": 31069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kings_woman",
+  "title": "King's Woman",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q25560276",
+    "tmdb": 35815
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

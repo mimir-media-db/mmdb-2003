@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rescue_heroes_the_movie_2003",
+  "title": "Rescue Heroes: The Movie",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127110",
+    "imdb": "tt0382942",
+    "tmdb": 30338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 83
+}

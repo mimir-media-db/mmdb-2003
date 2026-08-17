@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_island_in_the_sea",
+  "title": "An Island in the Sea",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q18289212",
+    "imdb": "tt0342004",
+    "tmdb": 73763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

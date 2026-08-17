@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aida_delle_marionette_2003",
+  "title": "Aida delle marionette",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3607072",
+    "imdb": "tt0431595",
+    "tmdb": 447106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beast_of_gevaudan_2003",
+  "title": "The Beast of Gévaudan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1999381",
+    "imdb": "tt0352224",
+    "tmdb": 80843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

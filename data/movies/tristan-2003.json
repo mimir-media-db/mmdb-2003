@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tristan_2003",
+  "title": "Tristan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3539610",
+    "imdb": "tt0318773",
+    "tmdb": 65957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

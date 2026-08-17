@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_petit_monde_de_laura_cadieux",
+  "title": "Le Petit Monde de Laura Cadieux",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3225486",
+    "imdb": "tt0383815",
+    "tmdb": 112654
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 27
+}

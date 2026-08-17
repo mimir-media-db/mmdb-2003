@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kvw",
+  "title": "Kvw",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2129552",
+    "imdb": "tt0416380",
+    "tmdb": 24293
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 20,
+  "total_episodes": 16
+}

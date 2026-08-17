@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_friday_2003",
+  "title": "Black Friday",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11334592",
+    "imdb": "tt0218053",
+    "tmdb": 297247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

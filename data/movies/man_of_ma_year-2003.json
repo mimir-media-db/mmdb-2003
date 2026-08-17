@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_man_of_ma_year_2003",
+  "title": "Man of Ma Year",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13013674"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

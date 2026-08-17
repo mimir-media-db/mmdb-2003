@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lavvocato_de_gregorio_2003",
+  "title": "L'avvocato de Gregorio",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818907",
+    "imdb": "tt0355234",
+    "tmdb": 208623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 107
+}

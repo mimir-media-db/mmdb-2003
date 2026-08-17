@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_edge_2003",
+  "title": "Hard Edge",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1584971",
+    "imdb": "tt0412804",
+    "tmdb": 489424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 116
+}

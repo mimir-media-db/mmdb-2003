@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_without_prejudice",
+  "title": "Without Prejudice?",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q8028231",
+    "imdb": "tt1546378"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

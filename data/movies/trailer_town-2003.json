@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trailer_town_2003",
+  "title": "Trailer Town",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7832801",
+    "imdb": "tt0413390",
+    "tmdb": 188359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

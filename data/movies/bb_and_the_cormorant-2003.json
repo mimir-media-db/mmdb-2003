@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bb_and_the_cormorant_2003",
+  "title": "B.B. and the Cormorant",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3631674",
+    "imdb": "tt0369302",
+    "tmdb": 214957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

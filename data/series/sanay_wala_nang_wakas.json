@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sanay_wala_nang_wakas",
+  "title": "Sana'y Wala Nang Wakas",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7415420",
+    "imdb": "tt0431568",
+    "tmdb": 2887
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 298
+}

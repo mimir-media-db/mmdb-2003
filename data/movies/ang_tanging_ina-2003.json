@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ang_tanging_ina_2003",
+  "title": "Ang Tanging Ina",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4761878",
+    "imdb": "tt0368323",
+    "tmdb": 34825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

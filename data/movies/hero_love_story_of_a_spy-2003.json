@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hero_love_story_of_a_spy_2003",
+  "title": "The Hero: Love Story of a Spy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411930",
+    "imdb": "tt0347167",
+    "tmdb": 271677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 160
+}

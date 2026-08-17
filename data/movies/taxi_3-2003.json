@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taxi_3_2003",
+  "title": "Taxi 3",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q277648",
+    "imdb": "tt0295721",
+    "tmdb": 2334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 82
+}

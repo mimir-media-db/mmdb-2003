@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_exit_2003",
+  "title": "Last Exit",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6494339",
+    "imdb": "tt0375909",
+    "tmdb": 273807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

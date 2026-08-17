@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palnati_brahmanayudu_2003",
+  "title": "Palnati Brahmanayudu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7128481",
+    "imdb": "tt0373219",
+    "tmdb": 280328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

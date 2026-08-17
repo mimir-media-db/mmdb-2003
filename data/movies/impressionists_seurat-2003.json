@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impressionists_seurat_2003",
+  "title": "The Impressionists: Seurat",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3489598",
+    "imdb": "tt1163257",
+    "tmdb": 316016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

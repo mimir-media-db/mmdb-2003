@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_nens_2003",
+  "title": "De nens",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13099714",
+    "imdb": "tt0424936",
+    "tmdb": 363429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 188
+}

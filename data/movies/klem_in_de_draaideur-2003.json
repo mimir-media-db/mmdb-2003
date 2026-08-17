@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_klem_in_de_draaideur_2003",
+  "title": "Klem in de draaideur",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2408223",
+    "imdb": "tt0397502"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

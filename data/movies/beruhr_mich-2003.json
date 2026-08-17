@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beruhr_mich_2003",
+  "title": "Berühr mich",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9210347",
+    "imdb": "tt0381999",
+    "tmdb": 1401383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

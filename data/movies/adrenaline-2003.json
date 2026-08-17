@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adrenaline_2003",
+  "title": "Adrenaline",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3150792",
+    "imdb": "tt0318276",
+    "tmdb": 136434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 97
+}

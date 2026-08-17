@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mullets",
+  "title": "The Mullets",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7752617",
+    "imdb": "tt0367371",
+    "tmdb": 9819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

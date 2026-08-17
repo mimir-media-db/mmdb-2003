@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watch_my_lips_2003",
+  "title": "Watch My Lips",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4018509",
+    "imdb": "tt0499102",
+    "tmdb": 105069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

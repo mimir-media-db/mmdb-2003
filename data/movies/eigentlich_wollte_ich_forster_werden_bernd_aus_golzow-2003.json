@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eigentlich_wollte_ich_forster_werden_bernd_aus_golzow_2003",
+  "title": "Eigentlich wollte ich Förster werden - Bernd aus Golzow",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1303273",
+    "imdb": "tt0385674",
+    "tmdb": 440235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 142
+}

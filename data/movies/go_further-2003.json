@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_further_2003",
+  "title": "Go Further",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5574779",
+    "imdb": "tt0366522",
+    "tmdb": 34133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}

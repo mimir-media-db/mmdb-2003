@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_go_lucky_2003",
+  "title": "Happy Go Lucky",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10885826",
+    "imdb": "tt0370436",
+    "tmdb": 758229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

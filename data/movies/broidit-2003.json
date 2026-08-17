@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broidit_2003",
+  "title": "Broidit",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11854637",
+    "imdb": "tt0341284",
+    "tmdb": 68929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

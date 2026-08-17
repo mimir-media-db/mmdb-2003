@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_maischberger",
+  "title": "Maischberger",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1330010",
+    "imdb": "tt0388619",
+    "tmdb": 64159
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 475
+}

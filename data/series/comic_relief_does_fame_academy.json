@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comic_relief_does_fame_academy",
+  "title": "Comic Relief Does Fame Academy",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2408777",
+    "imdb": "tt0362338",
+    "tmdb": 1177
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

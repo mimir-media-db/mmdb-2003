@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_trl_uk",
+  "title": "TRL UK",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3995957",
+    "imdb": "tt0376435"
+  },
+  "last_updated": "2026-08-17"
+}

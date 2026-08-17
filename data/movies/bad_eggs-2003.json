@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_eggs_2003",
+  "title": "Bad Eggs",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1939403",
+    "imdb": "tt0312409",
+    "tmdb": 15935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 98
+}

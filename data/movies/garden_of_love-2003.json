@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_love_2003",
+  "title": "Garden of Love",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1494083",
+    "imdb": "tt0355473",
+    "tmdb": 12601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 82
+}

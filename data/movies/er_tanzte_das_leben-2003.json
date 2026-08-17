@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_er_tanzte_das_leben_2003",
+  "title": "Er tanzte das Leben",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1347926",
+    "imdb": "tt0457879",
+    "tmdb": 1336987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

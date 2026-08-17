@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_days_2003",
+  "title": "Winter Days",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3005454",
+    "imdb": "tt0437198",
+    "tmdb": 69484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 40
+}

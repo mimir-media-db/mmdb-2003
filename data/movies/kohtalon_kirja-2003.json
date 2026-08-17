@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kohtalon_kirja_2003",
+  "title": "Kohtalon kirja",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1769222",
+    "imdb": "tt0359564",
+    "tmdb": 100594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

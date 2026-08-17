@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_melvin_goes_to_dinner_2003",
+  "title": "Melvin Goes to Dinner",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3305309",
+    "imdb": "tt0323633",
+    "tmdb": 34681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

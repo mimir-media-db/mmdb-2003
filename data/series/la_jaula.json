@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_jaula",
+  "title": "La jaula",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5963941",
+    "imdb": "tt0356270"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

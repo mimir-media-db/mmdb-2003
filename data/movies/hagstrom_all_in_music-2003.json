@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hagstrom_all_in_music_2003",
+  "title": "Hagstrom - all in music",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10516048",
+    "imdb": "tt6886698",
+    "tmdb": 532550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

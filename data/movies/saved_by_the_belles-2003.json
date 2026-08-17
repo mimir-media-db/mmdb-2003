@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saved_by_the_belles_2003",
+  "title": "Saved by the Belles",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7428141",
+    "imdb": "tt0320422",
+    "tmdb": 506577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

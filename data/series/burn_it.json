@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_burn_it",
+  "title": "Burn It",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4999518",
+    "imdb": "tt0327273",
+    "tmdb": 20288
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

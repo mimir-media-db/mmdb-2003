@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_a_real_one_2003",
+  "title": "A Man, a Real One",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548663",
+    "imdb": "tt0329706",
+    "tmdb": 15617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

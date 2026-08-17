@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kerching",
+  "title": "Kerching!",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6393743",
+    "imdb": "tt0366043",
+    "tmdb": 2270
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 28
+}

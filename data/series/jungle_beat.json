@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jungle_beat",
+  "title": "Jungle Beat",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31090460",
+    "imdb": "tt3282216",
+    "tmdb": 112432
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 39
+}

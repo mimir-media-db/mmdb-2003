@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_n_roll_cops_2003",
+  "title": "The Rock n' Roll Cops",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7761270",
+    "imdb": "tt0379475",
+    "tmdb": 212772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

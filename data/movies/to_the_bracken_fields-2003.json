@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_bracken_fields_2003",
+  "title": "To the Bracken Fields",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7968761",
+    "imdb": "tt0417253",
+    "tmdb": 345022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

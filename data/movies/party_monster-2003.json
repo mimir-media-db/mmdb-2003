@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_party_monster_2003",
+  "title": "Party Monster",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1780723",
+    "imdb": "tt0320244",
+    "tmdb": 1415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 98
+}

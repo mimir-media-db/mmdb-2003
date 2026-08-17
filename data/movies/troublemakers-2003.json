@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_troublemakers_2003",
+  "title": "The Trouble-Makers",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7770340",
+    "imdb": "tt1047707",
+    "tmdb": 575729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

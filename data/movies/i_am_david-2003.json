@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_david_2003",
+  "title": "I Am David",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2482907",
+    "imdb": "tt0327919",
+    "tmdb": 15397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

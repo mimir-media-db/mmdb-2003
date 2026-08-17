@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speaker_phone_2003",
+  "title": "Speaker Phone",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10392169",
+    "imdb": "tt0413460",
+    "tmdb": 286432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

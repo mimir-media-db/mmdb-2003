@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zameen_2003",
+  "title": "Zameen",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3574720",
+    "imdb": "tt0382385",
+    "tmdb": 101783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

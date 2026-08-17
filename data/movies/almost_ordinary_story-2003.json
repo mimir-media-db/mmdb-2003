@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_ordinary_story_2003",
+  "title": "Almost Ordinary Story",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12758904",
+    "imdb": "tt0371953",
+    "tmdb": 260393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

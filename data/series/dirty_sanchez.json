@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dirty_sanchez",
+  "title": "Dirty Sanchez",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1228269",
+    "imdb": "tt0380105",
+    "tmdb": 1630
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 37
+}

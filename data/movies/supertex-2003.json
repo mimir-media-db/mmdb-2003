@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_supertex_2003",
+  "title": "SuperTex",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642072",
+    "imdb": "tt0379536",
+    "tmdb": 229264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filme_de_amor_2003",
+  "title": "Filme de amor",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10282319",
+    "imdb": "tt0368726",
+    "tmdb": 83185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 91
+}

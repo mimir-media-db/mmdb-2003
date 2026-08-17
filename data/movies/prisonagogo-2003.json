@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prisonagogo_2003",
+  "title": "Prison-A-Go-Go!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7245719",
+    "imdb": "tt0339534",
+    "tmdb": 50633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

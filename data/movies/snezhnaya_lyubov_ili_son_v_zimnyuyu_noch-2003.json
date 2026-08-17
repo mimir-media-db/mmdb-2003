@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snezhnaya_lyubov_ili_son_v_zimnyuyu_noch_2003",
+  "title": "Snezhnaya lyubov, ili Son v zimnyuyu noch",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4425514",
+    "imdb": "tt3069624",
+    "tmdb": 337690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 106
+}

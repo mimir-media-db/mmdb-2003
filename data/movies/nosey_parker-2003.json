@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nosey_parker_2003",
+  "title": "Nosey Parker",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7061784",
+    "imdb": "tt0371021",
+    "tmdb": 532480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

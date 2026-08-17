@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beach_fighter_3_2003",
+  "title": "Beach Fighter 3",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2892752",
+    "imdb": "tt5365748"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

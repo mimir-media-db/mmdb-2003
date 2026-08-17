@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_2003",
+  "title": "Monsieur",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3321326",
+    "imdb": "tt10586784",
+    "tmdb": 344840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

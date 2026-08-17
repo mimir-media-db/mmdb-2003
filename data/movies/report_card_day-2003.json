@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_report_card_day_2003",
+  "title": "Report Card Day",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5609582",
+    "imdb": "tt0382949",
+    "tmdb": 944333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

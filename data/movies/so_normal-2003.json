@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_normal_2003",
+  "title": "So Normal",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7549463",
+    "imdb": "tt0351459",
+    "tmdb": 37050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 110
+}

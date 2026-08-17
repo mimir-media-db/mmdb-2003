@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_pm_edition_weekend",
+  "title": "PM Edition Weekend",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7119799"
+  },
+  "last_updated": "2026-08-17"
+}

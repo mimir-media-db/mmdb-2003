@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_butterfly_2003",
+  "title": "Mr. Butterfly",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928504",
+    "imdb": "tt0360821",
+    "tmdb": 238270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

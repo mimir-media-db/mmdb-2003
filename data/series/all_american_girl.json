@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_american_girl",
+  "title": "All American Girl",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4728582",
+    "imdb": "tt0361144",
+    "tmdb": 10288
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

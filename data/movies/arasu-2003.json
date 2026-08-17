@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arasu_2003",
+  "title": "Arasu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4784399",
+    "imdb": "tt1479670",
+    "tmdb": 78630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

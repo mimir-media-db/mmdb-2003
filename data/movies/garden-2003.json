@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_2003",
+  "title": "Garden",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232936",
+    "imdb": "tt0390036",
+    "tmdb": 393250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_walker_2003",
+  "title": "The Snow Walker",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610168",
+    "imdb": "tt0337721",
+    "tmdb": 14694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

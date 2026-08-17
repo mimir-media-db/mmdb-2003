@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_giustizia_nel_tempo_di_guerra_2003",
+  "title": "Giustizia nel tempo di guerra",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3771750",
+    "imdb": "tt0448506"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 78
+}

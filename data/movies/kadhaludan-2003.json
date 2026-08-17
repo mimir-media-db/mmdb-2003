@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhaludan_2003",
+  "title": "Kadhaludan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6345439",
+    "imdb": "tt13919770",
+    "tmdb": 280990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

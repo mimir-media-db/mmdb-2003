@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalyana_ramudu_2003",
+  "title": "Kalyana Ramudu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6354899",
+    "imdb": "tt0375886",
+    "tmdb": 117834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

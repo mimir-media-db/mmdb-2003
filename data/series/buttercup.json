@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_buttercup",
+  "title": "Buttercup",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5002865",
+    "imdb": "tt0367300",
+    "tmdb": 18872
+  },
+  "last_updated": "2026-08-17"
+}

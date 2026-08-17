@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_karen_dunbar_show",
+  "title": "The Karen Dunbar Show",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7743988",
+    "imdb": "tt0357379",
+    "tmdb": 12048
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 22
+}

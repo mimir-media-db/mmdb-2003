@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_side_of_the_moon_2003",
+  "title": "Far Side of the Moon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1217870",
+    "imdb": "tt0352332",
+    "tmdb": 22618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

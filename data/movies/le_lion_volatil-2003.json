@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_lion_volatil_2003",
+  "title": "Le lion volatil",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223951",
+    "imdb": "tt0403227",
+    "tmdb": 139426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 12
+}

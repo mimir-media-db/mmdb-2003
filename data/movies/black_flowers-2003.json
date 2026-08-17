@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_flowers_2003",
+  "title": "Black Flowers",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9198833",
+    "imdb": "tt0388215",
+    "tmdb": 346405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_main_prem_ki_diwani_hoon_2003",
+  "title": "Main Prem Ki Diwani Hoon",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q746388",
+    "imdb": "tt0265148",
+    "tmdb": 165402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 196
+}

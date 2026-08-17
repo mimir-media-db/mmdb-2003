@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abar_aranye_2003",
+  "title": "Abar Aranye",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4663453",
+    "imdb": "tt0368559",
+    "tmdb": 90838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 123
+}

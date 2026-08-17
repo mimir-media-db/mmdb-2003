@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_echt_fett",
+  "title": "Echt fett",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1280888",
+    "imdb": "tt0924170",
+    "tmdb": 41477
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 34
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kariya_2003",
+  "title": "Kariya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6371118",
+    "imdb": "tt12867926",
+    "tmdb": 1235100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaseegara_2003",
+  "title": "Vaseegara",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3536539",
+    "imdb": "tt0476706",
+    "tmdb": 69646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
