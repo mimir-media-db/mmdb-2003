@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kikoku_2003",
+  "title": "Kikoku",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3571374",
+    "imdb": "tt0376706",
+    "tmdb": 64579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

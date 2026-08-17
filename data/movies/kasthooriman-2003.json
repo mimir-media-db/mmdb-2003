@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kasthooriman_2003",
+  "title": "Kasthooriman",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6374807",
+    "imdb": "tt0396684",
+    "tmdb": 358316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

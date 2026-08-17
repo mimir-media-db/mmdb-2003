@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karat_14_2003",
+  "title": "Karat 14",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5882277",
+    "imdb": "tt1514418",
+    "tmdb": 560523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

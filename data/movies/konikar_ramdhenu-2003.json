@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_konikar_ramdhenu_2003",
+  "title": "Konikar Ramdhenu",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61953",
+    "imdb": "tt0399254",
+    "tmdb": 556484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

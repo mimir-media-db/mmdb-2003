@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kovilpatti_veeralakshmi_2003",
+  "title": "Kovilpatti Veeralakshmi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6434885",
+    "imdb": "tt6811008",
+    "tmdb": 884994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

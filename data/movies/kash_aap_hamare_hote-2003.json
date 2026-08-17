@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kash_aap_hamare_hote_2003",
+  "title": "Kash Aap Hamare Hote",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6374172",
+    "imdb": "tt0352489",
+    "tmdb": 109454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuxa_kanema_the_birth_of_cinema_2003",
+  "title": "Kuxa Kanema: The Birth of Cinema",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3200727",
+    "imdb": "tt0492996",
+    "tmdb": 231386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
