@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eiffel_im_in_love_2003",
+  "title": "Eiffel I'm in Love",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5348877",
+    "imdb": "tt0395524",
+    "tmdb": 297326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-21",
+  "runtime_minutes": 127
+}

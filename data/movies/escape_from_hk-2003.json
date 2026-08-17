@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_hk_2003",
+  "title": "Escape from HK",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117463274",
+    "imdb": "tt10243776",
+    "tmdb": 986794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-05",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_excuse_me_2003",
+  "title": "Excuse Me",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13158470",
+    "imdb": "tt11698512",
+    "tmdb": 680660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-05"
+}

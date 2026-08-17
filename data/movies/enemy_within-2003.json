@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_enemy_within_2003",
+  "title": "The Enemy Within",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123305715",
+    "imdb": "tt22735440"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

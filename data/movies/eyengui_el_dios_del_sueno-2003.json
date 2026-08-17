@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eyengui_el_dios_del_sueno_2003",
+  "title": "Eyengui, el Dios del Sueño",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5853716",
+    "imdb": "tt0391992"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-07",
+  "runtime_minutes": 84
+}

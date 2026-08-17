@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_egg_of_life_2003",
+  "title": "Egg of Life",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113303338",
+    "imdb": "tt0855792",
+    "tmdb": 950455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

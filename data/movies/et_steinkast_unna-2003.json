@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_et_steinkast_unna_2003",
+  "title": "Et steinkast unna",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11968009",
+    "imdb": "tt0389407",
+    "tmdb": 346542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-22",
+  "runtime_minutes": 51
+}
