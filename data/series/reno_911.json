@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reno_911",
+  "title": "Reno 911!",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1849170",
+    "imdb": "tt0370194",
+    "tmdb": 2187
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 113
+}

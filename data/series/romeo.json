@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_romeo",
+  "title": "Romeo!",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2580573",
+    "imdb": "tt0367403",
+    "tmdb": 4000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 53
+}

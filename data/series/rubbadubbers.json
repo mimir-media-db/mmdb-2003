@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rubbadubbers",
+  "title": "Rubbadubbers",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5223507",
+    "imdb": "tt0390762",
+    "tmdb": 20517
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

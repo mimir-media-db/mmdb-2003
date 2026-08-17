@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_room_raiders",
+  "title": "Room Raiders",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q569491",
+    "imdb": "tt0395409",
+    "tmdb": 640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8
+}
