@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_like_to_work_2003",
+  "title": "I Like to Work",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156638",
+    "imdb": "tt0373930",
+    "tmdb": 60069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

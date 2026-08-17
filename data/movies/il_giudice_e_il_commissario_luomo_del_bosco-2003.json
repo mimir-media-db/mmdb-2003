@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giudice_e_il_commissario_luomo_del_bosco_2003",
+  "title": "Il giudice e il commissario: L'uomo del bosco",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3794258",
+    "imdb": "tt0578833"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

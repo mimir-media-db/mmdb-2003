@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_instructing_the_heart_2003",
+  "title": "Instructing The Heart",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3607569",
+    "imdb": "tt0353436",
+    "tmdb": 114080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 107
+}

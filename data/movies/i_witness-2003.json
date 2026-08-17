@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_witness_2003",
+  "title": "I Witness",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5979948",
+    "imdb": "tt0329216",
+    "tmdb": 62107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

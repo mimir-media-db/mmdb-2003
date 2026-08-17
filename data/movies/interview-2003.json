@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interview_2003",
+  "title": "Interview",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q629785",
+    "imdb": "tt0360674",
+    "tmdb": 36350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

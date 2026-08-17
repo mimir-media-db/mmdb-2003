@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giudice_e_il_commissario_la_residenza_2003",
+  "title": "Il giudice e il commissario: La residenza",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3794260",
+    "imdb": "tt0578826"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}
