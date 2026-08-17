@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_quiet_place",
+  "title": "A Quiet Place",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4004018",
+    "imdb": "tt0353902"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}
