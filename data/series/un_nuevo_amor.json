@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_un_nuevo_amor",
+  "title": "Un nuevo amor",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11399724",
+    "imdb": "tt0361220",
+    "tmdb": 107146
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 85
+}
