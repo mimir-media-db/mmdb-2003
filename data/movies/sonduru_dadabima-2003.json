@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sonduru_dadabima_2003",
+  "title": "Sonduru Dadabima",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30637207",
+    "imdb": "tt7876994"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-25"
+}

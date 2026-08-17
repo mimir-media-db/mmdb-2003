@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skin_deep_2003",
+  "title": "Skin Deep",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65324153",
+    "imdb": "tt0330896",
+    "tmdb": 94064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

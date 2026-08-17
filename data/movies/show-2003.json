@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_show_2003",
+  "title": "Show",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9336128",
+    "imdb": "tt0358146",
+    "tmdb": 200796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-21"
+}

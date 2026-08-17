@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_shortcake_spring_for_strawberry_shortcake_2003",
+  "title": "Strawberry Shortcake: Spring for Strawberry Shortcake",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56245189",
+    "imdb": "tt0469838",
+    "tmdb": 340468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-11",
+  "runtime_minutes": 45
+}

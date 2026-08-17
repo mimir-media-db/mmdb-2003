@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_le_ciel_lumineux_de_son_pays_natal_2003",
+  "title": "Sous le ciel lumineux de son pays natal",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65158333",
+    "imdb": "tt0462995",
+    "tmdb": 665301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 48
+}

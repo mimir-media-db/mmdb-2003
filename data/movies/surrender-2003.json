@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_surrender_2003",
+  "title": "Surrender",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16678311",
+    "imdb": "tt0315845",
+    "tmdb": 246862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

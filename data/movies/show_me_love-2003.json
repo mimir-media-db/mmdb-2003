@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_show_me_love_2003",
+  "title": "Show Me Love",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q304394",
+    "imdb": "tt0150662",
+    "tmdb": 11634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-04",
+  "runtime_minutes": 89
+}

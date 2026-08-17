@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stirring_trip_to_motuo_2003",
+  "title": "Stirring Trip to Motuo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125490152",
+    "imdb": "tt11496622",
+    "tmdb": 670061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_see_what_happens_2003",
+  "title": "See What Happens",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50481710",
+    "imdb": "tt0350099",
+    "tmdb": 316014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-15"
+}

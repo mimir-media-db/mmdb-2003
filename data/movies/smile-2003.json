@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_smile_2003",
+  "title": "Smile",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87571031"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-25"
+}

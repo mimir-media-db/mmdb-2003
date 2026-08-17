@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singles_2003",
+  "title": "Singles",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11255565",
+    "imdb": "tt0371226",
+    "tmdb": 200836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-11",
+  "runtime_minutes": 110
+}

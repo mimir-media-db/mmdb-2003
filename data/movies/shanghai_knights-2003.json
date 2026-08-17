@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_knights_2003",
+  "title": "Shanghai Knights",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q595595",
+    "imdb": "tt0300471",
+    "tmdb": 6038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-30",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solaris_2003",
+  "title": "Solaris",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q673195",
+    "imdb": "tt0307479",
+    "tmdb": 2103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-06",
+  "runtime_minutes": 99
+}

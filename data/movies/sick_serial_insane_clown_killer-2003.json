@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sick_serial_insane_clown_killer_2003",
+  "title": "S.I.C.K. Serial Insane Clown Killer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058761",
+    "imdb": "tt0367817",
+    "tmdb": 108580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

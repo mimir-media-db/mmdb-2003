@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_nemesis_2003",
+  "title": "Star Trek: Nemesis",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q388319",
+    "imdb": "tt0253754",
+    "tmdb": 201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-16",
+  "runtime_minutes": 108
+}

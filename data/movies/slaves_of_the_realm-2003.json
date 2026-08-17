@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slaves_of_the_realm_2003",
+  "title": "Slaves of the Realm",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104893819",
+    "imdb": "tt0366291",
+    "tmdb": 82361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 99
+}

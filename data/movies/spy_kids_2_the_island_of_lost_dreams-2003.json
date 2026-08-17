@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_kids_2_the_island_of_lost_dreams_2003",
+  "title": "Spy Kids 2: The Island of Lost Dreams",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q549908",
+    "imdb": "tt0287717",
+    "tmdb": 9488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-30",
+  "runtime_minutes": 96
+}

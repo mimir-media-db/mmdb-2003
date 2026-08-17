@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ship_is_coming_2003",
+  "title": "A Ship Is Coming",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37617705",
+    "imdb": "tt0330860",
+    "tmdb": 355912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-29"
+}

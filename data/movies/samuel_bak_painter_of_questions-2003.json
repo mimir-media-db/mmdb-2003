@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samuel_bak_painter_of_questions_2003",
+  "title": "Samuel Bak: Painter of Questions",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643394",
+    "imdb": "tt1051380"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 48
+}
