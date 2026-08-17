@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ndeyssaan_2003",
+  "title": "Ndeyssaan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9049069",
+    "imdb": "tt0305884",
+    "tmdb": 276220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nate_and_the_colonel_2003",
+  "title": "Nate and the Colonel",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6968746",
+    "imdb": "tt0339436",
+    "tmdb": 214361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-09",
+  "runtime_minutes": 95
+}

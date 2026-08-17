@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nater_guru_2003",
+  "title": "Nater Guru",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6968758",
+    "imdb": "tt1409116",
+    "tmdb": 527865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-14"
+}

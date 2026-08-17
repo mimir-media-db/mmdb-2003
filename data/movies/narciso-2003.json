@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narciso_2003",
+  "title": "Narciso",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16666146",
+    "imdb": "tt1499283",
+    "tmdb": 281640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 27
+}

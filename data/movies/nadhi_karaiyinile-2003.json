@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nadhi_karaiyinile_2003",
+  "title": "Nadhi Karaiyinile",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646765",
+    "imdb": "tt13801678",
+    "tmdb": 756883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-28"
+}
