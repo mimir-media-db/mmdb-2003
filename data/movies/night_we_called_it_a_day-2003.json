@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_we_called_it_a_day_2003",
+  "title": "The Night We Called It a Day",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4327809",
+    "imdb": "tt0320159",
+    "tmdb": 61052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

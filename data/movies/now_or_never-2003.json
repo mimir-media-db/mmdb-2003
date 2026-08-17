@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_now_or_never_2003",
+  "title": "Now or Never",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3884297",
+    "imdb": "tt0366854",
+    "tmdb": 138449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 96
+}

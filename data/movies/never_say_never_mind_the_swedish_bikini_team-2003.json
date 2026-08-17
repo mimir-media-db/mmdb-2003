@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_say_never_mind_the_swedish_bikini_team_2003",
+  "title": "Never Say Never Mind: The Swedish Bikini Team",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71847",
+    "imdb": "tt0302855",
+    "tmdb": 112779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

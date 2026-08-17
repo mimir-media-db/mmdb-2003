@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninja_pays_half_my_rent_2003",
+  "title": "A Ninja Pays Half My Rent",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658648",
+    "imdb": "tt0344118",
+    "tmdb": 264134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_national_lampoons_barely_legal_2003",
+  "title": "National Lampoon's Barely Legal",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2030569",
+    "imdb": "tt0302297",
+    "tmdb": 15276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 89
+}

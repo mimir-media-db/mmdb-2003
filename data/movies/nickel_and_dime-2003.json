@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nickel_and_dime_2003",
+  "title": "Nickel and Dime",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576788",
+    "imdb": "tt0327259",
+    "tmdb": 67380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

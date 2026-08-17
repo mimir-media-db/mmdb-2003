@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nayee_padosan_2003",
+  "title": "Nayee Padosan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6983130",
+    "imdb": "tt0362902",
+    "tmdb": 361410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

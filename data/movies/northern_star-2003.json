@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_star_2003",
+  "title": "Northern Star",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2001068",
+    "imdb": "tt0382202",
+    "tmdb": 36352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 82
+}
