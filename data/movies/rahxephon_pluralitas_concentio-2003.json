@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rahxephon_pluralitas_concentio_2003",
+  "title": "RahXephon: Pluralitas Concentio",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7283274",
+    "imdb": "tt1047518",
+    "tmdb": 16860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

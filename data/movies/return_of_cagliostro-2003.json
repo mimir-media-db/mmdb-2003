@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_cagliostro_2003",
+  "title": "The Return of Cagliostro",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3226391",
+    "imdb": "tt0358676",
+    "tmdb": 77562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rage_in_placid_lake_2003",
+  "title": "The Rage in Placid Lake",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4316368",
+    "imdb": "tt0305999",
+    "tmdb": 14868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

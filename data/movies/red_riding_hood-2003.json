@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_riding_hood_2003",
+  "title": "Red Riding Hood",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7304800",
+    "imdb": "tt0388365",
+    "tmdb": 27728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

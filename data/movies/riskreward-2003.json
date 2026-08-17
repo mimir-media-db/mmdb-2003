@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riskreward_2003",
+  "title": "Risk/Reward",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7336212",
+    "imdb": "tt0358079",
+    "tmdb": 102611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

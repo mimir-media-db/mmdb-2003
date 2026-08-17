@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raizes_do_brazil_uma_cinebiografia_de_sergio_buarque_de_hollanda_2003",
+  "title": "Raizes do Brazil - Uma Cinebiografia de Sergio Buarque de Hollanda",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10357747",
+    "imdb": "tt0826612",
+    "tmdb": 272404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

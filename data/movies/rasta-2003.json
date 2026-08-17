@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rasta_2003",
+  "title": "Rasta",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7295238",
+    "imdb": "tt0385977",
+    "tmdb": 721404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

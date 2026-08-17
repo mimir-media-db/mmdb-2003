@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_roses_and_petrol_2003",
+  "title": "Red Roses and Petrol",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7304969",
+    "imdb": "tt0357091",
+    "tmdb": 279746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

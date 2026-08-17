@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riding_in_vans_with_boys_2003",
+  "title": "Riding in Vans with Boys",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q684517",
+    "imdb": "tt0363030",
+    "tmdb": 80778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
