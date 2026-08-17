@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_freunde",
+  "title": "Freunde",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q178893",
+    "imdb": "tt0439919",
+    "tmdb": 195676
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 1
+}

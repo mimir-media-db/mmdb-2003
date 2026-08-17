@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_forensic_factor",
+  "title": "Forensic Factor",
+  "start_year": 2003,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5468666",
+    "imdb": "tt0420403",
+    "tmdb": 16907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 44
+}

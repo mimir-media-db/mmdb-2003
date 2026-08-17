@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_for_love_or_money",
+  "title": "For Love or Money",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5466786",
+    "imdb": "tt0372059",
+    "tmdb": 11028
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}
