@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_who_believed_she_was_president_of_the_united_states_2003",
+  "title": "The Woman Who Believed She Was President of the United States",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168891",
+    "imdb": "tt0342798",
+    "tmdb": 32838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 114
+}

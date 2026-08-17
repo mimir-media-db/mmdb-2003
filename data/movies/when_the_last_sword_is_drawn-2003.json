@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_last_sword_is_drawn_2003",
+  "title": "When the Last Sword Is Drawn",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4356108",
+    "imdb": "tt0359692",
+    "tmdb": 14455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-18",
+  "runtime_minutes": 137
+}

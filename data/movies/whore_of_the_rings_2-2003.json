@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whore_of_the_rings_2_2003",
+  "title": "Whore of the Rings 2",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140645619",
+    "imdb": "tt0412064",
+    "tmdb": 365015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-30",
+  "runtime_minutes": 84
+}

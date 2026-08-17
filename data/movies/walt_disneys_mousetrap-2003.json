@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walt_disneys_mousetrap_2003",
+  "title": "Walt Disney's Mousetrap",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671360",
+    "imdb": "tt0446404",
+    "tmdb": 1642955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

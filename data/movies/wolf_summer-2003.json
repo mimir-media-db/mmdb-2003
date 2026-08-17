@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_summer_2003",
+  "title": "Wolf Summer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1741605",
+    "imdb": "tt0356154",
+    "tmdb": 115383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-28",
+  "runtime_minutes": 83
+}

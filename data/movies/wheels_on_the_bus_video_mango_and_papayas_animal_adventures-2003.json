@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wheels_on_the_bus_video_mango_and_papayas_animal_adventures_2003",
+  "title": "The Wheels on the Bus Video: Mango and Papaya's Animal Adventures",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131598526",
+    "imdb": "tt0392907",
+    "tmdb": 165290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 33
+}

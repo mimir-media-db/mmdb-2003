@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_work_of_director_chris_cunningham_2003",
+  "title": "The Work of Director Chris Cunningham",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528167",
+    "imdb": "tt0386123",
+    "tmdb": 276486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 62
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_soccer_bunch_2003",
+  "title": "Wild Soccer Bunch",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q875694",
+    "imdb": "tt0376990",
+    "tmdb": 10755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-20",
+  "runtime_minutes": 94
+}

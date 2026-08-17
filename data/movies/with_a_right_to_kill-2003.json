@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_a_right_to_kill_2003",
+  "title": "With a Right to Kill",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729163",
+    "imdb": "tt0402371",
+    "tmdb": 270618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-05",
+  "runtime_minutes": 113
+}

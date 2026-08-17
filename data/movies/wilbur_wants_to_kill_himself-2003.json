@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilbur_wants_to_kill_himself_2003",
+  "title": "Wilbur Wants to Kill Himself",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117378",
+    "imdb": "tt0329767",
+    "tmdb": 156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-18",
+  "runtime_minutes": 111
+}

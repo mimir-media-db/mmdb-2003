@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_going_on_2003",
+  "title": "What’s Going On?",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3567373",
+    "imdb": "tt0312014",
+    "tmdb": 104234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-20",
+  "runtime_minutes": 83
+}

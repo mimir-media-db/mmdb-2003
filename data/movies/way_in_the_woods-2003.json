@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_in_the_woods_2003",
+  "title": "The Way in the Woods",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824487",
+    "imdb": "tt0473547",
+    "tmdb": 502736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-03",
+  "runtime_minutes": 100
+}
