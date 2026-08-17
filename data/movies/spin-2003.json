@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spin_2003",
+  "title": "Spin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225613",
+    "imdb": "tt0362174",
+    "tmdb": 184530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

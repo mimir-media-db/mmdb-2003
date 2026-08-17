@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shunned_house_2003",
+  "title": "The Shunned House",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3821694",
+    "imdb": "tt0378760",
+    "tmdb": 178465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

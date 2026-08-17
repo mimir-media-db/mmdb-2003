@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_searching_for_haizmann_2003",
+  "title": "Searching for Haizmann",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3476802",
+    "imdb": "tt0323911",
+    "tmdb": 401107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

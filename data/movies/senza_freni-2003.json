@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_senza_freni_2003",
+  "title": "Senza freni",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3955510",
+    "imdb": "tt1161058"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

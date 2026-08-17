@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sena_2003",
+  "title": "Sena",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7449915",
+    "imdb": "tt13914680",
+    "tmdb": 335916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

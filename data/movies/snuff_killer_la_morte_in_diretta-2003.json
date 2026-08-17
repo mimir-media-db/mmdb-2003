@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snuff_killer_la_morte_in_diretta_2003",
+  "title": "Snuff killer – La morte in diretta",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3963134",
+    "imdb": "tt0400837",
+    "tmdb": 89223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

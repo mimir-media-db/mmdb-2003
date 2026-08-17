@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sars_journey_2003",
+  "title": "A SARs Journey",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11073315",
+    "imdb": "tt9496950",
+    "tmdb": 745968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

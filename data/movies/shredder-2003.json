@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shredder_2003",
+  "title": "Shredder",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1406874",
+    "imdb": "tt0282163",
+    "tmdb": 36911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 83
+}

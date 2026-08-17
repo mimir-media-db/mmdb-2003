@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_things_happen_at_sundown_2003",
+  "title": "Strange Things Happen at Sundown",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7621469",
+    "imdb": "tt0378814",
+    "tmdb": 227856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

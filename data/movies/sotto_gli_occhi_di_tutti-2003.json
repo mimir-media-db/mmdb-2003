@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sotto_gli_occhi_di_tutti_2003",
+  "title": "Sotto gli occhi di tutti",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3965209",
+    "imdb": "tt0434350",
+    "tmdb": 424020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

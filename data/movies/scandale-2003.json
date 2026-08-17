@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scandale_2003",
+  "title": "Scandale",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3474955",
+    "imdb": "tt0402484",
+    "tmdb": 1164446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

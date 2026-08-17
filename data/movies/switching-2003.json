@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_switching_2003",
+  "title": "Switching",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7659115",
+    "imdb": "tt0365814",
+    "tmdb": 683549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sotalapset_war_children_2003",
+  "title": "Sotalapset (War Children)",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5478837",
+    "imdb": "tt0392785",
+    "tmdb": 1251981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

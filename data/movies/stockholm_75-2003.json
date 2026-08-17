@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stockholm_75_2003",
+  "title": "Stockholm 75",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2350716",
+    "imdb": "tt0488898",
+    "tmdb": 406310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 58
+}

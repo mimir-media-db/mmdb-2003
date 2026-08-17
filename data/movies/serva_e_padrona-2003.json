@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serva_e_padrona_2003",
+  "title": "Serva e padrona",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3958004",
+    "imdb": "tt0473536",
+    "tmdb": 502737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

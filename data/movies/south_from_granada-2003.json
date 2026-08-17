@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_south_from_granada_2003",
+  "title": "South from Granada",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q618480",
+    "imdb": "tt0349076",
+    "tmdb": 80483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 111
+}

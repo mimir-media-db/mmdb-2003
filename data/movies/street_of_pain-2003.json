@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_street_of_pain_2003",
+  "title": "Street of Pain",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3500281",
+    "imdb": "tt0365800",
+    "tmdb": 1118090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

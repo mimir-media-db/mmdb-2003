@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sophiatown_2003",
+  "title": "Sophiatown",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7562944",
+    "imdb": "tt0399675",
+    "tmdb": 171024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

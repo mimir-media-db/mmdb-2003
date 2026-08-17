@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_gardens_2003",
+  "title": "Strange Gardens",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3049089",
+    "imdb": "tt0285052",
+    "tmdb": 51163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}

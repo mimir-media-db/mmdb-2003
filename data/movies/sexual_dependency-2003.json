@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexual_dependency_2003",
+  "title": "Sexual Dependency",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4413366",
+    "imdb": "tt0376568",
+    "tmdb": 47614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 110
+}

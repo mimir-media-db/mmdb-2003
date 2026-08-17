@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scacco_pazzo_2003",
+  "title": "Scacco pazzo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3951350",
+    "imdb": "tt0385216",
+    "tmdb": 63073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

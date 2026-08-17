@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sayew_2003",
+  "title": "Sayew",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6636963",
+    "imdb": "tt0359942",
+    "tmdb": 244970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sole_sisters_2003",
+  "title": "Sole Sisters",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3072007",
+    "imdb": "tt0336432",
+    "tmdb": 51860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 85
+}

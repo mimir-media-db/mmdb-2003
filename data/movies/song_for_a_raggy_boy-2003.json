@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_for_a_raggy_boy_2003",
+  "title": "Song for a Raggy Boy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q901276",
+    "imdb": "tt0339707",
+    "tmdb": 49890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

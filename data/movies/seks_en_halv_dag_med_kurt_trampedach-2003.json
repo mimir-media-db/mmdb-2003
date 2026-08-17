@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seks_en_halv_dag_med_kurt_trampedach_2003",
+  "title": "Seks en halv dag med Kurt Trampedach",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3954703",
+    "imdb": "tt0405300"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 36
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sretno_dijete_2003",
+  "title": "Sretno dijete",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7585763",
+    "imdb": "tt0410657",
+    "tmdb": 25256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_the_monster_of_mexico_2003",
+  "title": "Scooby-Doo! and the Monster of Mexico",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2095720",
+    "imdb": "tt0369903",
+    "tmdb": 21956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 74
+}

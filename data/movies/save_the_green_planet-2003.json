@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_save_the_green_planet_2003",
+  "title": "Save the Green Planet!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q482944",
+    "imdb": "tt0354668",
+    "tmdb": 11297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 117
+}
