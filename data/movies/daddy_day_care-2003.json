@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daddy_day_care_2003",
+  "title": "Daddy Day Care",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q980223",
+    "imdb": "tt0317303",
+    "tmdb": 10708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-14",
+  "runtime_minutes": 88
+}

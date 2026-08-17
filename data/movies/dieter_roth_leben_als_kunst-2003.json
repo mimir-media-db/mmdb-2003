@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dieter_roth_leben_als_kunst_2003",
+  "title": "Dieter Roth – Leben als Kunst",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32859643",
+    "imdb": "tt0424044",
+    "tmdb": 874849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 115
+}

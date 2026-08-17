@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_der_typ_2003",
+  "title": "Der Typ",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718053"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

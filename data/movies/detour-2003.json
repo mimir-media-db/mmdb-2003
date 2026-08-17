@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detour_2003",
+  "title": "Detour",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4526242",
+    "imdb": "tt0319495",
+    "tmdb": 42671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-02",
+  "runtime_minutes": 89
+}

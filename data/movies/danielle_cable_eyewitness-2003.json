@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_danielle_cable_eyewitness_2003",
+  "title": "Danielle Cable: Eyewitness",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54868274",
+    "imdb": "tt0361491",
+    "tmdb": 437836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 120
+}

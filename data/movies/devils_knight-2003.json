@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_knight_2003",
+  "title": "Devil's Knight",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511283",
+    "imdb": "tt0337976",
+    "tmdb": 45116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancer_upstairs_2003",
+  "title": "The Dancer Upstairs",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1113039",
+    "imdb": "tt0118926",
+    "tmdb": 20689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-16",
+  "runtime_minutes": 133
+}

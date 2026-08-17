@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dying_at_grace_2003",
+  "title": "Dying at Grace",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62595549",
+    "imdb": "tt0379269",
+    "tmdb": 86751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 148
+}

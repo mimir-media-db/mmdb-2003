@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_down_by_love_2003",
+  "title": "Down by Love",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1297536",
+    "imdb": "tt0354079",
+    "tmdb": 190362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-23",
+  "runtime_minutes": 94
+}
