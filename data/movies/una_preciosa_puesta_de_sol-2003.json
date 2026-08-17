@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_preciosa_puesta_de_sol_2003",
+  "title": "Una preciosa puesta de sol",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155881",
+    "imdb": "tt0382920",
+    "tmdb": 257493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 84
+}

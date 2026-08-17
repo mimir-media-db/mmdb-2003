@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_un_petit_service_2003",
+  "title": "Un petit service",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548915",
+    "imdb": "tt0380784"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

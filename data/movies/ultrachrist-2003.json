@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultrachrist_2003",
+  "title": "Ultrachrist!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7880511",
+    "imdb": "tt0358236",
+    "tmdb": 54930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
