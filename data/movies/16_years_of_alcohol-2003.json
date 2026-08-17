@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_16_years_of_alcohol_2003",
+  "title": "16 Years of Alcohol",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1165415",
+    "imdb": "tt0331338",
+    "tmdb": 29656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}
