@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_serrano",
+  "title": "Los Serrano",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q899677",
+    "imdb": "tt0362372",
+    "tmdb": 7283
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 147
+}

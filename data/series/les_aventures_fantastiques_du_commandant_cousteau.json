@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_aventures_fantastiques_du_commandant_cousteau",
+  "title": "Les Aventures fantastiques du commandant Cousteau",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3230877",
+    "imdb": "tt0819858",
+    "tmdb": 103938
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

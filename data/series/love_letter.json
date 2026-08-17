@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_letter",
+  "title": "Love Letter",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6690935",
+    "imdb": "tt0425697",
+    "tmdb": 1677
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

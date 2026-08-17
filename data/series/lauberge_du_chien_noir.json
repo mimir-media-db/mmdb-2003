@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lauberge_du_chien_noir",
+  "title": "L'auberge du chien noir",
+  "start_year": 2003,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3202574",
+    "imdb": "tt0383740",
+    "tmdb": 38584
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 376
+}

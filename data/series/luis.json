@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_luis",
+  "title": "Luis",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6700215",
+    "imdb": "tt0367363",
+    "tmdb": 14632
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

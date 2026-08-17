@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_tuteur",
+  "title": "Le Tuteur",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3227936",
+    "imdb": "tt0356305",
+    "tmdb": 100593
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 19
+}
