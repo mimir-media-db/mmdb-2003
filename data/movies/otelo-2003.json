@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_otelo_2003",
+  "title": "Otelo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61125028",
+    "imdb": "tt0405225"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

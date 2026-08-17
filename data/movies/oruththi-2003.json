@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oruththi_2003",
+  "title": "Oruththi",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17072782",
+    "imdb": "tt0861796"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

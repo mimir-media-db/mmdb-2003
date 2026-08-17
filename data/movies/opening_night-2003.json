@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_opening_night_2003",
+  "title": "Opening Night",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1504568",
+    "imdb": "tt0079672",
+    "tmdb": 33665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-27",
+  "runtime_minutes": 139
+}

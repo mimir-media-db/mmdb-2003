@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_aleijadinho_paixao_gloria_e_suplicio_2003",
+  "title": "O Aleijadinho: Paixão, Glória e Suplício",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168916",
+    "imdb": "tt0368567",
+    "tmdb": 412646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}
