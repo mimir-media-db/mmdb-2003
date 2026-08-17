@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vasantham_2003",
+  "title": "Vasantham",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7916360",
+    "imdb": "tt0375181",
+    "tmdb": 279463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

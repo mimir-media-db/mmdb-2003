@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voyage_home_2003",
+  "title": "The Voyage Home",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3704159",
+    "imdb": "tt0404363",
+    "tmdb": 450529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

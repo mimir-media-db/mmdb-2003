@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vaievem_come_and_go_2003",
+  "title": "Vai~E~Vem (Come and Go)",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3553054",
+    "imdb": "tt0367195",
+    "tmdb": 83228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 179
+}

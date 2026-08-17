@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veronica_guerin_2003",
+  "title": "Veronica Guerin",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1146246",
+    "imdb": "tt0312549",
+    "tmdb": 10629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 94
+}
