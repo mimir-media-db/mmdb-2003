@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_blind_mice_2003",
+  "title": "3 Blind Mice",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q744836",
+    "imdb": "tt0324952",
+    "tmdb": 49481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}
