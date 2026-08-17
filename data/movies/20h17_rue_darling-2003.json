@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_20h17_rue_darling_2003",
+  "title": "20h17 rue Darling",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2814789",
+    "imdb": "tt0364193",
+    "tmdb": 61258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

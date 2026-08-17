@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_21_grams_2003",
+  "title": "21 Grams",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q214013",
+    "imdb": "tt0315733",
+    "tmdb": 470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 125
+}
