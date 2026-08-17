@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_today_and_tomorrow_2003",
+  "title": "Today and Tomorrow",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5903698",
+    "imdb": "tt0347207",
+    "tmdb": 58739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

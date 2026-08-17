@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tre_punto_sei_2003",
+  "title": "Tre punto sei",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3998146",
+    "imdb": "tt0331360"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 86
+}

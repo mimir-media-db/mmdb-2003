@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tulse_luper_suitcases_antwerp_2003",
+  "title": "The Tulse Luper Suitcases: Antwerp",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4508836",
+    "imdb": "tt1131577",
+    "tmdb": 429208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

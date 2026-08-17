@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thirteen_cats_on_the_hot_gabled_roof_2003",
+  "title": "Thirteen Cats on the Hot Gabled Roof",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3538358",
+    "imdb": "tt8465094",
+    "tmdb": 778714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

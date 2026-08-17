@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theory_of_binge_drinking_2003",
+  "title": "The Theory of Binge Drinking",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4455117",
+    "imdb": "tt0383008",
+    "tmdb": 70376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 70
+}

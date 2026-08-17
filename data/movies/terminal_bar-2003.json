@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terminal_bar_2003",
+  "title": "Terminal Bar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7702638",
+    "imdb": "tt0344437",
+    "tmdb": 112274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 23
+}

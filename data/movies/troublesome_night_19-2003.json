@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troublesome_night_19_2003",
+  "title": "Troublesome Night 19",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7846519",
+    "imdb": "tt0389727",
+    "tmdb": 403679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 87
+}

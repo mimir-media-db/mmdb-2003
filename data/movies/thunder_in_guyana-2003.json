@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thunder_in_guyana_2003",
+  "title": "Thunder in Guyana",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7799048",
+    "imdb": "tt0439010",
+    "tmdb": 536096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

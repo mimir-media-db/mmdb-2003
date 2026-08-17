@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toolbox_murders_2003",
+  "title": "The Toolbox Murders",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3133377",
+    "imdb": "tt0078405",
+    "tmdb": 27495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

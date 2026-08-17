@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treasure_hunt_2003",
+  "title": "Treasure Hunt",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3998173",
+    "imdb": "tt0365861",
+    "tmdb": 30410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 78
+}

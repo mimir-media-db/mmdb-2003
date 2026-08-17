@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_traces_empreintes_de_femmes_2003",
+  "title": "Traces, empreintes de femmes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3536170",
+    "imdb": "tt0818629",
+    "tmdb": 458224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
