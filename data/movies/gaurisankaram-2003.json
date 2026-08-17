@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaurisankaram_2003",
+  "title": "Gaurisankaram",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5527794",
+    "imdb": "tt0393320",
+    "tmdb": 1142263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25"
+}

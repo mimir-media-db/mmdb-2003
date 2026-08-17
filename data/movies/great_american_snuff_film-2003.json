@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_american_snuff_film_2003",
+  "title": "The Great American Snuff Film",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814813",
+    "imdb": "tt0471726",
+    "tmdb": 116603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_galatta_ganapathy_2003",
+  "title": "Galatta Ganapathy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55612244",
+    "imdb": "tt10157574",
+    "tmdb": 996760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

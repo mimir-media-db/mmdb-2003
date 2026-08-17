@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grandma_got_run_over_by_a_reindeer_2003",
+  "title": "Grandma Got Run Over by a Reindeer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5595469",
+    "imdb": "tt0267536",
+    "tmdb": 51531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-20",
+  "runtime_minutes": 51
+}

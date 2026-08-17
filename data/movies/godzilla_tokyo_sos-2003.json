@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godzilla_tokyo_sos_2003",
+  "title": "Godzilla: Tokyo S.O.S.",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q677987",
+    "imdb": "tt0366526",
+    "tmdb": 39469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-11-03",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gory_gory_hallelujah_2003",
+  "title": "Gory Gory Hallelujah",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250876",
+    "imdb": "tt0396041",
+    "tmdb": 281189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

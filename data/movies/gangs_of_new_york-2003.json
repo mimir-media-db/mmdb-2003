@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangs_of_new_york_2003",
+  "title": "Gangs of New York",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q154581",
+    "imdb": "tt0217505",
+    "tmdb": 3131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-09",
+  "runtime_minutes": 168
+}

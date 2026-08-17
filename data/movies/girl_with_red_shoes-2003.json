@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_with_red_shoes_2003",
+  "title": "The Girl With Red Shoes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93735338",
+    "tmdb": 918380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
