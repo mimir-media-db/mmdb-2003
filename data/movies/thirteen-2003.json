@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thirteen_2003",
+  "title": "Thirteen",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1141912",
+    "imdb": "tt0328538",
+    "tmdb": 11023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-17",
+  "runtime_minutes": 100
+}

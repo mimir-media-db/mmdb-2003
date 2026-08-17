@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tempo_2003",
+  "title": "Tempo",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2403045",
+    "imdb": "tt0307553",
+    "tmdb": 49060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-10",
+  "runtime_minutes": 79
+}

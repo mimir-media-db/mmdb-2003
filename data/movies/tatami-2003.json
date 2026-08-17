@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tatami_2003",
+  "title": "Tatami",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497056",
+    "imdb": "tt0376916",
+    "tmdb": 1068235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

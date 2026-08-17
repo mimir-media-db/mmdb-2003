@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_rockbitch_2003",
+  "title": "This Is Rockbitch",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108046091",
+    "imdb": "tt1814909",
+    "tmdb": 458574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

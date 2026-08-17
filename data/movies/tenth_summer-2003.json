@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenth_summer_2003",
+  "title": "The Tenth Summer",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199853",
+    "imdb": "tt0358303",
+    "tmdb": 194503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-09",
+  "runtime_minutes": 96
+}

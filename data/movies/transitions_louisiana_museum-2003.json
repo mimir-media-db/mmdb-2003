@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transitions_louisiana_museum_2003",
+  "title": "Transitions: Louisiana Museum",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20757330",
+    "imdb": "tt2477888"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 16
+}

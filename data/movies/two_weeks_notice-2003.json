@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_weeks_notice_2003",
+  "title": "Two Weeks Notice",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q719823",
+    "imdb": "tt0313737",
+    "tmdb": 2642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-13",
+  "runtime_minutes": 97
+}
