@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_16_dobles",
+  "title": "16 dobles",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16820296",
+    "imdb": "tt0348888",
+    "tmdb": 99340
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
