@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4th_floor_2003",
+  "title": "The 4th Floor",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1461091",
+    "imdb": "tt0319917",
+    "tmdb": 40432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-31",
+  "runtime_minutes": 100
+}
