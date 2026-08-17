@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marooned_in_iraq_2003",
+  "title": "Marooned in Iraq",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5237059",
+    "imdb": "tt0317226",
+    "tmdb": 13438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-29",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_casa_es_tu_casa_2003",
+  "title": "Mi casa es tu casa",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97668093",
+    "imdb": "tt0336846",
+    "tmdb": 257936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-09",
+  "runtime_minutes": 92
+}

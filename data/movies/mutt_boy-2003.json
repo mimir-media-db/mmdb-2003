@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutt_boy_2003",
+  "title": "Mutt Boy",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6944062",
+    "imdb": "tt0369357",
+    "tmdb": 265777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-07-16"
+}

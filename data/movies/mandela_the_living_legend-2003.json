@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mandela_the_living_legend_2003",
+  "title": "Mandela: The Living Legend",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60748802",
+    "imdb": "tt1719882",
+    "tmdb": 445752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

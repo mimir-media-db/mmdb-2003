@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malibus_most_wanted_2003",
+  "title": "Malibu's Most Wanted",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126492",
+    "imdb": "tt0328099",
+    "tmdb": 13411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-10",
+  "runtime_minutes": 86
+}

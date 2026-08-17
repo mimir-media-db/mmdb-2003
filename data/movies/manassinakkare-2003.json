@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manassinakkare_2003",
+  "title": "Manassinakkare",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13113858",
+    "imdb": "tt0393452",
+    "tmdb": 152098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25"
+}

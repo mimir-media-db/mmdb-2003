@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_box_2003",
+  "title": "The Magic Box",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12220313",
+    "imdb": "tt0321518",
+    "tmdb": 110535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-25",
+  "runtime_minutes": 94
+}

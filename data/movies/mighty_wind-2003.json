@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mighty_wind_2003",
+  "title": "A Mighty Wind",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1754773",
+    "imdb": "tt0310281",
+    "tmdb": 13370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-16",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_dancin_2003",
+  "title": "Man Dancin'",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16950401",
+    "imdb": "tt0385077",
+    "tmdb": 77288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

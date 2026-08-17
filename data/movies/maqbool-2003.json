@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maqbool_2003",
+  "title": "Maqbool",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q542866",
+    "imdb": "tt0379370",
+    "tmdb": 21265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-30",
+  "runtime_minutes": 132
+}

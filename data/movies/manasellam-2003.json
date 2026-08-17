@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manasellam_2003",
+  "title": "Manasellam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251258",
+    "imdb": "tt0782695",
+    "tmdb": 275922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

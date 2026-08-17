@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moloch_2003",
+  "title": "Moloch",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q604954",
+    "imdb": "tt0199777",
+    "tmdb": 55971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-01",
+  "runtime_minutes": 108
+}

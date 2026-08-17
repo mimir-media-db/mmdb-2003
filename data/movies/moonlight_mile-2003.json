@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moonlight_mile_2003",
+  "title": "Moonlight Mile",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q382687",
+    "imdb": "tt0179098",
+    "tmdb": 31005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-03",
+  "runtime_minutes": 112
+}

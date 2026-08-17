@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mensch_mutter_2003",
+  "title": "Mensch Mutter",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16854676",
+    "imdb": "tt0366767",
+    "tmdb": 266682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

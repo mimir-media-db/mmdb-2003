@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_making_of_meteora_2003",
+  "title": "The Making of Meteora",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16169181",
+    "imdb": "tt0363793",
+    "tmdb": 204189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

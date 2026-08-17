@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_may_2003",
+  "title": "May",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q648417",
+    "imdb": "tt0303361",
+    "tmdb": 10894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-06",
+  "runtime_minutes": 93
+}

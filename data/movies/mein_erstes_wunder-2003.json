@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_erstes_wunder_2003",
+  "title": "Mein erstes Wunder",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1385281",
+    "imdb": "tt0307077",
+    "tmdb": 230117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-08",
+  "runtime_minutes": 90
+}
