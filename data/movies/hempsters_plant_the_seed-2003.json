@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hempsters_plant_the_seed_2003",
+  "title": "Hempsters: Plant the Seed",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30593945",
+    "imdb": "tt0417750",
+    "tmdb": 68398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

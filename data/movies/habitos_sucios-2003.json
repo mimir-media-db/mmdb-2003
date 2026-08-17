@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_habitos_sucios_2003",
+  "title": "Hábitos sucios",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93984471",
+    "imdb": "tt0380427",
+    "tmdb": 667289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 92
+}

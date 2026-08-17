@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_head_of_state_2003",
+  "title": "Head of State",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1592282",
+    "imdb": "tt0325537",
+    "tmdb": 9776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-28",
+  "runtime_minutes": 95
+}

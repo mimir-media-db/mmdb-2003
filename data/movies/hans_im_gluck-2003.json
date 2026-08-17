@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hans_im_gluck_2003",
+  "title": "Hans im Glück",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88873014",
+    "imdb": "tt0417737",
+    "tmdb": 363773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hulk_2003",
+  "title": "Hulk",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q696042",
+    "imdb": "tt0286716",
+    "tmdb": 1927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-20",
+  "runtime_minutes": 133
+}

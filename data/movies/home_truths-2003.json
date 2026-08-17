@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_home_truths_2003",
+  "title": "Home Truths",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63969399",
+    "imdb": "tt0301157",
+    "tmdb": 6460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-23"
+}

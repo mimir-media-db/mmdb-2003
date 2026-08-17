@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywoods_magical_island_catalina_2003",
+  "title": "Hollywood's Magical Island: Catalina",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252886",
+    "imdb": "tt0386514",
+    "tmdb": 291120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

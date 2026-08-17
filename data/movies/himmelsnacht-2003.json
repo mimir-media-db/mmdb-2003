@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_himmelsnacht_2003",
+  "title": "Himmelsnacht",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496103",
+    "imdb": "tt0367588",
+    "tmdb": 395689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 53
+}

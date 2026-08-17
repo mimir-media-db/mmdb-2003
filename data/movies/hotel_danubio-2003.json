@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_danubio_2003",
+  "title": "Hotel Danubio",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5903353",
+    "imdb": "tt0382085",
+    "tmdb": 161505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-25",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunted_2003",
+  "title": "The Hunted",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151705",
+    "imdb": "tt0269347",
+    "tmdb": 10632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-14",
+  "runtime_minutes": 91
+}

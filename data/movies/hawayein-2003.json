@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hawayein_2003",
+  "title": "Hawayein",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248857",
+    "imdb": "tt0378025",
+    "tmdb": 543955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
