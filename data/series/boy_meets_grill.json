@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_boy_meets_grill",
+  "title": "Boy Meets Grill",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4952111",
+    "imdb": "tt0467376",
+    "tmdb": 8641
+  },
+  "last_updated": "2026-08-17"
+}

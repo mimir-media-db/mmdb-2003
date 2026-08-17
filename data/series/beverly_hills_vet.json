@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_beverly_hills_vet",
+  "title": "Beverly Hills Vet",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4899567",
+    "imdb": "tt0381736",
+    "tmdb": 25932
+  },
+  "last_updated": "2026-08-17"
+}

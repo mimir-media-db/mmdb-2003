@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bewegte_manner",
+  "title": "Bewegte Männer",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q685914",
+    "imdb": "tt0341135",
+    "tmdb": 40528
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

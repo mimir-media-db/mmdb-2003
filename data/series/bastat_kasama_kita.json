@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bastat_kasama_kita",
+  "title": "Basta't Kasama Kita",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4868211",
+    "imdb": "tt0327472",
+    "tmdb": 15450
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 358
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bananas_in_pyjamas",
+  "title": "Bananas In Pyjamas",
+  "start_year": 2003,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q806094",
+    "imdb": "tt0286342",
+    "tmdb": 3103
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 304
+}

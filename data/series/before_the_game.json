@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_before_the_game",
+  "title": "Before the Game",
+  "start_year": 2003,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4880356"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 303
+}
