@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gauguin_the_full_story_2003",
+  "title": "Gauguin: The Full Story",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3416398",
+    "imdb": "tt0410002",
+    "tmdb": 510422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 120
+}

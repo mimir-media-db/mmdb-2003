@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_chicken_2_2003",
+  "title": "Golden Chicken 2",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5579269",
+    "imdb": "tt0396030",
+    "tmdb": 93412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 104
+}

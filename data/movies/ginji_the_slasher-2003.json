@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ginji_the_slasher_2003",
+  "title": "Ginji The Slasher",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1525035",
+    "imdb": "tt0757988",
+    "tmdb": 112294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_tea_2003",
+  "title": "Green Tea",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3116114",
+    "imdb": "tt0382821",
+    "tmdb": 40974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 83
+}

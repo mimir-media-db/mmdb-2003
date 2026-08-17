@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_galoot_2003",
+  "title": "Galoot",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5519286",
+    "imdb": "tt0765059",
+    "tmdb": 1268021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

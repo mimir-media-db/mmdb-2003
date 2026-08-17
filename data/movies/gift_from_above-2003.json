@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_from_above_2003",
+  "title": "Gift from Above",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2932643",
+    "imdb": "tt0339366",
+    "tmdb": 71319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 108
+}

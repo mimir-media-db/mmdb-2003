@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghouls_2003",
+  "title": "The Ghouls",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1806725",
+    "imdb": "tt0387254",
+    "tmdb": 29230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 81
+}

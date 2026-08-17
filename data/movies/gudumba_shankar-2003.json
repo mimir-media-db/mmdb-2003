@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gudumba_shankar_2003",
+  "title": "Gudumba Shankar",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5614702",
+    "imdb": "tt0354965",
+    "tmdb": 117093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
