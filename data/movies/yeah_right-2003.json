@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeah_right_2003",
+  "title": "Yeah Right!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4993973",
+    "imdb": "tt0368456",
+    "tmdb": 23021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}
