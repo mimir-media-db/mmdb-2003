@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donde_cae_el_sol_2003",
+  "title": "Donde cae el sol",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5813380",
+    "imdb": "tt0319311",
+    "tmdb": 480752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 84
+}

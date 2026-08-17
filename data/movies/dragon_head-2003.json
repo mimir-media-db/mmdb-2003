@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_head_2003",
+  "title": "Dragon Head",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1254857",
+    "imdb": "tt0384055",
+    "tmdb": 36167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

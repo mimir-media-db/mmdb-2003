@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delirium_2003",
+  "title": "Delirium",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12862696",
+    "imdb": "tt7842508",
+    "tmdb": 1397269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

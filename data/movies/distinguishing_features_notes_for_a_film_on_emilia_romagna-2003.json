@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_distinguishing_features_notes_for_a_film_on_emilia_romagna_2003",
+  "title": "Distinguishing Features – Notes for a film on Emilia Romagna",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3954315",
+    "imdb": "tt0374203",
+    "tmdb": 1145904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_of_lions_2003",
+  "title": "Den of Lions",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3067092",
+    "imdb": "tt0312609",
+    "tmdb": 39313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}

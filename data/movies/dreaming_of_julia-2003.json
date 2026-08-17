@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreaming_of_julia_2003",
+  "title": "Dreaming of Julia",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3715241",
+    "imdb": "tt0251677",
+    "tmdb": 73776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 109
+}

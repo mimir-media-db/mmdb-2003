@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diwan_2003",
+  "title": "Diwan",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5284736",
+    "imdb": "tt4961326",
+    "tmdb": 78626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

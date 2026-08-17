@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deformation_personnelle_2003",
+  "title": "Déformation personnelle",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3043217",
+    "imdb": "tt0366394",
+    "tmdb": 478852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

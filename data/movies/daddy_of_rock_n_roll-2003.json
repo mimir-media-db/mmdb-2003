@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daddy_of_rock_n_roll_2003",
+  "title": "The Daddy of Rock 'n' Roll",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7728602",
+    "imdb": "tt0387682",
+    "tmdb": 60676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

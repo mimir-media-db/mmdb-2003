@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doppelganger_2003",
+  "title": "Doppelganger",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3036940",
+    "imdb": "tt0403990",
+    "tmdb": 32234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}

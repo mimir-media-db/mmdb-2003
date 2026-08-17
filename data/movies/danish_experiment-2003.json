@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_danish_experiment_2003",
+  "title": "The Danish Experiment",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7728871",
+    "imdb": "tt0390531",
+    "tmdb": 418319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

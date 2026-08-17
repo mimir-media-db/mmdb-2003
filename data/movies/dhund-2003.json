@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhund_2003",
+  "title": "Dhund",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5269886",
+    "imdb": "tt0353351",
+    "tmdb": 71064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

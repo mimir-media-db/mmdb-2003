@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_kinder_sind_tot_2003",
+  "title": "Die Kinder sind tot",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1213838",
+    "imdb": "tt0400579",
+    "tmdb": 571838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 80
+}
