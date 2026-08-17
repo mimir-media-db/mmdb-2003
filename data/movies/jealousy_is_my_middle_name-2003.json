@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jealousy_is_my_middle_name_2003",
+  "title": "Jealousy Is My Middle Name",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6168765",
+    "imdb": "tt0352464",
+    "tmdb": 140613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 124
+}

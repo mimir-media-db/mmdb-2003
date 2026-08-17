@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janis_and_john_2003",
+  "title": "Janis and John",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3162030",
+    "imdb": "tt0340181",
+    "tmdb": 49399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jandek_on_corwood_2003",
+  "title": "Jandek on Corwood",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6150942",
+    "imdb": "tt0381287",
+    "tmdb": 130539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

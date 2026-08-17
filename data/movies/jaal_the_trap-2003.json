@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaal_the_trap_2003",
+  "title": "Jaal: The Trap",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6109601",
+    "imdb": "tt0340178",
+    "tmdb": 303398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

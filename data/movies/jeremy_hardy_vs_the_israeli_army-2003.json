@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeremy_hardy_vs_the_israeli_army_2003",
+  "title": "Jeremy Hardy vs. the Israeli Army",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6181448",
+    "imdb": "tt0393396",
+    "tmdb": 461494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 75
+}
