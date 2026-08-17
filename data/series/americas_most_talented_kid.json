@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_most_talented_kid",
+  "title": "America's Most Talented Kid",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4742566",
+    "imdb": "tt0361145",
+    "tmdb": 10558
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 10
+}

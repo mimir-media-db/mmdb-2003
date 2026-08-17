@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_real",
+  "title": "Amor real",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1247180",
+    "imdb": "tt0341281",
+    "tmdb": 13027
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 95
+}

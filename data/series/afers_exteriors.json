@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_afers_exteriors",
+  "title": "Afers Exteriors",
+  "start_year": 2003,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q11904251",
+    "imdb": "tt0424593"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 94
+}

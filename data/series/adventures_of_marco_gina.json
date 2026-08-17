@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adventures_of_marco_gina",
+  "title": "The adventures of Marco & Gina",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1164930",
+    "imdb": "tt0275117",
+    "tmdb": 75184
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

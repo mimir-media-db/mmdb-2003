@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_all_together_now",
+  "title": "All Together Now",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4729830",
+    "imdb": "tt4106020"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 47
+}
