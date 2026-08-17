@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zaman_the_man_from_the_reeds_2003",
+  "title": "Zaman: The Man from the Reeds",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64735215",
+    "imdb": "tt0383724",
+    "tmdb": 211313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-05"
+}
