@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_breed_the_legend_of_samhain_2003",
+  "title": "Evil Breed: The Legend of Samhain",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5418406",
+    "imdb": "tt0318040",
+    "tmdb": 39923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 78
+}

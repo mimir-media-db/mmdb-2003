@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_din_24_ghante_2003",
+  "title": "Ek Din 24 Ghante",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350187",
+    "imdb": "tt0380337",
+    "tmdb": 309092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

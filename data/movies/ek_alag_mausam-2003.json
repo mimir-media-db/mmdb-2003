@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_alag_mausam_2003",
+  "title": "Ek Alag Mausam",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350169",
+    "imdb": "tt0832297",
+    "tmdb": 337500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

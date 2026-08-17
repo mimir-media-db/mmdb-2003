@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_tanto_che_aspetti_2003",
+  "title": "È tanto che aspetti?",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4025323",
+    "imdb": "tt1843912",
+    "tmdb": 105884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 90
+}

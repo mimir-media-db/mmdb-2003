@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_etat_de_grace_2003",
+  "title": "État de grâce",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3591826"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

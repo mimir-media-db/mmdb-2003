@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_taliban_2003",
+  "title": "Escape from Taliban",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5397044",
+    "imdb": "tt0312664",
+    "tmdb": 403755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

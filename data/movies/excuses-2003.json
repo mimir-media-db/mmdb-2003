@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_excuses_2003",
+  "title": "Excuses!",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11921378",
+    "imdb": "tt0390672",
+    "tmdb": 459423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 84
+}

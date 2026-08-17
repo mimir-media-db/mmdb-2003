@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_aur_ek_gyarah_2003",
+  "title": "Ek Aur Ek Gyarah",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350171",
+    "imdb": "tt0354538",
+    "tmdb": 212502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 205
+}
