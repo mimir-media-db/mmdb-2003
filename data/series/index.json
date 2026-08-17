@@ -2016,6 +2016,146 @@
     "path": "data/series/full_metal_challenge.json"
   },
   {
+    "id": "s_gala_cuoi",
+    "title": "Gala cười",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/gala_cuoi.json"
+  },
+  {
+    "id": "s_gamecenter_cx",
+    "title": "GameCenter CX",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/gamecenter_cx.json"
+  },
+  {
+    "id": "s_garden_of_eve",
+    "title": "Garden of Eve",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/garden_of_eve.json"
+  },
+  {
+    "id": "s_gato_fedorento",
+    "title": "Gato Fedorento",
+    "start_year": 2003,
+    "end_year": 2009,
+    "path": "data/series/gato_fedorento.json"
+  },
+  {
+    "id": "s_genial_daneben",
+    "title": "Genial daneben",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/genial_daneben.json"
+  },
+  {
+    "id": "s_gerhard_reinkes_wanderlust",
+    "title": "Gerhard Reinke's Wanderlust",
+    "start_year": 2003,
+    "end_year": 2003,
+    "path": "data/series/gerhard_reinkes_wanderlust.json"
+  },
+  {
+    "id": "s_gipfeltreffen",
+    "title": "Gipfeltreffen",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/gipfeltreffen.json"
+  },
+  {
+    "id": "s_girls_in_love",
+    "title": "Girls in Love",
+    "start_year": 2003,
+    "end_year": 2005,
+    "path": "data/series/girls_in_love.json"
+  },
+  {
+    "id": "s_girls_v_boys",
+    "title": "Girls v. Boys",
+    "start_year": 2003,
+    "end_year": 2005,
+    "path": "data/series/girls_v_boys.json"
+  },
+  {
+    "id": "s_give_us_this_day",
+    "title": "Give Us This Day",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/give_us_this_day.json"
+  },
+  {
+    "id": "s_globo_loco",
+    "title": "Globo Loco",
+    "start_year": 2003,
+    "end_year": 2005,
+    "path": "data/series/globo_loco.json"
+  },
+  {
+    "id": "s_gluckliche_tage",
+    "title": "Glückliche Tage",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/gluckliche_tage.json"
+  },
+  {
+    "id": "s_go_mom_go",
+    "title": "Go Mom Go!",
+    "start_year": 2003,
+    "end_year": 2004,
+    "path": "data/series/go_mom_go.json"
+  },
+  {
+    "id": "s_goal_speak_english_play_football",
+    "title": "Goal - Speak English, Play Football",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/goal_speak_english_play_football.json"
+  },
+  {
+    "id": "s_good_luck",
+    "title": "Good Luck!!",
+    "start_year": 2003,
+    "end_year": 2003,
+    "path": "data/series/good_luck.json"
+  },
+  {
+    "id": "s_gran_hermano",
+    "title": "Gran Hermano",
+    "start_year": 2003,
+    "end_year": 2012,
+    "path": "data/series/gran_hermano.json"
+  },
+  {
+    "id": "s_grass",
+    "title": "Grass",
+    "start_year": 2003,
+    "end_year": 2003,
+    "path": "data/series/grass.json"
+  },
+  {
+    "id": "s_grim_tales_from_russia",
+    "title": "Grim Tales from Russia",
+    "start_year": 2002,
+    "end_year": 2003,
+    "path": "data/series/grim_tales_from_russia.json"
+  },
+  {
+    "id": "s_grumpy_old_men",
+    "title": "Grumpy Old Men",
+    "start_year": 2003,
+    "end_year": 2006,
+    "path": "data/series/grumpy_old_men.json"
+  },
+  {
+    "id": "s_grunwald_freitagscomedy",
+    "title": "Grünwald Freitagscomedy",
+    "start_year": 2003,
+    "end_year": null,
+    "path": "data/series/grunwald_freitagscomedy.json"
+  },
+  {
     "id": "s_hachatzer",
     "title": "Ha-Chatzer",
     "start_year": 2003,
