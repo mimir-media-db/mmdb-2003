@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_of_attraction_2003",
+  "title": "The Rules of Attraction",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1543439",
+    "imdb": "tt0292644",
+    "tmdb": 1809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-01",
+  "runtime_minutes": 110
+}

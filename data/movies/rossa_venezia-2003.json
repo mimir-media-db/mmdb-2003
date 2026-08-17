@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rossa_venezia_2003",
+  "title": "Rossa Venezia",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22077201",
+    "imdb": "tt0414462",
+    "tmdb": 104867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosy_pelican_reserve_2003",
+  "title": "Rosy Pelican Reserve",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12292279",
+    "imdb": "tt0425401",
+    "tmdb": 536480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-31",
+  "runtime_minutes": 59
+}

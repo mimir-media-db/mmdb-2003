@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_2003",
+  "title": "The Return",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q385494",
+    "imdb": "tt0376968",
+    "tmdb": 11190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-25",
+  "runtime_minutes": 106
+}

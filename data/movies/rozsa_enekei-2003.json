@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rozsa_enekei_2003",
+  "title": "A Rózsa énekei",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4659314",
+    "imdb": "tt0363970",
+    "tmdb": 236758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-03-20",
+  "runtime_minutes": 98
+}

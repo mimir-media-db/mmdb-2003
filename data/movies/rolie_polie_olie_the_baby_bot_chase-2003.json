@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rolie_polie_olie_the_baby_bot_chase_2003",
+  "title": "Rolie Polie Olie: The Baby Bot Chase",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48780720",
+    "imdb": "tt0373273",
+    "tmdb": 110043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_robinsons_crusoe_2003",
+  "title": "Robinson's Crusoe",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099612",
+    "imdb": "tt0340642",
+    "tmdb": 259066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

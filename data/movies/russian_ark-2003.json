@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_russian_ark_2003",
+  "title": "Russian Ark",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59721",
+    "imdb": "tt0318034",
+    "tmdb": 16646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-10",
+  "runtime_minutes": 99
+}
