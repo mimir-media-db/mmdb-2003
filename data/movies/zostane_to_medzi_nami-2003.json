@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zostane_to_medzi_nami_2003",
+  "title": "Zostane to medzi nami",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8074574",
+    "imdb": "tt0406378",
+    "tmdb": 330786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 100
+}
