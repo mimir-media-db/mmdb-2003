@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_video_2003",
+  "title": "The Wedding Video",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7774078",
+    "imdb": "tt0285327",
+    "tmdb": 506580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 84
+}

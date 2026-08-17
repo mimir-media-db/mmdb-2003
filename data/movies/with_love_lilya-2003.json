@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_with_love_lilya_2003",
+  "title": "With Love, Lilya",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4402938",
+    "imdb": "tt0355975",
+    "tmdb": 351611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wannabes_2003",
+  "title": "The Wannabes",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7773437",
+    "imdb": "tt0331072",
+    "tmdb": 146933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

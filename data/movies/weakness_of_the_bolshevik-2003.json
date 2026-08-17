@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weakness_of_the_bolshevik_2003",
+  "title": "The Weakness of the Bolshevik",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2395159",
+    "imdb": "tt0385703",
+    "tmdb": 15948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 95
+}
