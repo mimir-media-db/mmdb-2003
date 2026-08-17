@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_elephants_2003",
+  "title": "Queen of Elephants",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135236228",
+    "imdb": "tt0271139",
+    "tmdb": 597656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-27",
+  "runtime_minutes": 96
+}
