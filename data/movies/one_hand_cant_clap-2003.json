@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_hand_cant_clap_2003",
+  "title": "One Hand Can't Clap",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12024382",
+    "imdb": "tt0366635",
+    "tmdb": 41218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 103
+}

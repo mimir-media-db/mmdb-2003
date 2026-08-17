@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_open_water_2003",
+  "title": "Open Water",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q794151",
+    "imdb": "tt0374102",
+    "tmdb": 83
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 79
+}

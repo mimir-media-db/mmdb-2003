@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olive_harvest_2003",
+  "title": "The Olive Harvest",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7754963",
+    "imdb": "tt0430426",
+    "tmdb": 274400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 91
+}

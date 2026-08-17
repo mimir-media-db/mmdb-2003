@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_last_ride_2003",
+  "title": "One Last Ride",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3882500",
+    "imdb": "tt0359774",
+    "tmdb": 54719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 88
+}

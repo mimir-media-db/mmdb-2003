@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_control_2003",
+  "title": "Out of Control",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7111521",
+    "imdb": "tt0388315",
+    "tmdb": 347210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

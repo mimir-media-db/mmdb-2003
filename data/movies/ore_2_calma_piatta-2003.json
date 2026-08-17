@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ore_2_calma_piatta_2003",
+  "title": "Ore 2: Calma piatta",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3885495",
+    "imdb": "tt0388312"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 9
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onuri_2003",
+  "title": "O-nu-ri",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3347434",
+    "imdb": "tt0492709",
+    "tmdb": 1172516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

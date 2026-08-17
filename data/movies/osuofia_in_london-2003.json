@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_osuofia_in_london_2003",
+  "title": "Osuofia in London",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7108024",
+    "imdb": "tt0493828",
+    "tmdb": 192830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 105
+}

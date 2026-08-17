@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_osmose_2003",
+  "title": "Osmose",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3357292",
+    "imdb": "tt0195119",
+    "tmdb": 77284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

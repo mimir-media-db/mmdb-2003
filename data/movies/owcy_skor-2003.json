@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_owcy_skor_2003",
+  "title": "Łowcy skór",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9394398",
+    "imdb": "tt0385061",
+    "tmdb": 711232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

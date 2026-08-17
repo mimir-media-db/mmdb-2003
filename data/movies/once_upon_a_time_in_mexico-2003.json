@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_mexico_2003",
+  "title": "Once Upon a Time in Mexico",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93853",
+    "imdb": "tt0285823",
+    "tmdb": 1428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 102
+}
