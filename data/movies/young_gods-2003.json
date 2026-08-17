@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_gods_2003",
+  "title": "Young Gods",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5228868",
+    "imdb": "tt0366596",
+    "tmdb": 50988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-10-24",
+  "runtime_minutes": 104
+}

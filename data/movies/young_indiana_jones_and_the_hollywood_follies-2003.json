@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_indiana_jones_and_the_hollywood_follies_2003",
+  "title": "Young Indiana Jones and the Hollywood Follies",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2649832",
+    "imdb": "tt0111806",
+    "tmdb": 222066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-09",
+  "runtime_minutes": 94
+}

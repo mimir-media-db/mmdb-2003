@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_black_stallion_2003",
+  "title": "The Young Black Stallion",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210192",
+    "imdb": "tt0318850",
+    "tmdb": 42418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-12-25",
+  "runtime_minutes": 49
+}
