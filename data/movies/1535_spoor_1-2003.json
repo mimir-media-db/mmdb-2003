@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1535_spoor_1_2003",
+  "title": "15.35: Spoor 1",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2377915",
+    "imdb": "tt0322262",
+    "tmdb": 255499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-19"
+}
