@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wanda_at_large",
+  "title": "Wanda at Large",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7967150",
+    "imdb": "tt0353113",
+    "tmdb": 9956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

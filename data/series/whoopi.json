@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whoopi",
+  "title": "Whoopi",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q478953",
+    "imdb": "tt0364902",
+    "tmdb": 673
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

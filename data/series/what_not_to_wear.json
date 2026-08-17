@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_what_not_to_wear",
+  "title": "What Not to Wear",
+  "start_year": 2003,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3234737",
+    "imdb": "tt0343320",
+    "tmdb": 4725
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}
