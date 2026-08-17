@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_urge_2003",
+  "title": "Urge",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33578740",
+    "imdb": "tt0430729"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-25",
+  "runtime_minutes": 5
+}

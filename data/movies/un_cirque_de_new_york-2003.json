@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_cirque_de_new_york_2003",
+  "title": "Un cirque de New York",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978308",
+    "imdb": "tt0397697"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 54
+}

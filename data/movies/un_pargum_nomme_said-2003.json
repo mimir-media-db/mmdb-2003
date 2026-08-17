@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_pargum_nomme_said_2003",
+  "title": "Un pargum nommé Saïd",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978222",
+    "imdb": "tt0389474",
+    "tmdb": 432451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 93
+}

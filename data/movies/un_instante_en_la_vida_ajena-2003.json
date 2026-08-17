@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_instante_en_la_vida_ajena_2003",
+  "title": "Un instante en la vida ajena",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155537",
+    "imdb": "tt0382753",
+    "tmdb": 453112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-09-12",
+  "runtime_minutes": 80
+}
