@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_7_oclock_news",
+  "title": "The 7 O'Clock News",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7711984"
+  },
+  "last_updated": "2026-08-17"
+}
