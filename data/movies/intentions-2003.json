@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intentions_2003",
+  "title": "Intentions",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136288646",
+    "imdb": "tt0358539",
+    "tmdb": 506399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01",
+  "runtime_minutes": 96
+}

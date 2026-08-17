@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_einer_nacht_wie_dieser_2003",
+  "title": "In einer Nacht wie dieser",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36636835",
+    "imdb": "tt0356733",
+    "tmdb": 503939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

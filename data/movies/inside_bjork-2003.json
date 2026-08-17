@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_bjork_2003",
+  "title": "Inside Björk",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5222252",
+    "imdb": "tt43714587"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-23"
+}

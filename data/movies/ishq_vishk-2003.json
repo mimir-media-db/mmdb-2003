@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ishq_vishk_2003",
+  "title": "Ishq Vishk",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1673902",
+    "imdb": "tt0362771",
+    "tmdb": 41901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-05-09",
+  "runtime_minutes": 129
+}

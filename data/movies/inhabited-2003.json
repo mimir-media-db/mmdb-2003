@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inhabited_2003",
+  "title": "Inhabited",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6077331",
+    "imdb": "tt0329224",
+    "tmdb": 96917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-08-19",
+  "runtime_minutes": 95
+}

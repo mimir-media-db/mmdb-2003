@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_light_2003",
+  "title": "Invisible Light",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93735297",
+    "imdb": "tt0359964",
+    "tmdb": 118190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_indiramma_2003",
+  "title": "Indiramma",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126126212",
+    "imdb": "tt1579960"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-02-28"
+}
