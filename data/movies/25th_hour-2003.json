@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_25th_hour_2003",
+  "title": "25th Hour",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q218458",
+    "imdb": "tt0307901",
+    "tmdb": 1429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-04-25",
+  "runtime_minutes": 135
+}

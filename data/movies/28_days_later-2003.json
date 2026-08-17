@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_28_days_later_2003",
+  "title": "28 Days Later",
+  "year": 2003,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q221075",
+    "imdb": "tt0289043",
+    "tmdb": 170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2003-06-05",
+  "runtime_minutes": 113
+}
