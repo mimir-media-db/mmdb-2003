@@ -9,7 +9,13 @@
     "imdb": "tt0469838",
     "tmdb": 340468
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-03-11",
-  "runtime_minutes": 45
+  "runtime_minutes": 45,
+  "genres": [
+    "Animation",
+    "Family",
+    "Musical"
+  ],
+  "is_adult": false
 }

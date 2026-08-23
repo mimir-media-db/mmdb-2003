@@ -9,7 +9,12 @@
     "imdb": "tt0396816",
     "tmdb": 48785
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-08-29",
-  "runtime_minutes": 82
+  "runtime_minutes": 82,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

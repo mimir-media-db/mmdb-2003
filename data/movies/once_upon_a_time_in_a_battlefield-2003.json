@@ -9,7 +9,13 @@
     "imdb": "tt0378078",
     "tmdb": 147704
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-10-17",
-  "runtime_minutes": 104
+  "runtime_minutes": 104,
+  "genres": [
+    "Comedy",
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

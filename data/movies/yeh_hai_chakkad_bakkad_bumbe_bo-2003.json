@@ -9,6 +9,10 @@
     "imdb": "tt0999927",
     "tmdb": 1726061
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-11-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-11-17",
+  "genres": [
+    "Adventure"
+  ],
+  "is_adult": false
 }

@@ -8,5 +8,11 @@
     "wikidata": "Q105940512",
     "tmdb": 234786
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "soap opera",
+    "mystery fiction",
+    "horror television series"
+  ],
+  "is_adult": false
 }

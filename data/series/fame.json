@@ -9,5 +9,11 @@
     "imdb": "tt0368494",
     "tmdb": 9888
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family",
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

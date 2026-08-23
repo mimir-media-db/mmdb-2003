@@ -9,7 +9,12 @@
     "imdb": "tt0374497",
     "tmdb": 31350
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-01-01",
-  "runtime_minutes": 154
+  "runtime_minutes": 154,
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }

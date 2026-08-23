@@ -9,6 +9,12 @@
     "imdb": "tt1080011",
     "tmdb": 217761
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-02-07"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-02-07",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "is_adult": false
 }

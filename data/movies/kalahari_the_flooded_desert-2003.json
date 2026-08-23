@@ -8,6 +8,11 @@
     "wikidata": "Q131850886",
     "imdb": "tt0799272"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-11-09"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-11-09",
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false
 }

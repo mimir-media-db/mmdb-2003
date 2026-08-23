@@ -9,7 +9,11 @@
     "imdb": "tt1291493",
     "tmdb": 41646
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 12,
-  "total_episodes": 100
+  "total_episodes": 100,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

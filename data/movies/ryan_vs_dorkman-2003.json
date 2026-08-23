@@ -9,6 +9,12 @@
     "imdb": "tt0982924",
     "tmdb": 824747
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-03-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-03-01",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Short"
+  ],
+  "is_adult": false
 }

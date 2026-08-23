@@ -9,6 +9,10 @@
     "imdb": "tt0383271",
     "tmdb": 272447
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-11-14"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-11-14",
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false
 }

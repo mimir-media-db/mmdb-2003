@@ -9,7 +9,11 @@
     "imdb": "tt0364806",
     "tmdb": 6193
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 9,
-  "total_episodes": 77
+  "total_episodes": 77,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

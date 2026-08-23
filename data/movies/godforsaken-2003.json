@@ -9,7 +9,13 @@
     "imdb": "tt0288861",
     "tmdb": 15525
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-04-24",
-  "runtime_minutes": 83
+  "runtime_minutes": 83,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

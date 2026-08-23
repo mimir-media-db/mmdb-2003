@@ -8,7 +8,12 @@
     "wikidata": "Q7751215",
     "imdb": "tt0340242"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-01-01",
-  "runtime_minutes": 28
+  "runtime_minutes": 28,
+  "genres": [
+    "Comedy",
+    "Short"
+  ],
+  "is_adult": false
 }

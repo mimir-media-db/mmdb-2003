@@ -9,6 +9,10 @@
     "imdb": "tt0349594",
     "tmdb": 369174
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-08-28"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-08-28",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

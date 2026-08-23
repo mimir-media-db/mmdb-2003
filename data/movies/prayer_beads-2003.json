@@ -8,7 +8,11 @@
     "wikidata": "Q8352432",
     "imdb": "tt1939293"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-01-01",
-  "runtime_minutes": 270
+  "runtime_minutes": 270,
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false
 }

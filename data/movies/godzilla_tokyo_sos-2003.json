@@ -9,7 +9,13 @@
     "imdb": "tt0366526",
     "tmdb": 39469
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-11-03",
-  "runtime_minutes": 91
+  "runtime_minutes": 91,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

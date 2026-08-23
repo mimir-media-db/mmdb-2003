@@ -9,7 +9,13 @@
     "imdb": "tt0314676",
     "tmdb": 30141
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-01-01",
-  "runtime_minutes": 109
+  "runtime_minutes": 109,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Musical"
+  ],
+  "is_adult": false
 }
