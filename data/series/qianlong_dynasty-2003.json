@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_qianlong_dynasty_2003",
+  "title": "Qianlong Dynasty",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7267644",
+    "imdb": "tt21042600",
+    "tmdb": 34252
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

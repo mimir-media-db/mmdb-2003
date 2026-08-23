@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_fries_with_that_2003",
+  "title": "Fries with That?",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3087829",
+    "imdb": "tt0372674",
+    "tmdb": 2138
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 52,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

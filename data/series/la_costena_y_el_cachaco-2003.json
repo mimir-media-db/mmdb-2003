@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_costena_y_el_cachaco_2003",
+  "title": "La costeña y el cachaco",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5404908",
+    "imdb": "tt0356249",
+    "tmdb": 106837
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 140,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

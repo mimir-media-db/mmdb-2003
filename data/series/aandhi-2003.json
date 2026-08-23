@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aandhi_2003",
+  "title": "Aandhi",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4661562"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 76,
+  "countries": [
+    "IN"
+  ]
+}

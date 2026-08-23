@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mirada_de_mujer_el_regreso_2002",
+  "title": "Mirada de mujer, el regreso",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q931818",
+    "imdb": "tt0373569",
+    "tmdb": 16338
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 245,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

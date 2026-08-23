@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_wtyyli_2003",
+  "title": "W-tyyli",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5488720",
+    "imdb": "tt0377284"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 34,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

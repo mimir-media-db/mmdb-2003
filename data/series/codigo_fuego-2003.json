@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_codigo_fuego_2003",
+  "title": "Código fuego",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5796813",
+    "imdb": "tt0346235",
+    "tmdb": 77740
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

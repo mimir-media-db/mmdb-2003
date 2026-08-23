@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_im_with_her_2003",
+  "title": "I'm with Her",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3279885",
+    "imdb": "tt0366027",
+    "tmdb": 4506
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

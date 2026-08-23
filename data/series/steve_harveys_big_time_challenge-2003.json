@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_steve_harveys_big_time_challenge_2003",
+  "title": "Steve Harvey's Big Time Challenge",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7612786",
+    "imdb": "tt0374366",
+    "tmdb": 9870
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

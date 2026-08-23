@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_die_dreisten_drei_2003",
+  "title": "Die Dreisten Drei",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1212007",
+    "imdb": "tt0409550",
+    "tmdb": 40761
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

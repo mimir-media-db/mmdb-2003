@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pecadores_2003",
+  "title": "Pecadores",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6067876",
+    "imdb": "tt0375408"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 96,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

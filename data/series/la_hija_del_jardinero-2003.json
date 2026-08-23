@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_hija_del_jardinero_2003",
+  "title": "La Hija del Jardinero",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q467435",
+    "imdb": "tt0396325",
+    "tmdb": 18769
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 180,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

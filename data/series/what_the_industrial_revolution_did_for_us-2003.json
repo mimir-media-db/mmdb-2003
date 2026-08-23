@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_what_the_industrial_revolution_did_for_us_2003",
+  "title": "What the Industrial Revolution Did for Us",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7991624",
+    "imdb": "tt0418443",
+    "tmdb": 7336
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

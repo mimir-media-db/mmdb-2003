@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_twin_hearts_2003",
+  "title": "Twin Hearts",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7858177",
+    "imdb": "tt0498451",
+    "tmdb": 18592
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 173,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_im_with_busey_2003",
+  "title": "I'm with Busey",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5967156",
+    "imdb": "tt0369121",
+    "tmdb": 31095
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

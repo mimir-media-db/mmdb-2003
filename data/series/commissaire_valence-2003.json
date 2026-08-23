@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_commissaire_valence_2003",
+  "title": "Commissaire Valence",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2986293",
+    "imdb": "tt0412113",
+    "tmdb": 101295
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 12,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

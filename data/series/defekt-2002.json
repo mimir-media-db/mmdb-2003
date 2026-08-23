@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_defekt_2002",
+  "title": "Defekt",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q9203225",
+    "imdb": "tt5909380",
+    "tmdb": 45371
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

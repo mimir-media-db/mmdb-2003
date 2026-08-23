@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rikospoliisi_maria_kallio_2003",
+  "title": "Rikospoliisi Maria Kallio",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11890776",
+    "imdb": "tt0346385",
+    "tmdb": 296194
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

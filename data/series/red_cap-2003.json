@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_red_cap_2003",
+  "title": "Red Cap",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3113148",
+    "imdb": "tt0327354",
+    "tmdb": 17119
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

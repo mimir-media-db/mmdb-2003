@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_niedrig_und_kuhnt_kommissare_ermitteln_2003",
+  "title": "Niedrig und Kuhnt – Kommissare ermitteln",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q280642",
+    "imdb": "tt0419353",
+    "tmdb": 40772
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "total_episodes": 1942,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

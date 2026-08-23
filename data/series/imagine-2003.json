@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_imagine_2003",
+  "title": "Imagine",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7123904",
+    "imdb": "tt0237968",
+    "tmdb": 8898
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 35,
+  "total_episodes": 211,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_south_of_the_sun_2003",
+  "title": "South of the Sun",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12621013"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

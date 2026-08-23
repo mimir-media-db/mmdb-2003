@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tillbaka_till_vintergatan_2003",
+  "title": "Tillbaka till Vintergatan",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q10697945",
+    "imdb": "tt8252546",
+    "tmdb": 152278
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 44,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

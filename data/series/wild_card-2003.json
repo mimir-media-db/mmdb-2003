@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_card_2003",
+  "title": "Wild Card",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3333571",
+    "imdb": "tt0371495",
+    "tmdb": 10084
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 36,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

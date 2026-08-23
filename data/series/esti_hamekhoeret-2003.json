@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_esti_hamekhoeret_2003",
+  "title": "Esti HaMekho'eret",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5401343",
+    "imdb": "tt0373526",
+    "tmdb": 14791
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 25,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

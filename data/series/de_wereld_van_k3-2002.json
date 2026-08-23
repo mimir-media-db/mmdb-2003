@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_de_wereld_van_k3_2002",
+  "title": "De Wereld van K3",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q476866"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "children's television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

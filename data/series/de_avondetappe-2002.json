@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_de_avondetappe_2002",
+  "title": "De Avondetappe",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13571161",
+    "imdb": "tt11454980",
+    "tmdb": 27901
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 23,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": []
+}

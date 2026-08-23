@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_london_et_kirschenbaum_2003",
+  "title": "London et Kirschenbaum",
+  "start_year": 2003,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q6671082",
+    "imdb": "tt0925191"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

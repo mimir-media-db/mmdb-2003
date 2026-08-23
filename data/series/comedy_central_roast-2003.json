@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_central_roast_2003",
+  "title": "Comedy Central Roast",
+  "start_year": 2003,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3285338",
+    "imdb": "tt15561558",
+    "tmdb": 254916
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

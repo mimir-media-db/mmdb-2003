@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_seed_of_hope_2003",
+  "title": "Seed of Hope",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7445642",
+    "tmdb": 108215
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

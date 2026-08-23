@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_lise_defteri_2003",
+  "title": "Lise Defteri",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6090323"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "fiction television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_country_princess_2003",
+  "title": "Country Princess",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11264125",
+    "imdb": "tt2296553",
+    "tmdb": 25460
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

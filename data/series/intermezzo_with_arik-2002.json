@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_intermezzo_with_arik_2002",
+  "title": "Intermezzo with Arik",
+  "start_year": 2002,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q12403819"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 15,
+  "total_episodes": 489,
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_triumph_in_the_skies_2003",
+  "title": "Triumph in the Skies",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6686449",
+    "imdb": "tt0441052",
+    "tmdb": 6154
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

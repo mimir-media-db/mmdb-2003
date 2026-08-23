@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_homes_under_the_hammer_2003",
+  "title": "Homes Under the Hammer",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5890407",
+    "imdb": "tt0419336",
+    "tmdb": 8106
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 21,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

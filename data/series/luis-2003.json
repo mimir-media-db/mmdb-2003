@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_luis_2003",
+  "title": "Luis",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6700215",
+    "imdb": "tt0367363",
+    "tmdb": 14632
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

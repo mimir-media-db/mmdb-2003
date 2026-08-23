@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_lagot_ka_isusumbong_kita_2003",
+  "title": "Lagot Ka, Isusumbong Kita",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6472634",
+    "imdb": "tt0446844",
+    "tmdb": 107
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

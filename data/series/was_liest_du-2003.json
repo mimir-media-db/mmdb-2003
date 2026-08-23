@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_was_liest_du_2003",
+  "title": "Was liest du?",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2550181",
+    "imdb": "tt0909796",
+    "tmdb": 117238
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 42,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

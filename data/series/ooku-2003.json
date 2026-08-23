@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ooku_2003",
+  "title": "Ōoku",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4391413",
+    "imdb": "tt7144730",
+    "tmdb": 121426
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

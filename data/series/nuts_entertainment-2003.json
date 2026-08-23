@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nuts_entertainment_2003",
+  "title": "Nuts Entertainment",
+  "start_year": 2003,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7070538",
+    "imdb": "tt0372082",
+    "tmdb": 4509
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 608,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

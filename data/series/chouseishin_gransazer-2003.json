@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_chouseishin_gransazer_2003",
+  "title": "Chouseishin Gransazer",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3271438",
+    "imdb": "tt0369087",
+    "tmdb": 8882
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 51,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

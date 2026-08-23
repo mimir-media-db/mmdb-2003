@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sky_high_2003",
+  "title": "Sky High",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7537343",
+    "imdb": "tt0893238",
+    "tmdb": 32399
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 19,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

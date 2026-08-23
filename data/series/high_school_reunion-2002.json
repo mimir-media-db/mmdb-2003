@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_high_school_reunion_2002",
+  "title": "High School Reunion",
+  "start_year": 2002,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5756560",
+    "imdb": "tt0346292",
+    "tmdb": 20546
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

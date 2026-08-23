@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_alienated_2003",
+  "title": "Alienated",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4726502",
+    "imdb": "tt0338574",
+    "tmdb": 12567
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

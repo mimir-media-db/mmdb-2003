@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dots_2003",
+  "title": "The Dots",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3342689",
+    "imdb": "tt2953680",
+    "tmdb": 4964
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 135,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lol_with_the_n_2003",
+  "title": "LOL with The N",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q23306021",
+    "imdb": "tt5544478",
+    "tmdb": 128996
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

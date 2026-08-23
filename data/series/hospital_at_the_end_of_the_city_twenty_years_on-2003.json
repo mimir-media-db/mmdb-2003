@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hospital_at_the_end_of_the_city_twenty_years_on_2003",
+  "title": "Hospital at the End of the City Twenty Years On",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3501347",
+    "imdb": "tt0384754",
+    "tmdb": 77612
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

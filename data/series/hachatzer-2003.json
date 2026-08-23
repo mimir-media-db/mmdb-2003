@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hachatzer_2003",
+  "title": "Ha-Chatzer",
+  "start_year": 2003,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7043504",
+    "imdb": "tt0379095",
+    "tmdb": 51097
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_love_me_now_2003",
+  "title": "Love me now!",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1297591",
+    "imdb": "tt0380147",
+    "tmdb": 211922
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HU"
+  ]
+}

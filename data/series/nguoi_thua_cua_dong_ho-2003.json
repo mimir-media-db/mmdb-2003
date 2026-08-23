@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_nguoi_thua_cua_dong_ho_2003",
+  "title": "Người thừa của dòng họ",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q133555588"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
+}

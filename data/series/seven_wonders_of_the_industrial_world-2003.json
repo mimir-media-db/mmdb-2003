@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_wonders_of_the_industrial_world_2003",
+  "title": "Seven Wonders of the Industrial World",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1006051",
+    "imdb": "tt0379142",
+    "tmdb": 6186
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

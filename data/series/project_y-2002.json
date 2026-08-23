@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_project_y_2002",
+  "title": "Project Y",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6087759"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

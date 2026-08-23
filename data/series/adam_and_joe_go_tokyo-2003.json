@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_adam_and_joe_go_tokyo_2003",
+  "title": "Adam and Joe Go Tokyo",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4680024",
+    "imdb": "tt0445863",
+    "tmdb": 5060
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

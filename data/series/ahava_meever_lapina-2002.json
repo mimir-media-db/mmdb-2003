@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ahava_meever_lapina_2002",
+  "title": "Ahava Me'ever Lapina",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16129592",
+    "imdb": "tt0404580",
+    "tmdb": 50993
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 270,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

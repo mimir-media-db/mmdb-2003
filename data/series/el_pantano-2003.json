@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_el_pantano_2003",
+  "title": "El pantano",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5826034",
+    "imdb": "tt0362361",
+    "tmdb": 71192
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

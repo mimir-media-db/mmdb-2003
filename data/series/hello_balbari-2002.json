@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_balbari_2002",
+  "title": "Hello! Balbari",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24863413"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 112,
+  "genres": [
+    "drama",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

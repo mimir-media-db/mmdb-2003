@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_strange_2003",
+  "title": "Strange",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2065658",
+    "imdb": "tt0312209",
+    "tmdb": 3873
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

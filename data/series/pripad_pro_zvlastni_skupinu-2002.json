@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_pripad_pro_zvlastni_skupinu_2002",
+  "title": "Prípad pro zvlástní skupinu",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12048204",
+    "imdb": "tt2339472",
+    "tmdb": 91897
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": []
+}

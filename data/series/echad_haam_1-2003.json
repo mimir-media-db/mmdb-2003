@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_echad_haam_1_2003",
+  "title": "Echad Ha'am 1",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q12403670",
+    "imdb": "tt1808764",
+    "tmdb": 66828
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_slings_and_arrows_2003",
+  "title": "Slings and Arrows",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7540694",
+    "imdb": "tt0387779",
+    "tmdb": 10851
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

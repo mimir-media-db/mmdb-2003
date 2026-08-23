@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gipfeltreffen_2003",
+  "title": "Gipfeltreffen",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1526518",
+    "imdb": "tt2492284",
+    "tmdb": 41078
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

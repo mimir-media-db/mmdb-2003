@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bajo_la_misma_piel_2003",
+  "title": "Bajo la misma piel",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1248433",
+    "imdb": "tt0368472",
+    "tmdb": 8332
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 95,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

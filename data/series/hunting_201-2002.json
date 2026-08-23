@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_hunting_201_2002",
+  "title": "Hunting 201",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5944878",
+    "imdb": "tt0482407"
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

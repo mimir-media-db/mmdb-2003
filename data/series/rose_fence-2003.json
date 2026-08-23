@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_rose_fence_2003",
+  "title": "Rose Fence",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12614455"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 113,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

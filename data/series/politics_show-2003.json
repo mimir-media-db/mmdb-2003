@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_politics_show_2003",
+  "title": "Politics Show",
+  "start_year": 2003,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7225177"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "GB"
+  ]
+}

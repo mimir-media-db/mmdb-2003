@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_the_80s_strikes_back_2003",
+  "title": "I Love the '80s Strikes Back",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5978310",
+    "imdb": "tt0383788",
+    "tmdb": 17052
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

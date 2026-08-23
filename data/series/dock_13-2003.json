@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dock_13_2003",
+  "title": "Dock 13",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3033459",
+    "imdb": "tt0354286",
+    "tmdb": 320287
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR",
+    "GA"
+  ]
+}

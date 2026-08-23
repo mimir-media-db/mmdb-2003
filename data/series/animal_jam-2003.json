@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_jam_2003",
+  "title": "Animal Jam",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4764828",
+    "imdb": "tt0338576",
+    "tmdb": 10470
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Family",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

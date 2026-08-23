@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_idols_2003",
+  "title": "Idols",
+  "start_year": 2003,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q12530",
+    "imdb": "tt0384743",
+    "tmdb": 2846
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 152,
+  "genres": [
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

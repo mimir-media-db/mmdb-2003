@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_chez_azaiez_2002",
+  "title": "Chez Azaïez",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2963159",
+    "imdb": "tt10462662"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TN"
+  ]
+}

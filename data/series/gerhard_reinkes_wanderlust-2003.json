@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gerhard_reinkes_wanderlust_2003",
+  "title": "Gerhard Reinke's Wanderlust",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5550749",
+    "imdb": "tt0358829",
+    "tmdb": 157
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

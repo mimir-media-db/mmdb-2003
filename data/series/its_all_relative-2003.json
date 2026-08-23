@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_its_all_relative_2003",
+  "title": "It's All Relative",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q332379",
+    "imdb": "tt0366034",
+    "tmdb": 2961
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_eve_2003",
+  "title": "Eve",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2066628",
+    "imdb": "tt0367379",
+    "tmdb": 1994
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 66,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_canterbury_tales_2003",
+  "title": "The Canterbury Tales",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7721220",
+    "imdb": "tt0353045",
+    "tmdb": 14098
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

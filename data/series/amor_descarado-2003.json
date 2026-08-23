@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_descarado_2003",
+  "title": "Amor Descarado",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2661287",
+    "imdb": "tt0382398",
+    "tmdb": 44575
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 126,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

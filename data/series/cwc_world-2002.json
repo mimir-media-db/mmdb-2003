@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_cwc_world_2002",
+  "title": "CWC World",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q32656750",
+    "imdb": "tt0397132",
+    "tmdb": 73050
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kommissarin_lucas_2003",
+  "title": "Kommissarin Lucas",
+  "start_year": 2003,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q1780226",
+    "imdb": "tt0907688",
+    "tmdb": 40627
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 35,
+  "genres": [
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

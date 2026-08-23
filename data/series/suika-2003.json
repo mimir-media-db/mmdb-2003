@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_suika_2003",
+  "title": "Suika",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7635433",
+    "imdb": "tt0396374",
+    "tmdb": 34192
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

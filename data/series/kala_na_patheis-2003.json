@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kala_na_patheis_2003",
+  "title": "Kala na patheis",
+  "start_year": 2003,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q109322969",
+    "imdb": "tt0383116",
+    "tmdb": 52391
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_westside_story_2003",
+  "title": "Westside Story",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15904350",
+    "imdb": "tt32799394",
+    "tmdb": 43038
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

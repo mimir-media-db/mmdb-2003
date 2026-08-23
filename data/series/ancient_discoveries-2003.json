@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ancient_discoveries_2003",
+  "title": "Ancient Discoveries",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q4752824",
+    "imdb": "tt1034360",
+    "tmdb": 31526
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 39,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

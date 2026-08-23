@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cycling_central_2002",
+  "title": "Cycling Central",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5198287"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "AU"
+  ]
+}

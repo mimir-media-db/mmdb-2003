@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_traffic_cops_2003",
+  "title": "Traffic Cops",
+  "start_year": 2003,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7832449",
+    "imdb": "tt3276004",
+    "tmdb": 6039
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 14,
+  "total_episodes": 105,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

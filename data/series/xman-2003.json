@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_xman_2003",
+  "title": "X-Man",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q485488",
+    "tmdb": 5707
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 178,
+  "genres": [
+    "variety show",
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_un_caso_di_coscienza_2003",
+  "title": "Un caso di coscienza",
+  "start_year": 2003,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2817260",
+    "imdb": "tt0357356",
+    "tmdb": 41151
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 30,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_treasure_raiders_2003",
+  "title": "Treasure Raiders",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16926443",
+    "imdb": "tt33054502",
+    "tmdb": 87801
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dos_chicos_de_cuidado_en_la_ciudad_2003",
+  "title": "Dos chicos de cuidado en la ciudad",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2918898",
+    "imdb": "tt0386179",
+    "tmdb": 317108
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 160,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

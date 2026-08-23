@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_my_big_fat_greek_life_2003",
+  "title": "My Big Fat Greek Life",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16954422",
+    "imdb": "tt0340256",
+    "tmdb": 6587
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

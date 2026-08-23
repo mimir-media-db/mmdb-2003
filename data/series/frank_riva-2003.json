@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_frank_riva_2003",
+  "title": "Frank Riva",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q284570",
+    "imdb": "tt0338608",
+    "tmdb": 52446
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

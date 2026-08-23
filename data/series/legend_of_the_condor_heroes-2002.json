@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_the_condor_heroes_2002",
+  "title": "The Legend of the Condor Heroes",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q700228",
+    "imdb": "tt1392709",
+    "tmdb": 31929
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 42,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_cowboy_u_2003",
+  "title": "Cowboy U",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5179562",
+    "imdb": "tt0400993",
+    "tmdb": 4905
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

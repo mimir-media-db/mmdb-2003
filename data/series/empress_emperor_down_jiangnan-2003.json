@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_empress_emperor_down_jiangnan_2003",
+  "title": "Empress, Emperor down Jiangnan",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11133778",
+    "imdb": "tt9680842"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

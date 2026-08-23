@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_de_taarten_van_abel_2003",
+  "title": "De Taarten Van Abel",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2104735",
+    "imdb": "tt11723516"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bobs_beach_2002",
+  "title": "Bob’s Beach",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q46661498",
+    "imdb": "tt0317178",
+    "tmdb": 289244
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 52,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "LU"
+  ]
+}

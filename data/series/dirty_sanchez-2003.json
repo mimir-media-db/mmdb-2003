@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dirty_sanchez_2003",
+  "title": "Dirty Sanchez",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1228269",
+    "imdb": "tt0380105",
+    "tmdb": 1630
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 37,
+  "genres": [
+    "Action",
+    "Animation",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

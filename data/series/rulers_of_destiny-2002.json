@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rulers_of_destiny_2002",
+  "title": "Rulers of Destiny",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q16362537",
+    "imdb": "tt2192162",
+    "tmdb": 59157
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 56,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "LV"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_telemonegal_2003",
+  "title": "TeleMonegal",
+  "start_year": 2003,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2887496",
+    "imdb": "tt0486689",
+    "tmdb": 60221
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "total_episodes": 328,
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

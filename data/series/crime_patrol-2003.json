@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_patrol_2003",
+  "title": "Crime Patrol",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5185206",
+    "imdb": "tt1921518",
+    "tmdb": 80793
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

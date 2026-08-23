@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_survivor_greece_2003",
+  "title": "Survivor Greece",
+  "start_year": 2003,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q7647286"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

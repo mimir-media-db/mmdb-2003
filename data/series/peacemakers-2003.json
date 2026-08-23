@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_peacemakers_2003",
+  "title": "Peacemakers",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3373811",
+    "imdb": "tt0353867",
+    "tmdb": 2915
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

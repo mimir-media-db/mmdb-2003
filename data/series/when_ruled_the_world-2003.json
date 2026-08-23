@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_when_ruled_the_world_2003",
+  "title": "When Ruled the World",
+  "start_year": 2003,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7992724",
+    "imdb": "tt0423525"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Biography",
+    "Comedy",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

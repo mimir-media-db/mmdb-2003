@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_luciana_y_nicolas_2003",
+  "title": "Luciana y Nicolás",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5982074",
+    "imdb": "tt0396339"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 120,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

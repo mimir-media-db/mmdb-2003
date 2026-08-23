@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_silverwing_2003",
+  "title": "Silverwing",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3011809",
+    "imdb": "tt0380955",
+    "tmdb": 14569
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mark_steel_lectures_2003",
+  "title": "The Mark Steel Lectures",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3209081",
+    "imdb": "tt0435976",
+    "tmdb": 13585
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

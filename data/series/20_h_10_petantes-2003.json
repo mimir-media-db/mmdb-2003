@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_20_h_10_petantes_2003",
+  "title": "20 h 10 pétantes",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2814730",
+    "imdb": "tt0379078",
+    "tmdb": 35797
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

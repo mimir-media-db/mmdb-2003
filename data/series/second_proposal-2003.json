@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_second_proposal_2003",
+  "title": "Second Proposal",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7215647",
+    "tmdb": 202659
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

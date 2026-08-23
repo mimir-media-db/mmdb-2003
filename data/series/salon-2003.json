@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_salon_2003",
+  "title": "The Salon",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7762118",
+    "imdb": "tt0375440",
+    "tmdb": 12252
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 32,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

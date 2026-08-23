@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_antiques_roadshow_2003",
+  "title": "America's Antiques Roadshow",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4775195",
+    "imdb": "tt0159847",
+    "tmdb": 33739
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 25,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cosita_rica_2003",
+  "title": "Cosita Rica",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5173953",
+    "imdb": "tt0400992",
+    "tmdb": 9419
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 271,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

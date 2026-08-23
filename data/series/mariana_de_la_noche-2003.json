@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mariana_de_la_noche_2003",
+  "title": "Mariana de la Noche",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q581279",
+    "imdb": "tt0373562",
+    "tmdb": 16684
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 135,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

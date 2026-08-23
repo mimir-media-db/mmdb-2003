@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_days_that_shook_the_world_2003",
+  "title": "Days That Shook the World",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5243347",
+    "imdb": "tt0389604",
+    "tmdb": 1298
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

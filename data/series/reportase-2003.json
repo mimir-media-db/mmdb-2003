@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reportase_2003",
+  "title": "Reportase",
+  "start_year": 2003,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q12508476"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "ID"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_solo_fur_schwarz_2003",
+  "title": "Solo für Schwarz",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15847909"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

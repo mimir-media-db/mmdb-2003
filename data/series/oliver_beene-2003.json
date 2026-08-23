@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_oliver_beene_2003",
+  "title": "Oliver Beene",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1467732",
+    "imdb": "tt0322660",
+    "tmdb": 4306
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}
