@@ -8,6 +8,12 @@
     "wikidata": "Q25560276",
     "tmdb": 35815
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 42
+  "last_updated": "2026-08-23",
+  "total_episodes": 42,
+  "genres": [
+    "historical fiction",
+    "drama television series",
+    "sageuk"
+  ],
+  "is_adult": false
 }

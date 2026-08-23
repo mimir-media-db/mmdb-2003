@@ -9,7 +9,13 @@
     "imdb": "tt0363048",
     "tmdb": 121886
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-04-14",
-  "runtime_minutes": 80
+  "runtime_minutes": 80,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

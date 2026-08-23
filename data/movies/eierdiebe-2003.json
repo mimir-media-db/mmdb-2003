@@ -9,7 +9,13 @@
     "imdb": "tt0297871",
     "tmdb": 72413
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-01-01",
-  "runtime_minutes": 84
+  "runtime_minutes": 84,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

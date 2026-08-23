@@ -9,6 +9,11 @@
     "imdb": "tt0396836",
     "tmdb": 1474283
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-05-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-05-22",
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,11 @@
     "imdb": "tt0312450",
     "tmdb": 36859
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-04-06",
-  "runtime_minutes": 110
+  "runtime_minutes": 110,
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false
 }

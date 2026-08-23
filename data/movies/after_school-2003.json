@@ -8,6 +8,10 @@
     "wikidata": "Q4690562",
     "imdb": "tt0381860"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-11-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-11-22",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,11 @@
     "wikidata": "Q11261385",
     "tmdb": 216047
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 18
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "genres": [
+    "drama television series",
+    "police television drama"
+  ],
+  "is_adult": false
 }

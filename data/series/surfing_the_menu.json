@@ -8,6 +8,11 @@
     "wikidata": "Q24807599",
     "imdb": "tt0839575"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 4
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Adventure",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

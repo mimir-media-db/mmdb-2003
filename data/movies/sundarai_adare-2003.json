@@ -8,6 +8,10 @@
     "wikidata": "Q30592658",
     "imdb": "tt33513684"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-01-31"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-01-31",
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false
 }

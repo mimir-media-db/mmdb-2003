@@ -9,7 +9,13 @@
     "imdb": "tt0386224",
     "tmdb": 2055
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 18
+  "total_episodes": 18,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false
 }

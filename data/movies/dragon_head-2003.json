@@ -9,6 +9,12 @@
     "imdb": "tt0384055",
     "tmdb": 36167
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-01-01",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

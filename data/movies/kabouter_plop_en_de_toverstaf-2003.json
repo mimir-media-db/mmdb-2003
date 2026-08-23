@@ -9,7 +9,12 @@
     "imdb": "tt0437272",
     "tmdb": 54348
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-01-01",
-  "runtime_minutes": 50
+  "runtime_minutes": 50,
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "is_adult": false
 }

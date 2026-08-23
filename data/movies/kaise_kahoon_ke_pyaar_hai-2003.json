@@ -9,6 +9,11 @@
     "imdb": "tt0366658",
     "tmdb": 950077
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-01-01",
+  "genres": [
+    "Crime",
+    "Romance"
+  ],
+  "is_adult": false
 }

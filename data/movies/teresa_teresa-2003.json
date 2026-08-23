@@ -8,7 +8,11 @@
     "wikidata": "Q86367887",
     "imdb": "tt0403592"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2003-09-29",
-  "runtime_minutes": 97
+  "runtime_minutes": 97,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

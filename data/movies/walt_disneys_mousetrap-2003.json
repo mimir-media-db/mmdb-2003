@@ -9,6 +9,12 @@
     "imdb": "tt0446404",
     "tmdb": 1642955
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-01-01",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

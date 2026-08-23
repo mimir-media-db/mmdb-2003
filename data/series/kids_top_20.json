@@ -8,6 +8,10 @@
     "wikidata": "Q2355681",
     "imdb": "tt0481981"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 14
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

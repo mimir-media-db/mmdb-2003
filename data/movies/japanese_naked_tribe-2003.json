@@ -8,6 +8,10 @@
     "wikidata": "Q11506084",
     "tmdb": 1064191
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-01-01",
+  "genres": [
+    "yakuza film"
+  ],
+  "is_adult": false
 }

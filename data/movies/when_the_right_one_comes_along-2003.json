@@ -9,6 +9,10 @@
     "imdb": "tt0387681",
     "tmdb": 231496
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2003-09-23"
+  "last_updated": "2026-08-23",
+  "release_date": "2003-09-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }
