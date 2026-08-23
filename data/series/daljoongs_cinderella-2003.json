@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_daljoongs_cinderella_2003",
+  "title": "Dal-Joong's Cinderella",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12963104",
+    "imdb": "tt33339006",
+    "tmdb": 270705
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

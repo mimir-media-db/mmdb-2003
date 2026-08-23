@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_odd_detective_2003",
+  "title": "Odd Detective",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11261385",
+    "tmdb": 216047
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "genres": [
+    "drama television series",
+    "police television drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

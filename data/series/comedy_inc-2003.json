@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_inc_2003",
+  "title": "Comedy Inc.",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2985165",
+    "imdb": "tt0352046",
+    "tmdb": 3049
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 96,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

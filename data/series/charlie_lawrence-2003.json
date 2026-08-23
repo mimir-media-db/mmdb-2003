@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_charlie_lawrence_2003",
+  "title": "Charlie Lawrence",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5085137",
+    "imdb": "tt0338588",
+    "tmdb": 26530
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_valen_tv_2003",
+  "title": "Valen TV",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7910627",
+    "imdb": "tt1008600",
+    "tmdb": 20233
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_gift_2003",
+  "title": "Wedding Gift",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25560416"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

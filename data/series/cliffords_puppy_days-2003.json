@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_cliffords_puppy_days_2003",
+  "title": "Clifford's Puppy Days",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2929570",
+    "imdb": "tt0377156",
+    "tmdb": 3209
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 63,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

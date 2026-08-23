@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mulheres_apaixonadas_2003",
+  "title": "Mulheres Apaixonadas",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2475229",
+    "imdb": "tt0358326",
+    "tmdb": 20875
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 203,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

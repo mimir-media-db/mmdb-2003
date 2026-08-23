@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_mythbusters_2003",
+  "title": "MythBusters",
+  "start_year": 2003,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q486844",
+    "imdb": "tt0383126",
+    "tmdb": 1428
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 14,
+  "total_episodes": 173,
+  "genres": [
+    "Documentary",
+    "Mystery",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "US"
+  ]
+}

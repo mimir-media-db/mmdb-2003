@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_flying_daggers_2003",
+  "title": "Flying Daggers",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5230852",
+    "imdb": "tt1433253",
+    "tmdb": 9149
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 43,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

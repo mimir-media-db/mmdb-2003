@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_countdown_with_keith_olbermann_2003",
+  "title": "Countdown with Keith Olbermann",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q846693",
+    "imdb": "tt0430833",
+    "tmdb": 567
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_room_raiders_2003",
+  "title": "Room Raiders",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q569491",
+    "imdb": "tt0395409",
+    "tmdb": 640
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "genres": [
+    "Comedy",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

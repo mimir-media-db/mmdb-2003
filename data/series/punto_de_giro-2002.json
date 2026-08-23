@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_punto_de_giro_2002",
+  "title": "Punto de giro",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16623433"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 100,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

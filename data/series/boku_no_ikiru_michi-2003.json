@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_boku_no_ikiru_michi_2003",
+  "title": "Boku no Ikiru Michi",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3585977",
+    "tmdb": 35306
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

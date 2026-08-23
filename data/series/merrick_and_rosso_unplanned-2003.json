@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_merrick_and_rosso_unplanned_2003",
+  "title": "Merrick and Rosso Unplanned",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q6820095",
+    "imdb": "tt0379647",
+    "tmdb": 15557
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 38,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

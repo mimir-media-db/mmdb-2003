@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_k3_kripo_hamburg_2003",
+  "title": "K3 – Kripo Hamburg",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1718342",
+    "imdb": "tt0907824"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

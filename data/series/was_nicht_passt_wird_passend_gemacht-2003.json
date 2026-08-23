@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_was_nicht_passt_wird_passend_gemacht_2003",
+  "title": "Was nicht passt, wird passend gemacht",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q992020",
+    "imdb": "tt0376448",
+    "tmdb": 40716
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

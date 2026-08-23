@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_scent_of_a_man_2003",
+  "title": "Scent of a Man",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12970766",
+    "imdb": "tt1630165",
+    "tmdb": 26119
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

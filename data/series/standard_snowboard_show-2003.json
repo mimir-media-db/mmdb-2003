@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_standard_snowboard_show_2003",
+  "title": "The Standard Snowboard Show",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7766226",
+    "imdb": "tt0398570",
+    "tmdb": 41534
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

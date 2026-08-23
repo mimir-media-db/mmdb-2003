@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_zone_stad_2002",
+  "title": "Zone Stad",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2468112",
+    "imdb": "tt0379685",
+    "tmdb": 8318
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 104,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_bean_chaff_of_my_life_2003",
+  "title": "The Bean Chaff of My Life",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16187635"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

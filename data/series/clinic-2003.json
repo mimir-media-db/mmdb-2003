@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_clinic_2003",
+  "title": "The Clinic",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7723411",
+    "imdb": "tt0383087",
+    "tmdb": 5308
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 66,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IE"
+  ]
+}

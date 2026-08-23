@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_soundstage_2002",
+  "title": "Soundstage",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128789590",
+    "imdb": "tt0421459",
+    "tmdb": 2922
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

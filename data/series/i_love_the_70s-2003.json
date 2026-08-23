@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_the_70s_2003",
+  "title": "I Love the '70s",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5978297",
+    "imdb": "tt0377192",
+    "tmdb": 6894
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

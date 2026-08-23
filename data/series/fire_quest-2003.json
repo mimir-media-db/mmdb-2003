@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_quest_2003",
+  "title": "Fire Quest",
+  "start_year": 2003,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3232377",
+    "imdb": "tt0381749"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FR"
+  ]
+}

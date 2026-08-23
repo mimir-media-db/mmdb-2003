@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_just_for_laughs_2003",
+  "title": "Just for Laughs",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6316624",
+    "imdb": "tt1020192"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

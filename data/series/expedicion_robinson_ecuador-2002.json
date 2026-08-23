@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_expedicion_robinson_ecuador_2002",
+  "title": "Expedición Robinson Ecuador",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5420873"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EC"
+  ]
+}

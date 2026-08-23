@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_argon_2003",
+  "title": "Argon",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20651876"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

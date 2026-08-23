@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_last_detective_2003",
+  "title": "The Last Detective",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2017623",
+    "imdb": "tt0312895",
+    "tmdb": 19880
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 17,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

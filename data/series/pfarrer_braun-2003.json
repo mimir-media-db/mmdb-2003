@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_pfarrer_braun_2003",
+  "title": "Pfarrer Braun",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1644497",
+    "imdb": "tt0891405",
+    "tmdb": 40689
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

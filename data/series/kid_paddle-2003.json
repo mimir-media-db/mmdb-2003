@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_kid_paddle_2003",
+  "title": "Kid Paddle",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16648350",
+    "imdb": "tt0414746",
+    "tmdb": 9690
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 103,
+  "genres": [
+    "Action",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FR"
+  ]
+}

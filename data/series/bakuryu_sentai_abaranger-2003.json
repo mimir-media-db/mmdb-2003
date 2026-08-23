@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bakuryu_sentai_abaranger_2003",
+  "title": "Bakuryū Sentai Abaranger",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1193356",
+    "imdb": "tt0356228",
+    "tmdb": 5281
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 50,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_star_search_2003",
+  "title": "Star Search",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58981910",
+    "imdb": "tt0448195"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

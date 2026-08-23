@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_angel_de_la_guarda_2003",
+  "title": "Ángel de la guarda",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1248227",
+    "imdb": "tt0380849"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 122,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

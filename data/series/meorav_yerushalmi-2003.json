@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_meorav_yerushalmi_2003",
+  "title": "Meorav Yerushalmi",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16132886",
+    "imdb": "tt0380126",
+    "tmdb": 50974
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 38,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

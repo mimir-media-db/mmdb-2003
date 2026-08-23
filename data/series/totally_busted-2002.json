@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_totally_busted_2002",
+  "title": "Totally Busted",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7828183",
+    "imdb": "tt0381816",
+    "tmdb": 18459
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

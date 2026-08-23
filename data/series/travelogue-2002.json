@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_travelogue_2002",
+  "title": "Travelogue",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7836090",
+    "imdb": "tt1794645",
+    "tmdb": 33855
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

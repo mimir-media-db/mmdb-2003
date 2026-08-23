@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_diamond_girl_2003",
+  "title": "Diamond Girl",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11316987",
+    "imdb": "tt1315234",
+    "tmdb": 36590
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

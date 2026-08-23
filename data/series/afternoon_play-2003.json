@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_afternoon_play_2003",
+  "title": "The Afternoon Play",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7712822",
+    "imdb": "tt0350386",
+    "tmdb": 18337
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 25,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

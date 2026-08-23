@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ncis_2003",
+  "title": "NCIS",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4525",
+    "imdb": "tt0364845",
+    "tmdb": 4614
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 23,
+  "total_episodes": 507,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

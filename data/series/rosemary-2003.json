@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_rosemary_2003",
+  "title": "Rosemary",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12970146",
+    "tmdb": 36455
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

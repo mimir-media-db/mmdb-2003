@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_nicht_ohne_meinen_anwalt_2003",
+  "title": "Nicht ohne meinen Anwalt",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62889984",
+    "imdb": "tt0370181",
+    "tmdb": 62292
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_camera_cafe_2003",
+  "title": "Camera Café",
+  "start_year": 2003,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17175515",
+    "imdb": "tt0831821",
+    "tmdb": 63809
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 1769,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

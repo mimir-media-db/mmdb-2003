@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ang_tanging_ina_2003",
+  "title": "Ang Tanging Ina",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4761878",
+    "imdb": "tt0368323",
+    "tmdb": 253714
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

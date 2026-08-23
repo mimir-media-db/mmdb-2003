@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_skin_2003",
+  "title": "Skin",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q950686",
+    "imdb": "tt0364008",
+    "tmdb": 10488
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

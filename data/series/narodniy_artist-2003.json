@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_narodniy_artist_2003",
+  "title": "Narodniy Artist",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4313301",
+    "imdb": "tt1245431",
+    "tmdb": 205396
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

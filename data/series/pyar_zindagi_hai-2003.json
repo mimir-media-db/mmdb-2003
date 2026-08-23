@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_pyar_zindagi_hai_2003",
+  "title": "Pyar Zindagi Hai",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7262866"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "stand-up comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

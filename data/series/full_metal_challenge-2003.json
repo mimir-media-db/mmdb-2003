@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_full_metal_challenge_2003",
+  "title": "Full Metal Challenge",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5508088",
+    "imdb": "tt0346272",
+    "tmdb": 6368
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_kleise_ta_matia_2002",
+  "title": "Kleise ta matia",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12879109",
+    "imdb": "tt0358852",
+    "tmdb": 51081
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 31,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

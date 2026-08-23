@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_nikad_izvini_2003",
+  "title": "Nikad izvini",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1564206",
+    "imdb": "tt1160683"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_line_of_fire_2003",
+  "title": "Line of Fire",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3241489",
+    "imdb": "tt0361200",
+    "tmdb": 844
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_chocolate_com_pimenta_2003",
+  "title": "Chocolate com Pimenta",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2630218",
+    "imdb": "tt0380096",
+    "tmdb": 17674
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 209,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

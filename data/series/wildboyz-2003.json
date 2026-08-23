@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_wildboyz_2003",
+  "title": "Wildboyz",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1156921",
+    "imdb": "tt0389701",
+    "tmdb": 20
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

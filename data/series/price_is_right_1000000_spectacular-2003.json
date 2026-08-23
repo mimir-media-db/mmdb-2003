@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_price_is_right_1000000_spectacular_2003",
+  "title": "The Price Is Right $1,000,000 Spectacular",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q120485823",
+    "imdb": "tt0363362",
+    "tmdb": 135220
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

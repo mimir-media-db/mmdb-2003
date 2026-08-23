@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_thats_so_raven_2003",
+  "title": "That's So Raven",
+  "start_year": 2003,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q460427",
+    "imdb": "tt0300865",
+    "tmdb": 4602
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 100,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

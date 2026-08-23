@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_last_comic_standing_2003",
+  "title": "Last Comic Standing",
+  "start_year": 2003,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2449514",
+    "imdb": "tt0364829",
+    "tmdb": 1699
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "total_episodes": 76,
+  "genres": [
+    "Comedy",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fargas_2003",
+  "title": "Fargas",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3066837",
+    "imdb": "tt0386934",
+    "tmdb": 96166
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 5,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

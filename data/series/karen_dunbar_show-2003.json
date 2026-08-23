@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_karen_dunbar_show_2003",
+  "title": "The Karen Dunbar Show",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7743988",
+    "imdb": "tt0357379",
+    "tmdb": 12048
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

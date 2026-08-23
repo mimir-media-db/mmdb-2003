@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_land_of_wine_2003",
+  "title": "Land of Wine",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6484182",
+    "imdb": "tt19161350",
+    "tmdb": 5223
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

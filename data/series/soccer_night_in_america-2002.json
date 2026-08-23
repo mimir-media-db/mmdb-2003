@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_soccer_night_in_america_2002",
+  "title": "Soccer Night in America",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7550317"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

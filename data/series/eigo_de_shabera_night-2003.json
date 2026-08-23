@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_eigo_de_shabera_night_2003",
+  "title": "Eigo de Shabera Night",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5349179",
+    "imdb": "tt0420393",
+    "tmdb": 3101
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

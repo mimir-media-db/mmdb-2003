@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_outdoors_with_geoff_2002",
+  "title": "Outdoors With Geoff",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7111951"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

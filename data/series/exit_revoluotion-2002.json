@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_exit_revoluotion_2002",
+  "title": "Exit Revoluotion",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q16128512",
+    "imdb": "tt0363330"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 500,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

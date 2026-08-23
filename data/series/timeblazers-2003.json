@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_timeblazers_2003",
+  "title": "Timeblazers",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3231539",
+    "imdb": "tt0373636",
+    "tmdb": 21904
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_femenino_masculino_2003",
+  "title": "Femenino masculino",
+  "start_year": 2003,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5858622",
+    "imdb": "tt0354294"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 46,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_big_bite_2003",
+  "title": "Big Bite",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4905124",
+    "imdb": "tt0364796",
+    "tmdb": 10578
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

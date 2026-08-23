@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_it_might_be_you_2003",
+  "title": "It Might Be You",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12965081",
+    "imdb": "tt0431533",
+    "tmdb": 19875
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 263,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

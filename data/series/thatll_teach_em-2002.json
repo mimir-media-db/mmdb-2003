@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_thatll_teach_em_2002",
+  "title": "That'll Teach 'Em",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7710863"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 15,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

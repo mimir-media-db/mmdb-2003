@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pow_2003",
+  "title": "P.O.W.",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7117054",
+    "imdb": "tt0383130",
+    "tmdb": 20468
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

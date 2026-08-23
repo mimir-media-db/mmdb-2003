@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_missing_2003",
+  "title": "Missing",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q584293",
+    "imdb": "tt0373474",
+    "tmdb": 45388
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 55,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

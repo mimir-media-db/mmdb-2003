@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_eretz_nehederet_2003",
+  "title": "Eretz Nehederet",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2910877",
+    "imdb": "tt0385411",
+    "tmdb": 9179
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 19,
+  "total_episodes": 358,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_family_business_2003",
+  "title": "Family Business",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2897917",
+    "imdb": "tt0354293",
+    "tmdb": 11134
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 37,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

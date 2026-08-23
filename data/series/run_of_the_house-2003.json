@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_run_of_the_house_2003",
+  "title": "Run of the House",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3942684",
+    "imdb": "tt0363368",
+    "tmdb": 6678
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 19,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ashshatat_2002",
+  "title": "Ash-Shatat",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q292431",
+    "imdb": "tt1961773"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 29,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SY"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_luna_negra_2003",
+  "title": "Luna negra",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5984835",
+    "imdb": "tt0382450",
+    "tmdb": 107054
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 194,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

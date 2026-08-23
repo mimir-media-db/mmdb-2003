@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_sofia_dame_tiempo_2003",
+  "title": "Sofía dame tiempo",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2661291",
+    "imdb": "tt0356299",
+    "tmdb": 208625
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 130,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

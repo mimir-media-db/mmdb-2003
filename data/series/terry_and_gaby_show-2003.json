@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_terry_and_gaby_show_2003",
+  "title": "The Terry and Gaby Show",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7768540",
+    "imdb": "tt0369176",
+    "tmdb": 2477
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 200,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

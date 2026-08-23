@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lenen_partner_2003",
+  "title": "Lenßen & Partner",
+  "start_year": 2003,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q383443",
+    "imdb": "tt0355103",
+    "tmdb": 82836
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 1303,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

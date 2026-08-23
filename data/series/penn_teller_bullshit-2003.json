@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_penn_teller_bullshit_2003",
+  "title": "Penn & Teller: Bullshit!",
+  "start_year": 2003,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1004608",
+    "imdb": "tt0346369",
+    "tmdb": 243
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 89,
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

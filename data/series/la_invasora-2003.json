@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_la_invasora_2003",
+  "title": "La Invasora",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2881914",
+    "imdb": "tt0401947",
+    "tmdb": 298909
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 150,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

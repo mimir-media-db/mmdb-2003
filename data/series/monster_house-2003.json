@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_monster_house_2003",
+  "title": "Monster House",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1945324",
+    "imdb": "tt0364842",
+    "tmdb": 2514
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

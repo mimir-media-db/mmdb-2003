@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_day_planner_2003",
+  "title": "Day Planner",
+  "start_year": 2003,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5242864"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

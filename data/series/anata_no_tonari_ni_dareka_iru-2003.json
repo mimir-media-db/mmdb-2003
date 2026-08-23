@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_anata_no_tonari_ni_dareka_iru_2003",
+  "title": "Anata no Tonari ni Dareka Iru",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q11257962",
+    "imdb": "tt0433490",
+    "tmdb": 36296
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kodu_keset_linna_2002",
+  "title": "Kodu keset linna",
+  "start_year": 2002,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12367150",
+    "imdb": "tt0439374"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EE"
+  ]
+}

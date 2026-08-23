@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lines_of_fate_2003",
+  "title": "Lines of Fate",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4262159",
+    "imdb": "tt2860404",
+    "tmdb": 156008
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_najib_en_julia_2003",
+  "title": "Najib en Julia",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2004983",
+    "imdb": "tt0338627",
+    "tmdb": 38274
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

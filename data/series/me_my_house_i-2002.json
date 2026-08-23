@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_me_my_house_i_2002",
+  "title": "Me, My House & I",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16951106"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 52,
+  "countries": [
+    "CA"
+  ]
+}

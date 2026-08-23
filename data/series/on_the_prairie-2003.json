@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_prairie_2003",
+  "title": "On the Prairie",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12614891",
+    "tmdb": 21815
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 52,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

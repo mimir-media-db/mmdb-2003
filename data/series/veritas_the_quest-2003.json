@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_veritas_the_quest_2003",
+  "title": "Veritas: The Quest",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2530070",
+    "imdb": "tt0324431",
+    "tmdb": 5114
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

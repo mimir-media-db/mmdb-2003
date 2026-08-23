@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_while_you_were_dreaming_2003",
+  "title": "While You Were Dreaming",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16220402"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 168,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

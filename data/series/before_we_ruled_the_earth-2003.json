@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_before_we_ruled_the_earth_2003",
+  "title": "Before We Ruled the Earth",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4880311",
+    "imdb": "tt0298673",
+    "tmdb": 35548
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

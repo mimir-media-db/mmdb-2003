@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_battlestar_galactica_2003",
+  "title": "Battlestar Galactica",
+  "start_year": 2003,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q237072",
+    "imdb": "tt0407362",
+    "tmdb": 1972
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 75,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

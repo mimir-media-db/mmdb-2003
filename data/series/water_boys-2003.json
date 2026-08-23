@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_water_boys_2003",
+  "title": "Water Boys",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q851508",
+    "tmdb": 4751
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "drama television series",
+    "romantic comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

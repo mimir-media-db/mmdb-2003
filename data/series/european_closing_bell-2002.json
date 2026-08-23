@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_european_closing_bell_2002",
+  "title": "European Closing Bell",
+  "start_year": 2002,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5412383",
+    "imdb": "tt2272081"
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

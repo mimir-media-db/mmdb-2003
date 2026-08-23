@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dae_jang_geum_2003",
+  "title": "Dae Jang Geum",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q133898",
+    "imdb": "tt0409546",
+    "tmdb": 333
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 54,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

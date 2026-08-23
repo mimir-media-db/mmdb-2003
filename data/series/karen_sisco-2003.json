@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_karen_sisco_2003",
+  "title": "Karen Sisco",
+  "start_year": 2003,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q509654",
+    "imdb": "tt0364823",
+    "tmdb": 1131
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

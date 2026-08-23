@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_qi_2003",
+  "title": "QI",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1286698",
+    "imdb": "tt0380136",
+    "tmdb": 1554
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "total_episodes": 327,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

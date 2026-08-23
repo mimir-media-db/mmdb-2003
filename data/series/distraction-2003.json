@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_distraction_2003",
+  "title": "Distraction",
+  "start_year": 2003,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1088794",
+    "imdb": "tt0385401"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

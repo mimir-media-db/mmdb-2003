@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_team_spirit_de_serie_2003",
+  "title": "Team Spirit: De Serie",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1847017",
+    "imdb": "tt0313134",
+    "tmdb": 52101
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

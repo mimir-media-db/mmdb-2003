@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wheeler_dealers_2003",
+  "title": "Wheeler Dealers",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q782654",
+    "imdb": "tt1549918",
+    "tmdb": 10710
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 18,
+  "total_episodes": 238,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

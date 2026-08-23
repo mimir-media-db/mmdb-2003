@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_alarm_fur_cobra_11_einsatz_fur_team_2_2003",
+  "title": "Alarm für Cobra 11 – Einsatz für Team 2",
+  "start_year": 2003,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q868120",
+    "imdb": "tt0415399",
+    "tmdb": 63202
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 11,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

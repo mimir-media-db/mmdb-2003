@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_accion_2003",
+  "title": "Accion",
+  "start_year": 2003,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4672634",
+    "imdb": "tt0365973"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

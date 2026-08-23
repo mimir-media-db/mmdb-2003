@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_aqui_no_hay_quien_viva_2003",
+  "title": "Aquí no hay quien viva",
+  "start_year": 2003,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4846058",
+    "imdb": "tt0381733",
+    "tmdb": 2282
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 90,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}
