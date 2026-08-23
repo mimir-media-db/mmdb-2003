@@ -17,5 +17,13 @@
     "Romance",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "DE",
+    "FR",
+    "GB",
+    "US",
+    "VN"
+  ]
 }

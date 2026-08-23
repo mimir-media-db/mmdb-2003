@@ -15,5 +15,10 @@
     "cyberpunk",
     "parody film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "RU",
+    "US"
+  ]
 }

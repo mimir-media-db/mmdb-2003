@@ -16,5 +16,15 @@
     "Crime",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "DK",
+    "FI",
+    "FR",
+    "GB",
+    "IT",
+    "NO",
+    "SE"
+  ]
 }
